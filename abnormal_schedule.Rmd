@@ -1,0 +1,382 @@
+---
+title: "Abnormal Schedule Fall 2020"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+   css: style.css
+   toc: true
+   toc_float: true
+   toc_depth: 6
+   number_sections: false    # if true, section labels render
+   config:
+      toc:
+        scroll_highlight: yes
+        before: |
+          <li><a href="./">Abnormal Psychology Fall 2020 schedule</a></li>
+        after: |
+          <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+      toolbar:
+        position: fixed
+  #    download: [ "epub"]  #Not sure how to set up for epub yet
+      search: yes
+bibliography: [Abnormal_references.bib]
+biblio-style: apalike
+link-citations: yes
+
+description: "This is a minimal example of using the rmarkdown package for abnormal psychology"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Getting started {#getStart} 
+
+## Course Layout
+
+Read/watch some things, write some things.  You will save these written bits of work somewhere that can be shared. Google docs is probably the easiest.  Microsoft onedrive is another.  
+
+### ungrading and self reflections
+
+Rubrics and point chasing are harmful.  Or at worst they don't foster good thinking and education.  I am realizing that using them reduce anxiety in me, the instructor, because I don't have to actually consider the student.  
+
+
+####  Communication
+
+##### don't use Canvas as email
+
+##### Use disucssion boards in slack
+
+First of all, you may have some questions about Slack.
+
+It's basically a social media platform where you can participate in teams by having threaded chats or sharing of documents.It can be used synchronous synchronously or asynchronously.
+
+The main reason I'm using it is simply that canvas does not have the same capabilities. It also requires a lot more work for me as the teacher to manage. Slack appears to be a little bit easier in that respect. 
+
+Secondly, you may want to know how to sign up for our slack Channel.  [You will need to use this invitation:](https://join.slack.com/t/abnormalpsych-group/shared_invite/zt-ht9aeioj-juBurild2PBRtpkQ_CR8Lw) (Links to an external site.)
+
+A very important part about signing up for slack is that you need to use the email that you used to sign up for classes at North Seattle. The reason is that this will be a relatively easy way for me to make sure that the students enrolled in the class are able to access our slack Channel, and that random people cannot.
+
+Once you have signed up for slack, spend some time filling out your profile make sure to make your profile picture and actual picture of you. And I believe every time from then on should you sign into slack, you'll see our abnormal psychology Channel.
+
+ 
+The last thing about slack is that when it comes to sharing documents, you may need to add permissions for slack to interact with your word processing program. For instance I use Google Docs a lot and I have already added Google Docs as an app that is recognized by Slack.  Let me know which word processing program you use oh, it has to be a cloud-based, and I think I can add that to slack.  So far I've added Google Docs and Microsoft onedrive (both, I believe are free to use by North Seattle students.)
+
+##### Canvas will be used lightly.  First week disucssions and introductions, a place to find this schedule, and a way for me to quickly send annoucements. 
+
+# Week 1 {#Week1} 
+
+## What do you want to focus on
+Think about what you want to learn:
+
+Some topics in the past that I have taught include the following and you may find them useful starting points to think about your own process for this quarter.
+
+1. Critical thinking
+2. Technical writing new paragraph finding published research
+3. Evaluating the quality of published articles, for example contrasting popular sources from academic or scholarly.
+4. General introduction to the content of psychology
+5. Theories within psychology
+6. Criticisms of psychology
+7. Limits of psychology
+8. Philosophy of science
+9. Working within groups
+10. Psychology as it relates to other disciplines
+11. Etiology of Abnormal psychology (causes)
+
+Any and all of these above could qualify.
+
+The goal here is for us to collectively think of it about what you'd like to learn in our time together.
+
+This list is not exhaustive. There's some things that you may want to focus on or add. Perhaps this might include cognitive dissonance about being a white person and being told that you've got white privilege. What are some ways one can think about opening up to that feedback?
+
+Although I have some expert content knowledge in psychology, it's not exhaustive. I don't know everything, I have my own biases and that there may be things you'd like to learn about and practice and I would be open to hearing those things as well as how to incorporate it into the overall class. 
+
+## Read the following
+
+1. [The syllabus](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE)
+
+2. [Miller's law of communication (in the syllabus)](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#heading=h.exo9wouxy9qk)
+
+3. [George Orwell, Politics and the English Language, 1946 (in the syllabus)](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#heading=h.x9ksgtnaprc6)
+
+4. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#heading=h.9yazjukrhlar)
+
+5. [Textbook, Module 1: What is Abnormal Psychology?](https://opentext.wsu.edu/abnormal-psych/chapter/module-1-what-is-abnormal-psychology/){target="_blank"}
+
+6. Dictionary/Wikipedia definitions on: 
+
+      *Anthropomorphize
+ 
+      *Ethnocentrism
+
+7. watch intro lecture on epistemology
+
+[![Epistemology 8min](./images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
+
+8. **Skim from page 2**, sub heading "The Theory of Knowledge"** of the article: An introduction to Stephen C. Pepper's
+philosophical system via
+_World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in syllabus) ](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#heading=h.qhqg1klgu9f)
+
+9. Watch two vids on Ontology, essentially a review of the World hypotheses reading above:
+
+[![Ontology 1 7 min](./images/Ontology_Mech_Organ.png){width="40%"}](https://youtu.be/_7hkv6O-nBY "Ontology 1"){target="_blank"}
+
+[![Ontology 1 7 min](./images/Ontology_form_context.png){width="40%"}](https://www.youtube.com/watch?v=gbdqJ0ZGvLM "Ontology 2"){target="_blank"}
+
+10. Read about "stereotype threat".  Not stereotypes.  There is a difference.  You'll need to find a source or two on your own.  
+
+
+## Do the following
+
+1. Introduce yourself in canvas
+
+2. In Slack, post something about what interests you about abnormal psychology
+
+3. write a post responding to the following prompts
+
+    what is your process for thinking clearly?
+
+    How do you know something is true?
+
+6. Share your ideas about what you want to learn in the Canvas small group
+
+
+You may find that using [Google Docs](http://drive.google.com) is a very good cloud-based place to store your writing.
+
+There are other places for you to do this. Microsoft one drive, Dropbox, I would just recommend to not simply save them on your computer in the event that some crash happens.
+
+
+The idea is to be doing weekly writing about the things that we read and the prompts that I give you and then you're going to share that information within slack and it's going to be there short of our class repository for this  information.
+
+# Week 2 {#Week2} 
+
+
+## Read the following
+
+* [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"}
+
+* [Diathesis stress video youtube](https://www.youtube.com/watch?v=1MaaORgCHvc){target="_blank"}
+
+* @efran_defining_2007 (to obtain this article, you'll need to walk through the steps found in the [Using the Library section](#useLibrary) --in particular the [Periodical Locator](#PeriodicalLocator))
+
+* Szazs @szasz_myth_1960  [Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
+
+* americanization @watters_americanization_2010
+
+
+
+```{block, type='blueBackground'}
+
+Just a test of the emergency broad cast
+```
+
+
+After reading the above...
+
+## Do the following
+
+1. synthesisze @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010
+
+2. make your written work sharable to anyone with the link and link to it in the slack channel **Week 2 Synthesis**
+
+3. Read a few other students and make some comments on their post. When you hover your mouse over a person's post, you should see a little floating menu.  One of the icons allows you to reply. It makes a side thread. 
+
+# Week 3  Still under construction {#Week3} 
+
+
+## Read the following
+
+* [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
+
+* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019
+
+* Spitting in client’s soup, an article about language, concepts, personal constructs  @efran_spitting_2015
+
+* PDM @lingiardi_psychodynamic_2015  Found here:[needs link](local.target.co)
+
+* Epidemiology youtube [will link soon](local.target.co)
+
+```{block,type='instructorNote'}
+consider having read brian holt's excerpts from pdm2
+```
+
+* Strengths of DSM vs other schemes.  
+
+
+After reading the above...
+
+## Do the following
+
+1. Write some on which psychology Model from ch2 resonates with you and your experiences?
+
+2. Write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"
+
+
+# Appendix
+
+
+## Using the library {#useLibrary} 
+
+The library has set up a simple library guide for our class.  You can find it here: [Abnormal Psychology library guide](https://libguides.northseattle.edu/psych220). I
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note: Don't pay for articles</span>
+
+One important word of advice is to never pay for a scholarly article. If you go online and use Google, or even Google Scholar to find online sources, you may be directed to the publication that will charge you a large amount of money to access just one article.  So don’t do that.
+
+Generally there are ways to get articles through our library, so don't pay for articles.
+```
+
+
+To get started with our readings, you'll need to use our Library (online, of course) to obtain many of the articles.  
+
+Finding journal articles is a skill that gets better with practice.  This happens to be why Librarians are so helpful.  They've actually been trained so if you can't find an article, it's okay to ask librarians for help.  
+
+In fact, here is how you can [get help from North Seattle's library staff](https://libguides.northseattle.edu/welcome/askus). 
+
+
+
+### Relationship of an article to its Journal
+
+Using hierarchies helps us organize information. Journal articles, or for that matter the file directories on your computer, work somewhat like an address for a person's home. There are several different parts that give us information to track down and locate whatever it is we're looking for, be it a computer file, or Journal article. Basically, a journal article  has the following components, some of which may be familiar to you :
+
+      Database (of periodicals)
+        Periodical (eg., magazine, newspaper, scholarly journal)
+         Year (of publication)
+           Volume Number
+            Volumne Issue number
+             Page Number (optional, often unnecessary)
+               Article Title
+                  Author
+
+So, to find an article, you'll need to know the parts above.  When you are given a list of references, or citations, nearly all of the information needed above is given to  you.  What is not given, or at least is done implicitly with web searches, is access to the top part, the database.  
+
+#### Here is a typical citation:
+
+>Author(s). (year of pub). "Article Title." <span class='underline'>Periodical title</span>. Volume Number (issue number).
+
+The information in a citation isn't presented in the same hierarchy as above, but all of the necessary parts are there.  
+
+Here is an example citation (reference) for something we may read.  Can you identify the periodical?
+
+>Jay Efran, Michael Lukens, Mitchell Greene. 2007. “Defining Psychotherapy: The Last 25 Years Have Taught Us That It’s Neither Art nor Science.” <span class='underline'>Psychotherapy Networker</span> 31 (2). 
+
+Most of the items in the list above are self-explanatory. I want to focus a bit about periodicals.
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on formatting citations: underlining publication titles</span>
+
+In print, publication titles are *italicized*.  I have a very hard time noticing that subtle font.  
+
+When you submit a written manuscript for printing, publication titles are <span style='text-decoration: underline'>underlined</span> because traditionally manuscripts were typed with typewriters, and to be able to type italicized words required an entire additional alphabet represented in the hammers.  So, underlining was how you could emphasize a word, and the printer--a physical person--could notice the author's formatting intent and correctly publish the final product in italics. 
+
+It's a bit different now with our computers, obviously.  Still, I have a hard time seeing italicized words and will occasionally use underline. 
+
+So, sometimes I'll underline pub titles, sometimes I'll italicize. I have no rule on this.  I am chaos manifested.  Beware. 
+```
+
+#### Periodicals
+
+These are just the names of the major publication. _The New York Times_, is colloquially known as a newspaper but technically it is a periodical. <span class='underline'>The Journal of Abnormal Psychology</span> is also a periodical. 
+
+When we search for articles, we have to first know which journal, or periodical, owns that article.  So it is a little counter intuitive but once we have identified an article we would like to read, we have to first find out whether or not our College has access to that periodical.  
+
+To do that, we have to use our colleges periodical locator.
+
+### Finding a journal using Periodical locator
+
+#### Periodical locator {#PeriodicalLocator} 
+
+Notice the first link within [North's Article page](https://libguides.northseattle.edu/welcome/articles).  It should say "Periodical Locator"
+
+There are many databases, inside of these databases are pages of journals, and inside those journals are articles. 
+
+**We need to use the periodical locator to determine which database houses which periodical.  With that, we can then open up that periodical and get the article**
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on 'free' articles and tuition/fees</span>
+
+Part of the fees that you pay as a student are used to pay subscriptions for these periodical databases. We have a small, but pretty good selection. Major universities have much larger collections due to their size and tuition/fee structure.
+
+So in a way, you are **not** actually getting this for free because you are paying for library access. That's the benefit of taking classes from a college. If you were not an active student, you would not be able to see many of these articles.
+
+So, download them all!
+```
+
+##### Here's the main point:  
+
+I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, wikipedia, google, google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
+
+Let's use that @efran_defining_2007 article.  
+
+1. Go to  [North's Article page](https://libguides.northseattle.edu/welcome/articles) and click on the periodical locator.  
+
+2. Type in the periodical for Efran's piece. 
+
+You will see a link with the periodical's name.  Go ahead and click on this but beware of the next instruction:
+
+3. Once you have clicked on that link you may want to start searching within that publication. But do not do that. Instead, notice a little bit further down the search box you should see something that says "View online" and beneath that you should see something that says "proquest research library".   It’s this piece we need.
+
+That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.
+
+4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles).
+
+5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
+
+![North's Find Periodicals](./images/NorthLibrarySearch.png)
+
+6. Click on "A to Z"
+
+7. You might notice that there are 67 databases that North Seattle has premium access to. In our case we're going to be looking for the proquest direct database. And we can either click on the letter "P" or we can just type in proquest direct.
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on Popular sources</span>
+
+You may also notice the little tag "popular" next to proquest link.  That's an indicator that the articles are not peer reviewed and so aren't exactly cutting edge science. Even though this particular journal we are looking for, _Psychotherapy Networker_, is flagged as a popular type, it is a place for therapists to share their thoughts on the profession so there is a lot of value in it.
+
+For help in distinguishing the different types of sources, the library has some guides:
+
+* [Scholar vs popular](http://libguides.northseattle.edu/c.php?g=97441&p=630690)
+
+* [Find Scholarly Journals](http://libguides.northseattle.edu/c.php?g=97441&p=630669)
+
+```
+
+8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to give your last name and student ID number. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+
+9. You should see you simple search box, where you can enter in important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
+
+But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like).
+
+When you search for those two terms in their respective fields, you will get two hits and one of them is the article we need. You should notice that it is a full text, not all databases provide full text documents. But in this case it's a full text. You can either print it or read it online.
+
+Yay.  Now you can find the other articles. 
+
+### A quick video of the process
+
+## Anatomy of a journal article
+
+#### Title
+#### Abstract
+#### Introduction
+##### Lit review
+##### hypothesis
+#### Methods
+##### Participants
+##### Materials
+##### Procedure
+#### Results
+#### Discussion
+#### References
+
+
+
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+

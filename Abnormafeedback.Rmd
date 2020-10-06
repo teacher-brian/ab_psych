@@ -1,0 +1,112 @@
+---
+title: "General Abnormal feedback"
+author: "Brian Holt"
+date: "6/17/2020"
+output: 
+  html_document:
+    css: style.css
+    toc: True
+    toc_float: true
+    toc_depth: 3
+    
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#General thoughts 
+
+# references
+
+Be careful about the URL that you use to link to an article. Many of you are confusing aggregate websites that make a living off of Finding articles and then showing the abstract, but that's not the publisher, the publisher is found by looking at the actual citation. So here's an example:
+
+
+Perona‐Garcelán, S. . “The Relationship with the Voices as a Dialogical Experience: The Role of Self‐Focused Attention and Dissociation.” Wiley Online Library, John Wiley & Sons, Ltd, 12 Nov. 2019, onlinelibrary.wiley.com/doi/10.1002/jclp.2289
+
+
+The DOI number that's embedded in the wiley.com link is accurate, but Wiley did not publish this article. Here is the actual citation:
+
+
+Perona‐Garcelán, S, López‐Jiménez, AM, Bellido‐Zanin, G, Senín‐Calderón, C, Ruiz‐Veguilla, M, Rodríguez‐Testal, JF. (2020). The relationship with the voices as a dialogical experience: The role of self‐focused attention and dissociation. J. Clin. Psychol. 76: 549– 558. https://doi.org/10.1002/jclp.22890
+
+
+
+
+# summary
+
+You should never submit a summary as a college paper unless explicitly requested by the instructor.
+
+However, being able to summarize is an important skill, and the higher you go the further you go in college especially in graduate school you will need to zero in on very important bits of information.
+
+## summaries should include
+
+Whenever summarizing a research article, there are three things that you should have absolute clarity about:
+
+1. What is the hypothesis
+
+2. Who are the participants and how are they selected. 
+
+3. what is the comparison group or control group
+
+4. how did they measure their hypothetical constructs?
+
+At minimum you should have absolute clarity in your thoughts about the article as well as what you include in your summary. Certainly these are not the only thing to summarize but if you're not capturing these three things you were missing the main point.
+
+
+## Big picture about summarizing research articles: 
+
+Use your own words. Many of you were massaging copy and paste efforts using the author’s jargon. I know that you don't think like this because nobody thinks like this. That kind of jargon shows up in high-level scholarly research, where authors spend months agonizing over word choice.  
+
+When you're in college, to some degree  graduate school, you need to demonstrate that you understand the jargon in everyday terms. Once you've done that a little bit, then your professors will trust that you are consuming the knowledge accurately. 
+
+
+# suicide article
+
+```{block, type='sidenote'}
+Does this stand out
+```
+
+
+```{block, type='FOO'}
+Some text for this block.
+```
+
+A few thoughts about the suicide ideation and perceived versus utilized social support.
+
+These last few articles have been introducing you to some statistical Concepts which can be off-putting to people not familiar with stats.
+
+The field of psychology has a lot to do with Statistics now because we are in a era of trying to validate hypothetical constructs.
+
+So in this article, one hypothetical construct would be "perceived social support".
+
+There are questionnaires that purport to measure this construct, and the hypothesis is that if perceived social support goes up then self-esteem goes up, and suicidal ideation goes down and theoretically, suicidal acts would go down.
+
+The question this study attempted to answer has to do with the degree utilizing social support vs perceiving social support matters. 
+
+And what they found is that if you include “utilize social support” in their model, the significance of the perceived social support drops.
+
+With an oversimplification, this basically means that if you don't use your social support, your self-esteem may drop. And just measuring the perceived social support is not enough to predict that self-esteem drop.
+
+# Preponderance of evidence
+
+In Psychology it's not uncommon to find a study like this where they find a significant result. So does this mean that it's true all the time for every case? For all time? 
+
+To answer that it's important to reflect on a concept called "the preponderance of evidence". 
+
+Basically what this means is that over time if you study suicide, for example, you will see certain kinds of patterns. If you find research that supports this particular article then you're starting to see a pattern that something about utilizing social support is really important for self-esteem. 
+
+So you put this research on a metaphorical shelf in your mind. And you collect more research studies, and you find more patterns supporting this idea.
+
+Every now and again you'll find a study that contradicts what you know. That could just be a random event. Just because somebody finds a significant p-value doesn't mean it's true. It just means that it might be true. 
+
+So you keep reading research and adding content to your shelf and over time you begin to see kind of a broad pattern based on the preponderance of evidence.
+
+
+# Mediators vs moderators
+
+Last thing about mediators vs. moderators. Remember to use the documents I provided, but basically a moderator can change the direction of some causal path. So humans usually wear clothes everyday, but temperature is a moderator for how much clothing they wear. If it's very hot, we will wear less clothing, but if it's very cold we will use more clothing.
+
+A mediator on the other hand is the thing that does the causing. So using my clothing example, it's not really temperature that determines whether or not we **wear clothing at all**, we wear clothing because of social norms and social expectancies. 
+

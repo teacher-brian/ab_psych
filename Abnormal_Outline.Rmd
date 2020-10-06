@@ -1,0 +1,26 @@
+---
+title: "Abnormal_Outline"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: html_document
+---
+My thoughts on what is necessary to understand I'm almost psychology
+
+ philosophy 
+ Epistemology
+
+ Ontology
+
+ Mechanical
+ Organic
+ Formistic
+ Contextual
+ statistics
+
+ Theoretical orientations
+
+ Diagnostic decision making
+
+ Necessary and sufficient cause
+
+ Epidemiology 

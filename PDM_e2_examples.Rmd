@@ -1,0 +1,296 @@
+---
+title: "PDM examples"
+author: "PDM_e2; excerpt by Brian Holt"
+date: "6/11/2020"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Schizoid 
+
+Although this deficit-based version of “schizoid” may be more familiar to clinicians, psychoanalytic writers have observed and described a different psychology to
+which they have also applied the term “schizoid.” Individuals with this version of a
+schizoid personality style are not characterized by the kind of inner impoverishment
+of thought and feeling that is typically associated with the DSM diagnosis, and their
+psychological makeup may be better understood (at least in part) as conflict-based
+rather than solely deficit-based. 
+
+ Here we focus on the less familiar personality syndrome described by psychoanalytic writers, and simply note that the term “schizoid”
+has been used differently in the broader clinical (especially psychiatric) literature.
+Individuals with schizoid personality styles easily feel in danger of being engulfed,
+enmeshed, controlled, intruded upon, overstimulated, and traumatized—dangers that
+they associate with becoming involved with other people (Klein, 1946). They may
+appear notably detached, or they may behave in a socially appropriate way while privately attending more to their inner world than to the surrounding world of human
+beings (Fairbairn, 1952). Some schizoid individuals withdraw into solitary environments and even hermit-like reclusiveness; others retreat in more psychological ways to
+the fantasy life in their minds (Winnicott, 1971).
+
+
+## KEY FEATURES
+
+---
+
+Contributing constitutional–maturational patterns: Highly sensitive, shy, easily
+overstimulated; possibly vulnerable to psychosis.
+
+---
+
+Central tension/preoccupation: Fear of closeness versus longing for closeness.
+
+---
+
+Central affects: General emotional pain when overstimulated; affects so powerful
+that these persons feel they must suppress them.
+
+---
+
+Characteristic pathogenic belief about self: “Dependency and love are dangerous.”
+
+---
+
+Characteristic pathogenic belief about others: “The social world is impinging,
+dangerously engulfing.”
+
+---
+
+Central ways of defending: Withdrawal, both physically and into fantasy and
+idiosyncratic preoccupations.
+
+# Obsessive–Compulsive Personalities
+
+Individuals with obsessive–compulsive personalities are emotionally constricted and
+regimented. They prefer to operate as if emotions were irrelevant and to defend against
+threatening emotions and desires through rigidity, regimentation, and intellectualization. They tend to be excessively concerned with rules, procedures, order, organization, schedules, and so on, and may be excessively devoted to work and “productivity” to the detriment of leisure and relationships. They rely on intellectualization as a
+defense and tend to see themselves as logical and rational, uninfluenced by emotion.
+Asked how they feel, they are likely to describe what they think. They tend to think
+in abstractions or become preoccupied with details. Beneath an “orderly” and regimented exterior, they are preoccupied with underlying issues of control, and caught
+in an unconscious conflict between feeling that they must submit to others’ demands
+(which elicits rage and shame) or rebel and defy them (which elicits anxiety and fear
+of retaliation). Rigidity, order, and intellectualization defend against awareness of the
+underlying conflict and the emotions that accompany it.
+
+Compulsive individuals tend to be busy, meticulous, perfectionistic; their self-esteem depends on doing
+
+## KEY FEATURES
+
+------
+
+Contributing constitutional–maturational patterns: Possible aggressivity, irritability, orderliness.
+
+------
+
+Central tension/preoccupation: Submission to versus rebellion against controlling authority.
+
+------
+
+Central affects: Anger, guilt, anxiety, shame, fear.
+
+------
+
+Characteristic pathogenic belief about self: “Most feelings are dangerous and
+must be controlled.”
+
+------
+
+Characteristic pathogenic belief about others: “Others are less precise and in
+control than I am, so I have to control what they do and resist being controlled
+by them.”
+
+------
+
+Central ways of defending: Isolation of affect, reaction formation, intellectualizing, moralizing, undoing.
+
+------
+
+
+
+# Narcissism
+
+Individuals with problematic narcissistic preoccupations exist along a continuum of
+severity, from the neurotic through the psychotic level of organization. Toward the
+neurotic end of the spectrum, narcissistic individuals may be socially appropriate,
+personally successful, charming, and (although somewhat deficient in the capacity
+for intimacy) reasonably well adapted to their family circumstances, work, and interests. In contrast, people with narcissistic personalities at the more pathological levels,
+whether or not they are personally successful, suffer from identity diffusion (often
+concealed by a grandiose self-presentation), lack an inner-directed morality, and may
+behave in ways that are highly destructive and toxic to others. Kernberg (1984) characterizes the most problematic type of narcissistic individual as suffused with “malignant narcissism” (i.e., narcissism blended with sadistic aggression)—a condition that
+he places on a continuum with the frankly psychopathic personality (Meltzer, 1973;
+Rosenfeld, 1987).
+The characteristic subjective experience of narcissistic individuals is a sense of
+inner emptiness and meaninglessness that requires recurrent infusions of external
+affirmation of their importance and value. Narcissistic individuals who succeed in
+extracting such affirmation in the form of status, admiration, wealth, or success may
+feel an internal elation, behave in a grandiose and arrogant manner, evince a sense
+of entitlement, and treat others (especially those perceived as of lower status) with
+contempt. When the environment fails to provide such evidence, narcissistic individuals may feel depressed, ashamed, and envious of those who succeed in attaining the
+status that they lack. They often fantasize about unlimited success, beauty, glory, and
+power, and their lack of real pleasure in either work or love can be painful to witness. Given these considerations, they would belong on the introjective end of Blatt’s
+(2008) continuum because their patterns reflect attempts to establish and maintain
+a sense of self and their preoccupations with issues of autonomy, control, self-worth,
+and identity.
+
+Rosenfeld (1987) distinguished between the “thick-skinned” and “thin-skinned”
+narcissist; Akhtar (1989) between the “overt” and “covert” (shy) patient; Gabbard
+(1989) between the “oblivious” and the “hypervigilant” types; Masterson (1993)
+between the “exhibitionistic” and “closet” types; and Pincus and colleagues (Pincus,
+Cain, & Wright, 2014; Pincus & Roche, 2011) between the “grandiose” and “vulnerable” ones. Russ, Shedler, Bradley, and Westen (2008) identified three subtypes of
+narcissistic patients, labeled “grandiose/malignant,” “fragile,” and “high-functioning/
+exhibitionistic”; they described the last subtype as notable for grandiosity, attention
+seeking, and seductive or provocative attitudes, but also for significant psychological
+strengths. Patients with narcissistic concerns who are not in a position to act arrogantly may demand that the therapist teach them how to be “normal” or “popular,”
+complaining that they want what more fortunate people have. Narcissistic individuals
+frequently have hypochondriacal preoccupations and somatic complaints.
+
+Narcissistic envy can create a subtle fear of progress in therapy (because improvement would reveal that there was originally something to improve), whereas the idealization puts pressure on the therapist to be brilliant (but not so brilliant as to threaten
+the patient’s intelligence by comparison). Progress may thus be slow, but any improvement for a patient with a narcissistic psychology is valuable for both the patient and
+those who relate to him or her. Like persons whose character structure is more psychopathic, narcissistic people may be easier to help in therapy in midlife or later, when
+their investments in beauty, fame, wealth, and power have been disappointed, and
+when they have run into realistic limits on their grandiosity.
+
+## KEY FEATURES
+
+------
+
+
+Contributing constitutional–maturational patterns: No clear data.
+
+------
+
+Central tension/preoccupation: Inflation versus deflation of self-esteem.
+
+------
+
+Central affects: Shame, humiliation, contempt, envy.
+
+------
+
+Characteristic pathogenic belief about self: “I need to be perfect to feel OK.”
+
+------
+
+Characteristic pathogenic belief about others: “Others enjoy riches, beauty,
+power, and fame; the more of those I have, the better I will feel.”
+
+------
+
+Central ways of defending: Idealization, devaluation.
+
+# Psychopathy
+
+We prefer the earlier term “psychopathic” (Cleckley, 1941; Hare, 1991; Meloy, 1988,
+1997) to the current “antisocial.” Many people with psychopathic personalities are
+not obviously antisocial; that is, they are not observably at odds with social norms. In
+fact, many people with psychopathic personalities are able to pursue their agendas in
+contexts of social approval and even admiration. In some occupations, psychopathic
+behavior is rewarded (e.g., in the world of high-stakes finance, as journalistic coverage
+of the events leading to the 2008–2009 U.S. economic collapse exposed). Although
+many psychopathic individuals run into trouble with authorities, some are quite adept
+at evading accountability for the damage they do to others.
+Once referred to as having “moral insanity” (Prichard, 1835), individuals with
+psychopathic personalities are commonly found in the borderline to the psychotic
+range of severity (Gacano & Meloy, 1994). Their characteristic orientation is toward
+seeking power for its own sake. They take pleasure in duping and manipulating others
+(Bursten, 1973). Deutsch’s (1955) classic concept of the “impostor” fits within the psychopathic realm. Although the stereotype of antisocial personality involves aggression
+and violence, clinical writings over many decades (beginning with Henderson, 1939)
+have also noted more passive, parasitic versions of psychopathy, such as the person
+who operates a scam or Ponzi scheme within a relational matrix.
+Psychopathic people feel anxiety less frequently and intensely than others (Ogloff
+& Wong, 1990; Zuckerman, 1999). People with diagnosed antisocial personality disorder have a higher-than-normal craving for stimulation and may seek it addictively
+(Raine, Venables, & Williams, 1990; Vitacco & Rogers, 2001). Psychopathic individuals lack the empathy and the moral center of gravity that, in people of other personality types, tames the striving for power and directs it toward socially valuable ends.
+
+
+## KEY FEATURES
+
+---
+
+Contributing constitutional–maturational patterns: Possible congenital aggressiveness, high threshold for emotional stimulation.
+
+---
+
+Central tension/preoccupation: Manipulating versus fear of being manipulated.
+
+---
+
+Central affects: Rage, envy.
+
+---
+
+Characteristic pathogenic belief about self: “I can do whatever I want.”
+
+---
+
+Characteristic pathogenic belief about others: “Everyone is selfish, manipulative,
+dishonorable, and/or weak.”
+
+---
+
+Central ways of defending: Reaching for omnipotent control.
+
+# Borderline
+
+In the first PDM, we used the term “borderline” to refer only to a clinically inferred
+level of personality organization. Since its publication, the concept of a specific borderline type of personality disorder, defined by DSM criteria, has become so pervasive that we now follow Kernberg’s solution of discriminating between borderline personality organization and borderline personality disorder. In addition, Shedler (2015)
+and Westen, Shedler, Bradley, and DeFife (2012) have found that clinicians identify a
+construct of borderline-dysregulated personality disorder that overlaps with both the
+DSM diagnostic construct of borderline personality disorder and Kernberg’s concept of
+borderline organization.
+
+In attachment research, scholars have identified a relevant disorganized/disoriented or “type D” insecure attachment style (e.g., Fonagy, Target, & Gergely, 2000;
+Liotti, 2004; Liotti, Pasquini, & Cirricone, 2000; Main & Solomon, 1986). This pattern is characterized by chronic, long-term difficulties in tolerating and regulating
+affect, and involves regarding attachment figures (such as therapists) as both objects
+of safety and objects of fear, causing them to be treated with confusing combinations
+of desperate clinging, hostile attack, and dissociative-like states of detachment. Neuroscientific research (Fertuck, Lenzenweger, Hoermann, & Stanley, 2006; van der Kolk,
+2003) indicates that early trauma can damage the capacities for executive control (and
+thus affective regulation).
+
+The general recommendations in this manual for working with individuals in the
+borderline range of severity apply to those with diagnosable borderline personality disorder. To our knowledge, all approaches to helping an individual with borderline personality disorder emphasize the centrality of the working alliance and the importance
+of repairing it when it is damaged; the critical role of boundaries and the therapist’s
+willingness to tolerate the patient’s rage and hurt when boundaries are maintained; the
+discouragement of regression; the expectation of intensity; the inevitability of either–or
+dilemmas; the importance of the patient’s sense of the therapist as an affectively genuine
+person; and the development of capacities for self-reflection, mentalization, or mindfulness. They also emphasize the need for ongoing clinical supervision and consultation.
+Interestingly, psychoanalytic theorists who have written about the treatment of
+borderline personality disorder emphasize how their treatments deviate from standard
+psychoanalytic treatments (e.g., Bateman & Fonagy, 2004; Clarkin et al., 2006; Kernberg, 1989; Masterson, 1976, 1983), and cognitive-behavioral therapists emphasize
+how their treatments deviate from standard CBT (e.g., Linehan, 1993; Young, Klosko,
+& Weishaar, 2003).
+
+##  KEY FEATURES
+
+----
+
+Contributing constitutional–maturational patterns: Congenital difficulties with
+affect regulation, intensity, aggression, capacity to be soothed.
+
+----
+
+Central tension/preoccupation: Self-cohesion versus fragmentation; engulfing
+attachment versus abandonment despair
+
+----
+
+Central affects: Intense affects generally, especially rage, shame, and fear.
+
+----
+
+Characteristic pathogenic belief about self: “I don’t know who I am; I inhabit
+dissociated self-states rather than having a sense of continuity.”
+
+----
+
+Characteristic pathogenic belief about others: “Others are one-dimensional and
+defined by their effects on me, rather than by a sense of their complex individual
+psychology.”
+
+----
+
+Central ways of defending: Splitting, projective identification, denial, dissociation, acting out, and other primitive defenses.
+
+----
+

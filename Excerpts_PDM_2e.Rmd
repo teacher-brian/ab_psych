@@ -1,0 +1,460 @@
+---
+title: "PDM_2ed"
+author: "Edited by Vittorio Lingiardi & Nancy McWilliams; reproduced by Brian Holt"
+date: "6/11/2020"
+output: 
+  html_document:
+    toc: True
+    toc_float: True
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# The Continuum of Personality Health
+
+The recognition that personality health--disturbance is a dimension or continuum has evolved over decades of clinical observation and research. At the healthy end of the continuum are people who show good functioning and all or most domains. They usually can engage in satisfying relationships, experience and understand a relatively full range of age - expected feelings and thoughts,  function relatively flexibly when stressed by external events or internal conflict, maintain a relatively coherent sense of personal identity, Express impulses in a manner appropriate to the situation, conduct themselves in accordance with internalized moral values, an neither suffer undue distress nor impose it on others.
+
+At the severely Disturbed end of the continuum are people who respond to distress and rigidly inflexible ways, for example, by relying on a restricted range of costly or maladaptive defenses, or have major and severe deficits in many of the domains described in the summary of basic mental functioning: M Axis (e.g., self-object differentiation, affect regulation, attention, and learning; see chapter 2, table 2.1, PP. 118-119).
+
+# Historical context of levels of Personality organization
+
+By the end of the 19th century, psychiatric classification distinguished between two general types of problems: (1) "neuroses," a term that may refer to either minor or major psychopathology in which the capacity to perceive reality is in tact; and (2) "psychosis," in which there is significant impairment in reality testing. In the ensuing decades, as clinicians slowly appreciated that many people suffer not from isolated symptoms but from issues that pervade their lives more totally, they also began to distinguish between "neurotic symptoms" and "neurotic character," or what we now call "personality disorder."
+
+Throughout the 20th century, clinical writers began describing individuals who
+seemed too disturbed to be considered neurotic and yet too anchored in reality to
+be considered psychotic. Slowly, a “borderline” group was identified (Frosch, 1964;
+Knight, 1953; Main, 1957; Stern, 1938). The concept of a disturbance on the “border” between psychosis and neurosis was subsequently investigated empirically (e.g.,
+Grinker, Werble, & Drye, 1968; Gunderson & Singer, 1975) and elaborated theoretically (e.g., Adler, 1985; Hartocollis, 1977; Kernberg, 1975, 1983, 1984; Masterson,
+1972, 1976; Stone, 1980, 1986).
+
+Patients construed as psychologically organized on that border often fared badly
+in the kinds of treatments that were usually helpful to healthier patients. They would
+unexpectedly develop intense, problematic, and often rapidly shifting attitudes toward
+their therapists. Some who did not show psychotic tendencies outside therapy developed intractable “psychotic transferences” (e.g., they might experience their clinicians
+as omnipotently good or malevolently evil, or as exactly like persons from their past,
+and could not be persuaded otherwise).
+
+A consensus gradually evolved that personality syndromes exist on a continuum
+of severity, from a comparatively healthy to a severely disturbed level. This continuum
+has been conventionally, if somewhat arbitrarily, divided into “healthy,” “neurotic,”
+“borderline,” and “psychotic” levels of personality organization.
+
+Note that the term “borderline,” when used by psychodynamic clinicians to denote
+a level of personality organization, has a different meaning from the term “borderline” as it used in the DSMs, in which only one specific variant of borderline personality organization has been labeled borderline personality disorder (for a discussion of
+subtypes and differences from complex trauma, see Lewis, Caputi, & Grenyer, 2012;
+Lewis & Grenyer, 2009). Our use of the term “borderline” is thus broader than that of the DSMs and more consistent with the clinical observations that gave rise to the term
+and its widespread professional adoption.
+
+Although each personality style can, in principle, exist at any level of organization, some personality styles are more likely to be found at the healthier (e.g., neurotic)
+end of the severity spectrum, and some at the sicker (e.g., borderline, psychotic) end.
+For example, patients with hysterical or obsessional personality styles are more likely
+to be organized at a neurotic level of severity; those with paranoid or psychopathic
+styles are more likely to be organized at a borderline level.
+
+The distinction between level of organization and personality style permits, for
+example, the identification of “quiet borderline” patients (Sherwood & Cohen, 1994),
+such as schizoid individuals who are psychologically organized at the borderline level
+of severity. In contrast, the DSM diagnosis of borderline personality disorder essentially conflates borderline organization with histrionic personality disorder (and in
+the process renders the diagnostic categories of borderline personality disorder and
+histrionic personality disorder essentially empirically indistinguishable; see Shedler &
+Westen, 2004). We do refer, however, to research on borderline personality disorder
+that is based on the DSMs’ definitions, given the extensive empirical literature on the
+DSM-defined syndrome that has accrued since its inclusion in DSM-III in 1980.
+
+Kernberg addressed the problem of discrepant uses of the term “borderline” by
+distinguishing between borderline personality disorder (the DSMs’ concept) and borderline personality organization (the psychoanalytic concept). We adopt his solution
+here by describing a borderline level of personality organization, and additionally
+including borderline personality as a diagnosable P-Axis personality style or type. We
+recognize that the inclusion of borderline personality as a P-Axis personality style is
+an imperfect and inelegant solution, and is not fully consistent with the conceptual
+framework that we lay out in this chapter. However, given the extensive literature that
+exists on the DSMs’ construct of borderline personality disorder and its widespread
+clinical acceptance, we also felt it was necessary to include it.
+
+# Recent Findings on Level of Organization
+
+Research indicates that some problems of patients in the borderline range have a
+genetic component. Twin studies suggest that in both men and women, genetic influences account for about 40% of the variance in the severity of borderline traits (e.g.,
+Distel et al., 2008; Leichsenring, Leibing, Kruse, New, & Leweke, 2011; Torgersen et
+al., 2008). Indeed, genetic interpersonal hypersensitivity has been put forward as an
+endophenotype marker (Gunderson, 2007). Neuroimaging studies have revealed the
+functional neuroanatomy of borderline disorders that are associated with the hypersensitivity, intolerance for aloneness, and attachment fears typical of patients in this
+broad diagnostic group (Buchheim et al., 2008; Fertuck et al., 2009; King-Casas et
+al., 2008).
+
+Whereas past generations of psychoanalytic thinkers tended to view level of severity with fixation at, or regression to, a particular developmental challenge or stage,
+contemporary theorists understand personality pathology as reflecting a confluence
+of factors, including genetic heritability, temperament, early life experiences (e.g.,
+trauma, neglect), and early attachments, among other factors. For a discussion of “biopsychosocial” models of personality, see, for example, Leichsenring and colleagues
+(2011) or Paris (1993).
+
+
+
+As suggested by the findings of Clarkin, Kernberg, and their colleagues (e.g.,
+Clarkin et al., 2001; Clarkin, Levy, Lenzenweger, & Kernberg, 2004, 2007; Clarkin,
+Yeomans, & Kernberg, 1999), and Greenspan and his colleagues (e.g., Greenspan &
+Shanker, 2004), we recommend evaluating where an individual’s personality lies on
+the severity dimension by assessing the following domains, elaborated in Chapter 2:
+
+1. Capacity for regulation, attention, and learning
+2. Capacity for affective range, communication, and understanding
+3. Capacity for mentalization and reflective functioning
+4. Capacity for differentiation and integration (identity)
+5. Capacity for relationships and intimacy
+6. Capacity for self-esteem regulation and quality of internal experience
+7. Capacity for impulse control and regulation
+8. Capacity for defensive functioning
+9. Capacity for adaptation, resiliency, and strength
+10. Self-observing capacities (psychological mindedness)
+11. Capacity to construct and use internal standards and ideals
+12. Capacity for meaning and purpose
+
+Chapter 2 describes a way of evaluating an individual’s mental functioning that is
+helpful for locating his or her personality in the healthy, neurotic, borderline, or psychotic range.
+
+# Healthy Level of Organization
+
+
+Psychopathology expresses the interaction of stressors and individual psychology.
+Some people who become symptomatic under stress have overall healthy personalities, as assessed by the Summary of Basic Mental Functioning: M Axis (see Chapter 2,
+Table 2.1, pp. 118–119). They may have certain favored ways of coping, but they have
+enough flexibility to accommodate adequately to challenging realities (though not necessarily to severe trauma, which can damage even people who may seem quite resilient;
+see Boulanger, 2007). We all have a characteristic style or flavor or type of personality,
+or a stable mixture of styles. For example, the fact that one has a consistently pessimistic outlook is not a sufficient criterion for diagnosing depressive personality disorder.
+
+
+# Neurotic Level of Organization
+
+Despite having many capacities at the high end of the M Axis, individuals with
+neurotic-level personality organizations are notable for their relative rigidity (Shapiro, 1965, 1981, 1989, 2002). That is, they tend to respond to certain stresses with
+a relatively restricted range of defenses and coping strategies. Common personality
+styles and disorders at this point on the severity continuum are depressive personality,
+hysteric personality (in evolving clinical language, “hysteric” has been used to denote
+a constellation of dynamics at the higher-functioning ranges, while “histrionic” has
+denoted those dynamics in the borderline and psychotic ranges), phobic personality,
+and obsessive–compulsive personality.
+
+The pattern of suffering of an individual in one of these clusters tends to be
+restricted to a specific area, such as loss, rejection, and self-punitiveness in depressive personality; issues of gender, sexuality, and power in hysteric–histrionic personality;
+and control issues in obsessive–compulsive personality. Individuals at the neurotic
+level of organization frequently experience their problems as involving inner discord
+or conflict. For example, they may feel sexual temptation, experienced as a wish in
+conflict with an internal prohibition, or they may find themselves recurrently angry
+and judgmental while simultaneously feeling that they are “overreacting.”
+
+The maladaptive defensive patterns of individuals in the neurotic range may be
+limited to the area of their particular difficulty. For example, in contrast to patients
+organized at a borderline level of severity who use defenses that tend to distort reality more globally (e.g., denial, splitting, projective identification, omnipotent control,
+severe dissociation), the rigid or problematic defenses of neurotic-level patients are
+more likely to concern one area—problems with authority, for example, rather than
+problems in all relationships. Outside their areas of difficulty, persons at the neurotic
+level may have a satisfactory work history, maintain good relations with others, tolerate dysphoric affects without taking impulsive or ill-considered actions, and be able
+and ready to collaborate in a therapy relationship.
+
+Neurotic-level patients often have some perspective on their recurrent difficulties
+and can imagine how they would like to change, and they usually form adequate working alliances with their clinicians. In initial interviews, therapists tend to react to them
+comfortably, respectfully, sympathetically, and with the expectation of a collaborative
+partnership.
+
+
+# Borderline Level of Organization
+
+People with borderline personality organization have difficulties with affect regulation and are consequently vulnerable to extremes of overwhelming affect, including
+episodes of intense depression, anxiety, and rage. They may have recurrent relational
+difficulties; severe problems with emotional intimacy; problems with work; and problems with impulse regulation, including vulnerability to substance abuse and other
+addictive behaviors (gambling, shoplifting, binge eating, sexual compulsion, addiction to video games or the internet, etc.). In periods of distress (e.g., when an attachment relationship is threatened), they are also at greater risk for self-harm, including
+self-mutilation, sexual risk taking, accumulation of inordinate debt, and other selfdestructive activities (Bourke & Grenyer, 2010, 2013; Clarkin et al., 1999; Yeomans,
+Clarkin, & Kernberg, 2015).
+
+Such behavior can reflect desperate efforts to regulate unbearable affect, failures in impulse regulation, or both. Generally speaking, individuals with personality
+pathology severe enough to warrant a DSM personality disorder diagnosis function at
+a borderline level of organization, irrespective of the specific DSM personality disorder
+diagnosis (e.g., Yeomans et al., 2015). The borderline level of personality organization
+can be divided into a higher level (toward the border with the neuroses), describing
+patients whose overall personality presentation is closer to a neurotic personality organization (Caligor, Kernberg, & Clarkin, 2007), and a lower level (toward the border
+with the psychoses), describing patients with more severe deficits (Clarkin et al., 2006;
+Kernberg, 1984). Patients with higher versus lower borderline levels of personality
+organization may require different therapeutic approaches—that is, more exploratory
+(i.e., interpretive, insight-oriented) treatments for higher-level patients, and more supportive, capacity-building treatments for lower-level borderline patients.
+
+Clinicians whose descriptions of patients were studied with the Shedler–Westen
+Assessment Procedure (SWAP; Lingiardi, Shedler, & Gazzillo, 2006; Shedler, 2015;
+Westen & Shedler, 1999a, 1999b, 2007; Westen, Shedler, Bradley, & DeFife, 2012)
+have emphasized the affect and impulse regulation problems of individuals with borderline personality organization. They comment on the extremity and rawness of
+these clients’ emotions, and also on their reliance on defenses that many scholars have
+termed “primitive,” “immature,” or “costly” (see, e.g., Cramer, 2006; Kernberg, 1984;
+Kramer, de Roten, Perry, & Despland, 2013; Laughlin, 1979; Perry & Cooper, 1989;
+Perry & Presniak, 2013; Perry, Presniak, & Olson, 2013; Vaillant, Bond, & Vaillant,
+1986). Given that neurotic-level individuals may also use primitive defenses under
+stress, it is arguable that what differentiates borderline from neurotic-level psychology
+may have more to do with the absence of mature defenses than with the presence of
+immature ones (McWilliams, 2011).
+
+The most commonly noted costly or primitive defenses are splitting and projective identification. “Splitting” is the tendency to compartmentalize positive and negative perceptions and feelings, and consequently to view self and others in caricatured,
+black-or-white, all-good or all-bad categories (e.g., as heroes and rescuers, villains and
+abusers, or coldly indifferent witnesses to abuse). Splitting may involve viewing certain
+people as “all good” and others as “all bad,” or may involve alternating contradictory
+perceptions of the same person (e.g., Gairdner, 2002; Main, 1957).
+
+A consequence of splitting is a failure to integrate disparate aspects of identity
+into a coherent whole. Consequently, patients whose personalities are organized at a
+borderline level show “identity diffusion”: Their attitudes, values, goals, and feelings
+about self are unstable and changing, and their self-perceptions can oscillate between
+polarized extremes. Such patients may look quite different on different occasions,
+as different compartmentalized aspects of identity emerge. For example, when feeling good, they may appear blithely indifferent to the fact that they were suicidally
+depressed the prior week; when depressed, they may appear to have no access whatever to any positive feelings or self-perceptions.
+
+“Projective identification” involves failing to recognize a disturbing aspect of
+one’s own personality, misattributing it to another person (e.g., the clinician), and
+then treating that person accordingly—until eventually evoking from the other person
+the feelings and attitudes that they have projected with such conviction. Clinicians
+on the receiving end of such projective identifications may feel such intense pressure
+to conform to the projections that their experience is one of having their minds taken
+over or “colonized” by something alien (Gabbard, 2009a).
+
+Other defenses characteristic of persons in the borderline range include “denial”
+(ignoring or disregarding things that are disturbing, as if they did not exist); “withdrawal” (into fantasy); indiscriminate forms of “introjection” (sometimes called
+“introjective identification”—the wholesale “taking in” of someone else’s characteristics, attitudes, and even mannerisms); “omnipotent control” (treating another as an
+extension of oneself, with little recognition that the other person is a separate human
+being); “acting out” (repetitively living out an internal drama that cannot be remembered, felt, or conceptualized); “somatization” (developing physical symptoms under
+stress); severe “dissociation” (incongruous disconnections between different aspects of
+experience, or shifts of self-states without any sense of the continuity of experience);
+“primitive idealization” (seeing another as all-good and larger than life, as a small
+child might see an admired adult); and “primitive devaluation” (seeing another as completely worthless, with no redeeming qualities whatever). Vaillant’s (1992) research adds hypochondriacal concerns and passive aggression to the list of psychologically
+costly defenses that may signal a more severe personality disorder.
+
+The division of defenses into “primitive” or “immature” versus “mature” or
+“higher-order,” despite still being somewhat underresearched, has become common
+in the literature on severe personality disorders and in empirical research on psychological defenses (e.g., Cramer, 2006, 2015; Di Giuseppe, Perry, Petraglia, Janzen, &
+Lingiardi, 2014; Drapeau, De Roten, Perry, & Despland, 2003; Hibbard & Porcerelli, 1998; Lingiardi, Lonati, Fossati, Vanzulli, & Maffei, 1999; Perry, 1990, 1993;
+Perry & Kardos, 1995; Perry, Kardos, & Pagano, 1993; Porcerelli, Cogan, Kamoo, &
+Miller, 2010; Porcerelli & Hibbard, 2004). (See the discussion of defenses in Appendix
+1.2 at the end of this chapter for more on this topic.)
+
+In contrast to the benign compassion that patients with neurotic-level personality
+disorders tend to elicit in clinicians, patients with borderline organization, especially
+those at the lower level, evoke intense emotions that clinicians may struggle to contain
+and manage. Often these are negative—fear, confusion, helplessness, or hostility, for
+example; yet powerful rescue fantasies, sexual desire, and wishes to cure the patient
+by love are also common (Betan, Heim, Zittel Conklin, & Westen, 2005; Bourke &
+Grenyer, 2010; Colli, Tanzilli, Dimaggio, & Lingiardi, 2014; Dahl, Røssberg, Bøgwald, Gabbard, & Høglend, 2012; Gazzillo et al., 2015; Lingiardi, Tanzilli, & Colli,
+2015b; Røssberg, Karterud, Pedersen, & Friis, 2007). Patients with severe personality disorders tend to evoke strong tendencies in their therapists to act, often in ways
+incongruent with their professional roles. Clinicians may find themselves wanting to
+attack these patients or to cross professional boundaries to “save” them (Groves, 1978;
+Guthiel, 2005; Kernberg, 1984).
+
+# Psychotic Level of Organization
+
+The traditional conceptualization of psychosis involves a break with reality. Some
+patients who have never had a diagnosed psychotic illness, or who have had episodes
+of psychosis from which they seem to recover quickly and completely, may nonetheless
+have psychotic features such as overgeneralized, concrete, or bizarre thinking; socially
+inappropriate behaviors; pervasive and severe annihilation anxiety; and the unshakable conviction that their own attributions about someone are correct, regardless of
+anything the other person may say or do. People with the most severe personality disorders may impute their own thoughts and feelings to others, become convinced of the
+rightness of their most erroneous perceptions, and act on the basis of these perceptions.
+In response to terrifying anxieties, they may use primitive defenses such as psychotic
+denial, autistic withdrawal, distortion, delusional projection, fragmentation, and concretization (Berney, De Roten, Beretta, Kramer, & Despland, 2014; Vaillant, 1971).
+
+A psychotic level of personality organization implies identity diffusion, poor differentiation between representations of self and others, poor discrimination between
+fantasy and external reality, reliance on primitive defenses, and severe deficits in reality testing. An example of a person with psychotic personality organization would be
+a man who stalks his love object in the conviction that this person “really” loves him,
+despite all of the person’s protestations to the contrary. Such behavior demonstrates
+both a deficit in reality testing and a lack of differentiation between self and other.
+
+Seasoned therapists have long reported that they understand their most disturbed
+patients to be organized at a psychotic level, even when those patients have never had
+a diagnosed psychotic illness. Clinical explorations that assume a psychotic range of functioning include the writings of Bion (1967), Kernberg (1984), McWilliams (2015),
+Rosenfeld (1987), Steiner (1993, 2011), and others. In contrast, researchers have
+tended to think about psychosis in the framework of a medical model, as a discrete
+illness. Since the publication of the first PDM, the clinical utility of conceptualizing a
+psychotic range of personality functioning has gained additional research support (see
+Lingiardi, McWilliams, Bornstein, Gazzillo, & Gordon, 2015a). We note in this connection that DSM-5 includes schizotypal personality disorder in both its “personality
+disorders” and its “schizophrenia spectrum and other psychotic disorders” chapters,
+suggesting that a similar clinical presentation may reflect a personality syndrome or a
+psychotic illness, or some combination of both (see also Chapter 3 of this manual on
+the S Axis).
+
+Examples of individuals who may be usefully understood as functioning in the
+psychotic range include anorexic patients who are dangerously close to starvation,
+but who believe they are overweight; people with extreme compulsions (e.g., severe
+hoarding) who cling to their rituals and experience annihilation anxiety when asked
+to consider not acting on their compulsions; somatizing patients who regard their
+own bodies as sadistic persecutors; dissociative patients who cannot distinguish past
+trauma from present reality; patients with severe factitious disorders; and individuals
+who suffer from recurrent and severe paranoid reactions, even in the absence of hallucinations or frank delusions. In all these instances, the patients’ “fixed ideas” are so
+absolute as to approach delusional proportions. Attempts to question the fixed beliefs
+often lead patients to react with anxiety and hostility or to experience their clinicians
+as dangerous.
+
+*********
+# Chapter 2 
+
+## From the table of contents:
+
+Empirically Grounded Assessment of M‑Axis Capacities 79
+
+  1. Capacity for Regulation, Attention, and Learning 80
+  2. Capacity for Affective Range, Communication, and Understanding 84
+  3. Capacity for Mentalization and Reflective Functioning 88
+  4. Capacity for Differentiation and Integration (Identity) 92
+  5. Capacity for Relationships and Intimacy 95
+  6. Capacity for Self‑Esteem Regulation and Quality of Internal Experience 99
+  7. Capacity for Impulse Control and Regulation 100
+  8. Capacity for Defensive Functioning 103
+  9. Capacity for Adaptation, Resiliency, and Strength 107
+  10. Self‑Observing Capacities (Psychological Mindedness) 110
+  11. Capacity to Construct and Use Internal Standards and Ideals 113
+  12. Capacity for Meaning and Purpose 116
+
+## Definitions of the 12 M‑Axis Capacities
+
+### *The capacity for regulation, attention, and learning* 
+includes fundamental processes
+that enable human beings to attend to and process information (both internal and
+external), regulate their attentional focus, divide their attention as needed to carry out
+multiple tasks simultaneously, filter extraneous information from consciousness when
+appropriate, and learn from their experiences.
+
+### *The capacity for affective range, communication, and understanding* 
+reflects
+a person’s ability to experience, express, and comprehend the full range of prerepresentational and representational patterns of affects in ways that are appropriate
+for a particular situation and consistent with the expectations and norms of the person’s cultural milieu. This capacity also reflects the individual’s ability to symbolize
+affectively meaningful experience (i.e., to represent it mentally rather than in somatic
+or behavioral form) and to verbalize affect states appropriately. Impairments in this
+domain, when pronounced, may be reflected in alexithymic tendencies in the patient.
+
+### *The capacity for mentalization and reflective functioning* 
+concerns the individual’s ability to infer and reflect on his or her own mental states as well as those of
+others, and to use this capacity in personal and social interactions. Mentalization is
+a form of mental activity that is considered imaginative (because when we mentalize,
+we are “imagining” what others think or feel); it is primarily preconscious (typically
+occurring outside the focus of attention) and aimed at understanding and interpreting
+the behavior of self and others in terms of mental states (e.g., needs, desires, feelings,
+beliefs, goals, intentions, and motivations). This capacity enables the individual to use
+ideas to experience, describe, and express internal life; to regulate affects and develop a
+coherent sense of self; and to make accurate inferences regarding others’ mental states.
+Mentalization is supported by several related cognitive skills, including an understanding of emotional states and the ability to think implicitly about others’ states of mind.
+The construct of reflective functioning represents the operationalization of the capacity
+to mentalize—the way, in other words, that we measure mentalization.
+
+### *The capacity for differentiation and integration* 
+involves the ability to distinguish
+self from other, fantasy from reality, internal representations from external objects and
+circumstances, and present from past and future, and to make connections between
+these elements without confounding them. It specifically reflects the ability to construct and maintain a differentiated, realistic, coherent, complex representation of self
+(identity) and others, and to connect these pools of representations.
+
+### *The capacity for relationships and intimacy* 
+reflects the depth, range, and consistency (i.e., stability) of the person’s relationships and ability to adjust interpersonal
+distance–closeness as needed for different relationships, in line with cultural expectations. Healthy interpersonal relatedness reflects not only the degree to which the
+individual has stable, mutually satisfying relationships, but also the quality of the
+person’s internalized object relations—mental representations of self, other people,
+and self–other interactions. This capacity includes the person’s sexuality as reflected
+in awareness of desires and emotions, ability to engage in pleasurable sexual fantasies
+and activities, and ability to blend sexuality with emotional intimacy. Just as “quality
+of internal experience” is an index of confidence and self-esteem, “capacity for relationships and intimacy” is an index of relatedness.
+
+### *The capacity for self-esteem regulation and quality of internal experience* 
+captures the level of confidence and self-regard that characterizes an individual’s relationship to self, others, and the larger world. Optimal functioning in this capacity
+involves balance, with self-confidence and self-esteem based on reality-based perceptions of one’s positive features and accomplishments, being neither unrealistically high
+nor unrealistically low. This capacity also includes the degree to which the individual
+experiences a sense of internal control, self-efficacy, and agency.
+
+### *The capacity for impulse control and regulation* 
+reflects the individual’s ability to
+modulate impulses and express them in adaptive, culture-appropriate ways. Deficiencies in this capacity may lead to unmodulated expression of impulses (impulsivity) or
+rigid overcontrol of impulses (inhibition), with concomitant affective constriction. High
+functioning in this capacity involves the ability to tolerate frustration, when appropriate or necessary, and to recognize and describe impulses as a means of self-regulation.
+
+### *The capacity for defensive functioning* 
+highlights the ways the individual attempts
+to cope with and express wishes, affect, and other inner experience, along with the
+ability to modulate anxiety resulting from internal conflict, external challenge, or
+threat to self without excessive distortion in self-perception and reality testing, and
+without making excessive use of acting out. High functioning in this area enables the
+person to use defenses effectively, with only modest distortion in reality testing; lower
+functioning in this area involves a less effective defense style and greater distortion.
+
+### *The capacity for adaptation, resiliency, and strength* 
+reflects the person’s ability
+to adjust to unexpected events and changing circumstances, and the ability to cope
+effectively and creatively when confronted with uncertainty, loss, stress, and challenge. Such adjustment is not equivalent to uncritical or conformist adaptation to expectations, but reflects a mindful choice about how best to respond. This capacity
+may include individual strengths, such as empathy and sensitivity to others’ needs and
+feelings, capacity to recognize alternative viewpoints, and appropriate assertiveness.
+When optimal, it enables one to transcend obstacles and turn setbacks into opportunities for growth and positive change.
+
+### *Self-observing capacities (psychological mindedness)*
+concern the individual’s
+ability to observe his or her own internal life mindfully and realistically and use this
+information adaptively. This capacity also reflects the degree to which the person can
+be introspective—the degree to which he or she shows an inherent interest in better
+self-understanding.
+
+### *The capacity to construct and use internal standards and ideals* 
+is an index of
+the personal sense of morality. The capacity to formulate internal values and ideals
+reflects a consideration of one’s self in the context of one’s culture, and the ability to
+make mindful decisions based on a set of coherent, flexible, and internally consistent underlying moral principles. High functioning in this domain requires that one’s moral
+reasoning be based not only on a set of cohesive core principles, but also on an awareness of the impact of one’s moral decisions on others.
+
+### *The capacity for meaning and purpose* 
+reflects the individual’s ability to construct
+a personal narrative that gives coherence and meaning to personal choices, a sense of
+directedness and purpose, a concern for succeeding generations, and a spirituality
+(not necessarily expressed as traditional religiosity) that imbues one’s life with meaning. High functioning for this capacity entails the ability to think beyond immediate
+concerns to consider the broader implications of one’s attitudes, beliefs, and behaviors.
+
+
+## TABLE 2.1. Summary of Basic Mental Functioning: M Axis
+
+------------
+
+To obtain a rating of a patient’s overall mental functioning, a clinician should add up the 1–5 point ratings assigned
+to each capacity (Table 2.1a), yielding a single numerical index of overall functioning ranging from 12 to 60. This total
+permits provisionally assigning a patient to one of the categories outlined in Table 2.1b, which provides brief qualitative
+descriptions of seven levels of mental functioning. Schematically, healthy mental functioning corresponds to M1;
+neurotic to M2 and M3; borderline to M4, M5, and M6 (from high to low, from moderate impairments to significant
+defects); and psychotic to M7.
+
+## TABLE 2.1a. M-Axis Functioning: Total Score
+
+M-Axis capacities | Rating scale
+----------------|--------:
+1. Capacity for regulation, attention, and learning | 5 4 3 2 1
+2. Capacity for affective range, communication, and understanding | 5 4 3 2 1
+3. Capacity for mentalization and reflective functioning | 5 4 3 2 1
+4. Capacity for differentiation and integration (identity) | 5 4 3 2 1
+5. Capacity for relationships and intimacy | 5 4 3 2 1
+6. Capacity for self-esteem regulation and quality of internal experience | 5 4 3 2 1
+7. Capacity for impulse control and regulation | 5 4 3 2 1
+8. Capacity for defensive functioning | 5 4 3 2 1
+9. Capacity for adaptation, resiliency, and strength | 5 4 3 2 1
+10. Self-observing capacities (psychological mindedness) | 5 4 3 2 1
+11. Capacity to construct and use internal standards and ideals | 5 4 3 2 1
+12. Capacity for meaning and purpose | 5 4 3 2 1
+. |Total score = ______
+ 
+ ----------
+ 
+## TABLE 2.1b. Levels of Mental Functioning
+ 
+ ----------
+ 
+Level; range | Heading |Description
+ ----|----|----
+. |**Healthy**| 
+M1; 54–60 | Healthy/optimal mental functioning |Optimal or very good functioning in all or most mental capacities, with modest,expectable variations in flexibility and adaptation across life contexts.
+.|**Neurotic**|
+M2; 47–53 |Good/appropriate mental functioning with some areas of difficulty| Appropriate level of mental functioning, with some specific areas of difficulty (e.g., in three or four mental  capacities). These difficulties can reflect conflicts or challenges related to specific life situations or events.
+M3; 40–46 |Mild impairments in mental functioning| Mild constrictions and areas of inflexibility in some domains of mental functioning, implying rigidities and impairments in areas such as selfesteem regulation, impulse and affect regulation, defensive functioning, and self-observing capacity.
+.|**Borderline**|
+M4; 33–39 |Moderate impairments in mental functioning| Moderate constrictions and areas of inflexibility in most or almost all domains of mental functioning, affecting quality and stability of relationships, sense of identity, and range of affects tolerated. Functioning begins to reflect the significantly impaired adaptations that are described as “borderline-level” in many psychodynamic writings, and that are found, in increasing severity, in the next two levels.
+M5; 26–32 |Major impairments in mental functioning|Major constrictions and alterations in almost all domains of mental functioning (e.g., tendencies toward fragmentation and difficulties in self–object differentiation), along with limitation of experience of feelings and/or thoughts in major life areas (i.e., love, work, play).
+M6; 19–25 |Significant defects in basic mental functions|Significant defects in most domains of mental functioning, along with problems in the organization and/or integration–differentiation of self and others.
+.|**Psychotic**|
+M7; 12–18 |Major/severe defects in basic mental functions|Major and severe defects in almost all domains of mental functioning, with impaired reality testing; fragmentation and/or difficulties in self–object differentiation; disturbed perception, integration, and regulation of affect and thought; and severe defects in one or more basic mental functions (e.g., perception, integration, motor, memory, regulation, judgment).
+
+-----
+
