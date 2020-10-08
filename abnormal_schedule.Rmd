@@ -62,7 +62,7 @@ Rubrics and point chasing are harmful.  Or at worst they don't foster good think
 
 ##### don't use Canvas as email
 
-##### Use disucssion boards in slack
+##### Use discussion boards in slack
 
 First of all, you may have some questions about Slack.
 
@@ -79,7 +79,7 @@ Once you have signed up for slack, spend some time filling out your profile make
  
 The last thing about slack is that when it comes to sharing documents, you may need to add permissions for slack to interact with your word processing program. For instance I use Google Docs a lot and I have already added Google Docs as an app that is recognized by Slack.  Let me know which word processing program you use oh, it has to be a cloud-based, and I think I can add that to slack.  So far I've added Google Docs and Microsoft onedrive (both, I believe are free to use by North Seattle students.)
 
-##### Canvas will be used lightly.  First week disucssions and introductions, a place to find this schedule, and a way for me to quickly send annoucements. 
+##### Canvas will be used lightly.  First week discussions and introductions, a place to find this schedule, and a way for me to quickly send announcements. 
 
 # Week 1 {#Week1} 
 
@@ -176,23 +176,15 @@ The idea is to be doing weekly writing about the things that we read and the pro
 
 * @efran_defining_2007 (to obtain this article, you'll need to walk through the steps found in the [Using the Library section](#useLibrary) --in particular the [Periodical Locator](#PeriodicalLocator))
 
-* Szazs @szasz_myth_1960  [Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
+* Szazs @szasz_myth_1960  ....[Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
 
 * americanization @watters_americanization_2010
-
-
-
-```{block, type='blueBackground'}
-
-Just a test of the emergency broad cast
-```
-
 
 After reading the above...
 
 ## Do the following
 
-1. synthesisze @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010
+1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010
 
 2. make your written work sharable to anyone with the link and link to it in the slack channel **Week 2 Synthesis**
 
@@ -204,37 +196,41 @@ After reading the above...
 
 * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
-# Week 3  Still under construction {#Week3} 
-
+# Week 3 {#Week3} 
 
 ## Read the following
 
 * [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
 
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019
+* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019.....[link to canvas file](https://canvas.northseattle.edu/courses/1963336/files?preview=149657337){target='_blank'}
 
-* Spitting in client’s soup, an article about language, concepts, personal constructs  @efran_spitting_2015
+* Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015
 
-* PDM @lingiardi_psychodynamic_2015  Found here:[needs link](local.target.co)
+* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
 
-* Epidemiology youtube [will link soon](local.target.co)
+* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
 
-```{block,type='instructorNote'}
-consider having read brian holt's excerpts from pdm2
-```
-
-* Strengths of DSM vs other schemes.  
-
-
-After reading the above...
+* Intro to alternative to DSM
+  * [Video on Psychodynamic Diagnostic Manual
+](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}
+  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardi_psychodynamic_2015; stored in canvas](https://canvas.northseattle.edu/courses/1963441/files?preview=149656124){target='_blank'}
+     * In particular the Table on mature functioning
+  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/courses/1963441/files?preview=149656126){target='_blank'}
+  
+After reading/watching the above...
 
 ## Do the following
 
-1. Write some on which psychology Model from ch2 resonates with you and your experiences?
+1. In it's own document, write about which psychology Model from ch2 resonates with you and why.
 
-2. Write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"
+2. In it's own document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the #soup channel
+
+3. In it's own document, list some questions about the readings above and post them into the #week3 channel
 
 # Week 4  Still under construction {#Week4} 
+```{block,type='instructorNote'}
+How to insert necessary and sufficient causes...Maybe if/when we discuss stats
+```
 
 # Week 5  Still under construction {#Week5} 
 
@@ -247,6 +243,7 @@ After reading the above...
 # Week 9  Still under construction {#Week9} 
 
 # Week 10  Still under construction {#Week10} 
+
 # Week 11  Still under construction {#Week11}
 
 # Week 12  Still under construction {#Week12}
@@ -345,7 +342,7 @@ So, download them all!
 
 ##### Here's the main point:  
 
-I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, wikipedia, google, google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
+I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, Google, Google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
 
 Let's use that @efran_defining_2007 article.  
 
