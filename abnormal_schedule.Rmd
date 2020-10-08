@@ -31,7 +31,23 @@ description: "This is a minimal example of using the rmarkdown package for abnor
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Getting started {#getStart} 
+# Getting started {#getStart}
+
+## Access to OneDrive and email for students
+
+I'm a fan of gmail and google drive, but as a fee-paying student in the Seattle Colleges District, you have been giving a free account with Microsoft oneDrive.  oneDrive is an online office suite that has web-based versions for email, word processing, spreadsheets, PowerPoints.  [here is where to go to set that up](https://itservices.seattlecolleges.edu/myseattlecolleges-login){target=’_blank’}
+
+When you write a paper, you can write it directly into the word application in OneDrive, or you could write your paper on your home computer, and then as necessary upload into oneDrive.  
+
+### Video Logging into and using oneDrive, Gmail
+
+#### [Video how to log in to OneDrive--stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f92016e6-6dc6-4daa-a90c-ac4d013607a6){target='_blank'}
+
+#### [Video how to generate a sharable link in OneDrive--stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35b3b7d-331a-46e5-b308-ac4d013607e8){target='_blank'}
+
+#### [How to share a google drive doc -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f8a111c-0346-4935-b556-ac4d013fed06){target='_blank'}
+
+#### [How to see google drive revisions -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c3fcd6a-0ee9-4c97-9b71-ac4d013fed6b){target='_blank'}
 
 ## Course Layout
 
@@ -182,6 +198,12 @@ After reading the above...
 
 3. Read a few other students and make some comments on their post. When you hover your mouse over a person's post, you should see a little floating menu.  One of the icons allows you to reply. It makes a side thread. 
 
+## Added materials
+
+* [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+
+* [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
+
 # Week 3  Still under construction {#Week3} 
 
 
@@ -212,6 +234,22 @@ After reading the above...
 
 2. Write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"
 
+# Week 4  Still under construction {#Week4} 
+
+# Week 5  Still under construction {#Week5} 
+
+# Week 6  Still under construction {#Week6} 
+
+# Week 7  Still under construction {#Week7} 
+
+# Week 8  Still under construction {#Week8} 
+
+# Week 9  Still under construction {#Week9} 
+
+# Week 10  Still under construction {#Week10} 
+# Week 11  Still under construction {#Week11}
+
+# Week 12  Still under construction {#Week12}
 
 # Appendix
 
