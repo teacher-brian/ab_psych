@@ -33,6 +33,52 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting started {#getStart}
 
+## Course Layout
+
+Read/watch some things, write some things.  You will save these written bits of work somewhere that can be shared. Google docs is probably the easiest.  Microsoft onedrive is another.  
+
+### ungrading and self reflections
+
+Rubrics and point chasing are harmful.  Or at worst they don't foster good thinking and education.  I am realizing that using them reduce anxiety in me, the instructor, because I don't have to actually consider the student.  
+
+
+### Grades 
+
+Grades will be based on your own assessment of what you've earned. You are giving yourself a grade. I have the right to overrule your assessment, but I anticipate people are going to be fair to themselves to this class. Feedback will be given to many of your weekly writings. However I do not promise to give feedback to all papers every week.
+
+I intend to provide my own writing each week and my own reflection for you to witness. If I do give you feedback on a weekly writing, my intention for it is to push gently for you to consider deeper issues that is aligned with your wants for the class. If I give you feedback on a weekly assignment, the feedback will be embedded in your document. This is why I have asked you to allow anyone with the link to edit.  My hope is to just put comments right into your doc.
+
+At least twice this quarter I will ask you to provide me a short sample of your writing from the previous weeks and a self-reflection on your progress. I will read all of these and give feedback on all of them.
+
+The reason you're writing every week is to provide yourself a track record of writings from which you can reflect upon. If you do not do this, you won't have enough papers to reflect upon.
+
+####  Communication
+
+##### don't use Canvas as email
+
+##### Use discussion boards in slack
+
+First of all, you may have some questions about Slack.
+
+It's basically a social media platform where you can participate in teams by having threaded chats or sharing of documents.It can be used synchronous synchronously or asynchronously.
+
+The main reason I'm using it is simply that canvas does not have the same capabilities. It also requires a lot more work for me as the teacher to manage. Slack appears to be a little bit easier in that respect. 
+
+Secondly, you may want to know how to sign up for our slack Channel.  [You will need to use this invitation:](https://join.slack.com/t/generalpsychology-hq/shared_invite/zt-hw53cjb8-Gu_GEolsoQNq2U7Q2CTvGg) (Links to an external site.)
+
+A very important part about signing up for slack is that you need to use the email that you used to sign up for classes at North Seattle. The reason is that this will be a relatively easy way for me to make sure that the students enrolled in the class are able to access our slack Channel, and that random people cannot.
+
+Once you have signed up for slack, spend some time filling out your profile make sure to make your profile picture and actual picture of you. And I believe every time from then on should you sign into slack, you'll see our abnormal psychology Channel.
+
+ 
+The last thing about slack is that when it comes to sharing documents, you may need to add permissions for slack to interact with your word processing program. For instance I use Google Docs a lot and I have already added Google Docs as an app that is recognized by Slack.  Let me know which word processing program you use oh, it has to be a cloud-based, and I think I can add that to slack.  So far I've added Google Docs and Microsoft onedrive (both, I believe are free to use by North Seattle students.)
+
+#### Tips for using Slack
+
+[Slack tips, will need to sing in to canvas for this video](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba5dc535-de92-40c7-9460-ac5301350a62){target='_blank'}
+
+##### Canvas will be used lightly.  First week discussions and introductions, a place to find this schedule, and a way for me to quickly send announcements. 
+
 ## Access to OneDrive and email for students
 
 I'm a fan of gmail and google drive, but as a fee-paying student in the Seattle Colleges District, you have been giving a free account with Microsoft oneDrive.  oneDrive is an online office suite that has web-based versions for email, word processing, spreadsheets, PowerPoints.  [here is where to go to set that up](https://itservices.seattlecolleges.edu/myseattlecolleges-login){target=’_blank’}
@@ -49,37 +95,6 @@ When you write a paper, you can write it directly into the word application in O
 
 #### [How to see google drive revisions -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c3fcd6a-0ee9-4c97-9b71-ac4d013fed6b){target='_blank'}
 
-## Course Layout
-
-Read/watch some things, write some things.  You will save these written bits of work somewhere that can be shared. Google docs is probably the easiest.  Microsoft onedrive is another.  
-
-### ungrading and self reflections
-
-Rubrics and point chasing are harmful.  Or at worst they don't foster good thinking and education.  I am realizing that using them reduce anxiety in me, the instructor, because I don't have to actually consider the student.  
-
-
-####  Communication
-
-##### don't use Canvas as email
-
-##### Use discussion boards in slack
-
-First of all, you may have some questions about Slack.
-
-It's basically a social media platform where you can participate in teams by having threaded chats or sharing of documents.It can be used synchronous synchronously or asynchronously.
-
-The main reason I'm using it is simply that canvas does not have the same capabilities. It also requires a lot more work for me as the teacher to manage. Slack appears to be a little bit easier in that respect. 
-
-Secondly, you may want to know how to sign up for our slack Channel.  [You will need to use this invitation:](https://join.slack.com/t/abnormalpsych-group/shared_invite/zt-ht9aeioj-juBurild2PBRtpkQ_CR8Lw) (Links to an external site.)
-
-A very important part about signing up for slack is that you need to use the email that you used to sign up for classes at North Seattle. The reason is that this will be a relatively easy way for me to make sure that the students enrolled in the class are able to access our slack Channel, and that random people cannot.
-
-Once you have signed up for slack, spend some time filling out your profile make sure to make your profile picture and actual picture of you. And I believe every time from then on should you sign into slack, you'll see our abnormal psychology Channel.
-
- 
-The last thing about slack is that when it comes to sharing documents, you may need to add permissions for slack to interact with your word processing program. For instance I use Google Docs a lot and I have already added Google Docs as an app that is recognized by Slack.  Let me know which word processing program you use oh, it has to be a cloud-based, and I think I can add that to slack.  So far I've added Google Docs and Microsoft onedrive (both, I believe are free to use by North Seattle students.)
-
-##### Canvas will be used lightly.  First week discussions and introductions, a place to find this schedule, and a way for me to quickly send announcements. 
 
 # Week 1 {#Week1} 
 
