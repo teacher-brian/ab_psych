@@ -85,7 +85,7 @@ I'm a fan of gmail and google drive, but as a fee-paying student in the Seattle 
 
 When you write a paper, you can write it directly into the word application in OneDrive, or you could write your paper on your home computer, and then as necessary upload into oneDrive.  
 
-### Video Logging into and using oneDrive, Gmail
+### Videos:  How to Log into and using oneDrive, Gmail
 
 #### [Video how to log in to OneDrive--stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f92016e6-6dc6-4daa-a90c-ac4d013607a6){target='_blank'}
 
@@ -228,9 +228,9 @@ After reading the above...
 * Intro to alternative to DSM
   * [Video on Psychodynamic Diagnostic Manual
 ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardi_psychodynamic_2015; stored in canvas](https://canvas.northseattle.edu/courses/1963441/files?preview=149656124){target='_blank'}
+  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardi_psychodynamic_2015; stored in canvas](https://canvas.northseattle.edu/files/150345697){target='_blank'}
      * In particular the Table on mature functioning
-  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/courses/1963441/files?preview=149656126){target='_blank'}
+  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/150345696/){target='_blank'}
   
 After reading/watching the above...
 
@@ -242,12 +242,43 @@ After reading/watching the above...
 
 3. In it's own document, list some questions about the readings above and post them into the #week3 channel
 
-# Week 4  Still under construction {#Week4} 
+# Week 4 {#Week4} 
+
+## Read/watch the following
+
+* [Module 7: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-7-anxiety-disorders/){target="_blank"}
+
+* [humanistic intro](https://www.youtube.com/watch?v=KDRHaL6jyg8&list=PLDEwZwMNQswvPj4onxTjBdXgzFYJ6G-JJ&index=5){target="_blank"}
+
+* [first 3 videos of this youtube playlist on biopsych](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target="_blank"}
+
+
+## Do the following
+
+* Pick an Anxiety disorder form the following: 
+  +  panic
+  +  phobia
+  +  social anxiety disorder
+  +  generalized anxiety Disorder
+
+  * and find 2 articles that suggest what causes it
+    * The article should be from either these two school databases:
+      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
+      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
+
+* Write 1 or 2 paragraphs about what you have learned.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.  
+
+* post a link in the week 4 channel
+
+* Read 3 other student's work and engage them on their submission
+
+# Week 5  Still under construction {#Week5} 
+
+
+
 ```{block,type='instructorNote'}
 How to insert necessary and sufficient causes...Maybe if/when we discuss stats
 ```
-
-# Week 5  Still under construction {#Week5} 
 
 # Week 6  Still under construction {#Week6} 
 
