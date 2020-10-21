@@ -41,6 +41,7 @@ Read/watch some things, write some things.  You will save these written bits of 
 
 Rubrics and point chasing are harmful.  Or at worst they don't foster good thinking and education.  I am realizing that using them reduce anxiety in me, the instructor, because I don't have to actually consider the student.  
 
+An overview video on self reflection.  This is not a detailed set of instructions but a gentle intro. [self refleciton overveiw](https://youtu.be/rsH09jsGVSk){target='_blank'}
 
 ### Grades 
 
@@ -242,7 +243,7 @@ After reading/watching the above...
 
 3. In it's own document, list some questions about the readings above and post them into the #week3 channel
 
-# Week 4 {#Week4} 
+# Week 4 Oct 19 {#Week4} 
 
 ## Read/watch the following
 
@@ -272,7 +273,12 @@ After reading/watching the above...
 
 * Read 3 other student's work and engage them on their submission
 
-# Week 5  Still under construction {#Week5} 
+
+## Added material from "zoom lectures"
+
+* Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
+
+# Week 5 Oct 26  Still under construction {#Week5} 
 
 
 
