@@ -278,34 +278,33 @@ After reading/watching the above...
 
 * Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
 
-# Week 5 Oct 26  Still under construction {#Week5} 
+# Week 5 Oct 26 {#Week5} 
 
 ## 
 ## Do, Watch, and Read the following
 
-A. 
-
-B. 
-
-C. 
-D. 
-
-E. Read [Module 5: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-5-trauma-and-stressor-related-disorders/){target="_blank"}
-
+A. Read [Module 5: stress Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-5-trauma-and-stressor-related-disorders/){target="_blank"}
 
 ## Do the following
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Search for 3 reasonably competent definitions of trauma, but not the DSM.  You can use the DSM as a 4th source for contrast, if you want. Include references and do a quick summary/description of what you found. 
+2. In the same document, how would you defend your answer to the question: everyone goes through trauma.
+3. Post your paper in the #Stress channel.
+
+
+# Week 6  Still under construction Nov 2 {#Week6} 
+
+## Read the following
+
+A.
+
+B. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+C. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
 ```{block,type='instructorNote'}
 How to insert necessary and sufficient causes...Maybe if/when we discuss stats
 ```
-
-# Week 6  Still under construction {#Week6} 
 
 # Week 7  Still under construction {#Week7} 
 
