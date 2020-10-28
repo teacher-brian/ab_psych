@@ -79,6 +79,10 @@ The last thing about slack is that when it comes to sharing documents, you may n
 [Slack tips, will need to sing in to canvas for this video](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba5dc535-de92-40c7-9460-ac5301350a62){target='_blank'}
 
 ##### Canvas will be used lightly.  First week discussions and introductions, a place to find this schedule, and a way for me to quickly send announcements. 
+### Adding yourself to a hidden slack channel
+
+In Fall 2020, slack had a bug preventing the instructor from adding everyone to a channel with a single click.  This mean each person had to be added indvidually, which is very time consuming.  [This is a simple list of instructdions with pictures showing how to search then add yourself to a channel.](https://docs.google.com/document/d/1nH12L-FIFA2aXSMViuSt73WbAR9Fr78bQD0lpYTQLmg/edit?usp=sharing"){target='_blank'}  
+
 
 ## Access to OneDrive and email for students
 
