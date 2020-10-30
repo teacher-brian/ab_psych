@@ -305,17 +305,26 @@ A. Read [Module 5: stress Disorders](https://opentext.wsu.edu/abnormal-psych/cha
 
 ## Read the following
 
-A.
+A. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}
+
+* skim this but pay closer attention the semantic sections with the schematics for cars
+* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.  
+   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks
 
 B. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
 
 C. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
+## Do the following
+
+
+
+# Week 7  Still under construction {#Week7} 
+
+
 ```{block,type='instructorNote'}
 How to insert necessary and sufficient causes...Maybe if/when we discuss stats
 ```
-
-# Week 7  Still under construction {#Week7} 
 
 # Week 8  Still under construction {#Week8} 
 
