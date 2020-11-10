@@ -340,6 +340,8 @@ A. [Do the self-reflection quiz](https://forms.gle/fTvysGbvga1tLZzN9){target="_b
 
 B. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.   
 
+ * use the channel #re-write-self-reflection
+
  * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
 # Week 8  Still under construction {#Week8} 
@@ -347,6 +349,10 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
 Stats and Depression and Bipolar
 
+
+[Video of heavy depression](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/AbnormVids/Vid_Psychotic_dep_7min.mp4)
+
+[ECT example](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/AbnormVids/ECT_5min.mp4)
 
 
 ```{block,type='instructorNote'}
