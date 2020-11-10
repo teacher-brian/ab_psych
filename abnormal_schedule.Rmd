@@ -2,29 +2,28 @@
 title: "Abnormal Schedule Fall 2020"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
-output: 
+output:
   html_document:
-   css: style.css
-   toc: true
-   toc_float: true
-   toc_depth: 6
-   number_sections: false    # if true, section labels render
-   config:
+    config:
+      search: yes
       toc:
-        scroll_highlight: yes
-        before: |
-          <li><a href="./">Abnormal Psychology Fall 2020 schedule</a></li>
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        before: |
+          <li><a href="./">Abnormal Psychology Fall 2020 schedule</a></li>
+        scroll_highlight: yes
       toolbar:
         position: fixed
-  #    download: [ "epub"]  #Not sure how to set up for epub yet
-      search: yes
-bibliography: [Abnormal_references.bib]
-biblio-style: apalike
+    css: "style.css"
+    number_sections: no
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+description: This is a minimal example of using the rmarkdown package for abnormal
+  psychology
 link-citations: yes
-
-description: "This is a minimal example of using the rmarkdown package for abnormal psychology"
+bibliography: Abnormal_references.bib
+biblio-style: apalike
 ---
 
 ```{r setup, include=FALSE}
@@ -276,12 +275,11 @@ After reading/watching the above...
       * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
       * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
 
-* Write 1 or 2 paragraphs about what you have learned.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.  
+* Write 1 or 2 paragraphs about what you have learned.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
 
 * post a link in the week 4 channel
 
 * Read 3 other student's work and engage them on their submission
-
 
 ## Added material from "zoom lectures"
 
@@ -348,6 +346,8 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
 
 Stats and Depression and Bipolar
+
+
 
 ```{block,type='instructorNote'}
 How to insert necessary and sufficient causes...Maybe if/when we discuss stats
