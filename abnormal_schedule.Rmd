@@ -103,6 +103,20 @@ Please note that if you change the sharing settings, I think Microsoft creates a
 
 #### [How to share a google drive doc -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f8a111c-0346-4935-b556-ac4d013fed06){target='_blank'}
 
+##### If Uploading a .doc(x) to google 
+
+```{block,type='blueBackground'}
+If you upload a word document into google docs, google will not convert it to a google doc format; instead it will maintain it as a .doc(x) file type because some users are just using google drive as a repository to share word docx.
+
+But I can't leave feedback on those formats.
+
+* So, after uploading the docx file, 
+
+* right click the file and choose to 'open as a google doc'.
+
+* Then, share that file with edit capabilities. 
+```
+
 #### [How to see google drive revisions -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c3fcd6a-0ee9-4c97-9b71-ac4d013fed6b){target='_blank'}
 
 # Week 1 {#Week1} 
@@ -344,22 +358,29 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
  * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
-# Week 8  Still under construction {#Week8} 
-
+# Week 8  Still U.C. Nov 16 {#Week8} 
 
 Stats and Depression and Bipolar
 
+## read/watch
 
-[Video of heavy depression](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/AbnormVids/Vid_Psychotic_dep_7min.mp4)
+* [playlist of videos on depression and bipolar](https://www.youtube.com/playlist?list=PLDEwZwMNQswsr6gT7c0HT9rbpW5X-lstj){target="_blank"}
 
-[ECT example](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/AbnormVids/ECT_5min.mp4)
+### Stats
+
+[Intro to Histograms](https://youtu.be/qBigTkBLU6g?t=17){target="_blank"}
+
+[Normal Distributions](https://youtu.be/rzFX5NWojp0?t=12){target="_blank"}
+
+<!-- * [Intro to stat sampling](https://youtu.be/wt1cRxGGr0A){target="_blank"}   -->
+<!--     * [presentation slides can be found here](https://rpubs.com/briholt/abnormal_sampling){target="_blank"} -->
 
 
 ```{block,type='instructorNote'}
 How to insert necessary and sufficient causes...Maybe if/when we discuss stats
 ```
 
-# Week 9  Still under construction {#Week9} 
+# Week 9  Still under construction Nov 23 {#Week9} 
 
 
 Eating disorders
@@ -546,3 +567,4 @@ Yay.  Now you can find the other articles.
 # References {-}
 '`
 
+o
