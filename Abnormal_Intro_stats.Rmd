@@ -470,7 +470,7 @@ Stat Name  | Statistic
 Correlation  | `r cor.bfneur.epin`
 Standard Dev for PEN Neur  | `r sd(person.data$epiNeur)`
 Standard Dev for b5 Neur  | `r sd(person.data$bfneur)`
-Cor $\times$ (SD.pen / SD.bf)  | `r cor.bfneur.epin*sd(person.data$epiNeur)/sd(person.data$bfneur)`
+Cor $ (SD.pen / SD.bf)  | `r cor.bfneur.epin*sd(person.data$epiNeur)/sd(person.data$bfneur)`
 ----
 
 So, a linear regression is a process to find a best fitting line over data and for 2 variables gives you a visual image of a correlation.  You can have many variables when doing this and such a process will show you which variables have more or less influence over the outcome variable.  
