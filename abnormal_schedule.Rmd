@@ -251,7 +251,7 @@ After reading the above...
 * Intro to alternative to DSM
   * [Video on Psychodynamic Diagnostic Manual
 ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardi_psychodynamic_2015; stored in canvas](https://canvas.northseattle.edu/files/150345697){target='_blank'}
+  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](https://canvas.northseattle.edu/files/150345697){target='_blank'}
      * In particular the Table on mature functioning
   * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/150345696/){target='_blank'}
   
@@ -340,7 +340,7 @@ B. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
 
 * Read 3 other student's work and engage them on their submission
 
-# Week 7  Nov 9 {#Week7} 
+# Week 7 Nov 9 {#Week7} 
 
 ## Read the following:
 
@@ -396,39 +396,76 @@ Stats and Depression and Bipolar
 
 ## Do the following
 
-* search for a meta-analysis on a mood disorder (major, minor, persistent, bipolar (1,2) cyclothymia, dysthmia, or even the subtypes of depression (eg, Seasonal, postpartum)) and try to summarize the findings using your own words.  If you want to copy paste some of the language from the article, that is fine, but you should still try to use your own words to say it. 
+* Search for a meta-analysis on a mood disorder (major, minor, persistent, bipolar (1,2) cyclothymia, dysthymia, or even the sub types of depression (e.g., Seasonal, postpartum)) and try to summarize the findings using your own words.  If you want to copy paste some of the language from the article, that is fine, but you should still try to use your own words to say it. 
 
   * don't get lost in the details. I'm thinking this should not be more than 1 page, double spaced.  Aim for about 1/2 page of double spaced text. 
   
-* Write down 5 questions about the methods of the paper.  How did they do the metaanalysis?
+* Write down 5 questions about the methods of the paper.  How did they do the meta analysis?
  
 * Put both writings (summary and questions) into one document and post it in channel #meta_analysis
 
+# Week 9 Eating Disorders Nov 23 {#Week9} 
 
+* Make notice of the last week [final Project](#Week12).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
 
-```{block,type='instructorNote'}
-How to insert necessary and sufficient causes...Maybe if/when we discuss stats
-```
+## Eating disorders
 
-# Week 9  Still under construction Nov 23 {#Week9} 
+## Read 
 
+* [textbook Eating Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-10-eating-disorders/){target='_blank'}
 
-Eating disorders
+* [Read this excerpt from the PDM.2e](https://docs.google.com/document/d/18KIDPjn-xL48pphVnUrNr0rM3Ors4D1iDqgtr7QBMqs/edit?usp=sharing){target='_blank'} @lingiardiPsychodynamicDiagnosticManual2015a
 
+## Do
 
-# Week 10  Still under construction {#Week10} 
+* Write a few paragraphs on what, if any, is different between the two reading sources.
+* Post your work to slack channel #eating
 
+# Week 10 Psychotic Nov 30 {#Week10} 
 
 Schizophrenia
 
-# Week 11  Still under construction {#Week11}
+## Read 
+
+* [textbook psychotic Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-12-schizophrenia-spectrum-and-other-psychotic-disorders/){target='_blank'}
+
+* Skim necessary and sufficient @ConceptNecessaryConditions; most of this includes many examples. Go into the rabbit as far as you like, but at least try to doodle a grid of necessary/sufficient examples
+* Read **just** the abstract of @jablenskyDiagnosticConceptSchizophrenia2010, but read that abstract with diligence to word choices.  Have a dictionary handy and be sure to capture the meaning as well as the emotional/intentional nature of what was written.  Notice the year published
+* Read the introduction to schizophrenia on @CausesSchizophrenia2020
+* Read @harveyDualTaskInformationProcessing2006
 
 
-Personality Disorders
+## Do
 
-# Week 12  Still under construction {#Week12}
+* Write a short response to your thoughts about what you've read this week.  Keep it simple. Think about what strikes you as important.  
+* post to slack channel #psychotic
+* This week is heavier on reading, and less on writing.
 
-Final Reflection..including 2 page report on X
+# Week 11 Personality Disorders Still under construction Dec 6 {#Week11}
+
+
+## Read
+
+[Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'}
+
+* PDM on narcissism, antisocial, borderline
+
+## Do
+
+*
+* Post to slack channel #personality
+
+# Week 12 Closure Dec 15 {#Week12}
+
+[Final project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit?usp=sharing){target="_blank"}
+
+Be finished by Dec 17, 5pm (technically the business day of the the last day of the quarter)
+
+Don't be too stressed about this assignment name. It still follows the same format of read/do stuff but I have a few more instructions that take up space.  I thought I'd try a link out to it rather than embed it. 
+
+
+
+
 
 # Appendix
 
@@ -596,5 +633,3 @@ Yay.  Now you can find the other articles.
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
-
-o
