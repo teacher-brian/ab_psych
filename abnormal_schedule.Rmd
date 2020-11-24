@@ -446,13 +446,22 @@ Schizophrenia
 
 ## Read/watch
 
-[Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'}
+[Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'} #make note of the therapy options for Borderline
 
 * [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this will take you to panopto
 
+* read [[@westenEfficacyDialecticalBehavior2006]](https://abnormalpsych-group.slack.com/files/U01B6TEBD9V/F01G68PJR08/westen2006.pdf){target='_blank'}
+  * Note the date
+  * For 2.5 pages it is dense. Jot down 2 major ideas.  You may need summarize in your own words to step up and above the details.  
+  * Make a few notes on the motivation of the author
+ 
+* [follow up study example](https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.13077?casa_token=mOamZoqXZS4AAAAA%3A1srQWWBtGfy14Zt2imV1539TfVzoDefV8wgNPwmck7xR_z1vQEscq9U3Y8_s16E2mrs_7ZfX5Qwlra7ejg)
+
+
 ## Do
 
-*
+* if you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, study therapy concludes with participants, maybe they do a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better.)
+
 * Post to slack channel #personality
 
 # Week 12 Closure Dec 15 {#Week12}
