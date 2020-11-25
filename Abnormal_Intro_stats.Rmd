@@ -75,7 +75,7 @@ If the data points are really close around the average then you would have a sma
 
 A histogram is a visual representation of counting data points. They are also known as frequency distributions. So, it's not surprising that frequency count of data is its main purpose.
 
-[You should watch this video which is a nice gentle introduction to history grams.](https://youtu.be/qBigTkBLU6g?t=17){target='_blank'} [@statquestwithjoshstarmerStatQuestHistogramsClearly2017a]
+[You should watch this video which is a nice gentle introduction to histograms.](https://youtu.be/qBigTkBLU6g?t=17){target='_blank'} [@statquestwithjoshstarmerStatQuestHistogramsClearly2017a]
 
 ```{r,echo=F,message=F}
 library(psych)
