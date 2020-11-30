@@ -441,14 +441,15 @@ Schizophrenia
 * post to slack channel #psychotic
 * This week is heavier on reading, and less on writing.
 
-# Week 11 Personality Disorders Still under construction Dec 6 {#Week11}
-
+# Week 11 Personality Disorders Dec 6 {#Week11}
 
 ## Read/watch
 
 [Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'} #make note of the therapy options for Borderline
 
-* [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this will take you to panopto
+* [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this and the next few links will take you to panopto/canvas
+  * supporting file [Levels of orgnaization](https://canvas.northseattle.edu/courses/1963336/files/150345697){target='_blank'}
+  * [Personality Disorder examples from PDM](https://canvas.northseattle.edu/courses/1963336/files/150345696){target='_blank'}
 
 * read [[@westenEfficacyDialecticalBehavior2006]](https://abnormalpsych-group.slack.com/files/U01B6TEBD9V/F01G68PJR08/westen2006.pdf){target='_blank'}
   * Note the date
@@ -460,7 +461,9 @@ Schizophrenia
 
 ## Do
 
-* if you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, study therapy concludes with participants, maybe they do a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better.)
+* Recall the 4 D's.  Write a response to the following:  In diagnosing a personality disorder what are some obstacles and or features to consider to differentiate them from healthy personalities? 
+
+* If you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, study therapy concludes with participants, maybe they do a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better.)
 
 * Post to slack channel #personality
 
@@ -468,6 +471,13 @@ Schizophrenia
 
 [Final project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit?usp=sharing){target="_blank"}
 
+
+```{block, type='blueBackground'}
+
+When searching for articles, be sure to track/take note of your search terms and combinations.  
+
+This is important to save time.  It is not uncommon to accidentally lose articles and so you must go back and re-search.  Having no record of search terms may mean you have to recreate that history and it's time consuming.  
+```
 Be finished by Dec 17, 5pm (technically the business day of the the last day of the quarter)
 
 Don't be too stressed about this assignment name. It still follows the same format of read/do stuff but I have a few more instructions that take up space.  I thought I'd try a link out to it rather than embed it. 
