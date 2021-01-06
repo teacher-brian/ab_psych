@@ -166,7 +166,7 @@ Although I have some expert content knowledge in psychology, it's not exhaustive
 
 7. watch intro lecture on epistemology
 
-[![Epistemology 8min](./images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
+[![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
 
 8. **Skim from page 2**, sub heading "The Theory of Knowledge"** of the article: An introduction to Stephen C. Pepper's
 philosophical system via
@@ -174,9 +174,9 @@ _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in s
 
 9. Watch two vids on Ontology, essentially a review of the World hypotheses reading above:
 
-[![Ontology 1 7 min](./images/Ontology_Mech_Organ.png){width="40%"}](https://youtu.be/_7hkv6O-nBY "Ontology 1"){target="_blank"}
+[![Ontology 1 7 min](../images/Ontology_Mech_Organ.png){width="40%"}](https://youtu.be/_7hkv6O-nBY "Ontology 1"){target="_blank"}
 
-[![Ontology 1 7 min](./images/Ontology_form_context.png){width="40%"}](https://www.youtube.com/watch?v=gbdqJ0ZGvLM "Ontology 2"){target="_blank"}
+[![Ontology 1 7 min](../images/Ontology_form_context.png){width="40%"}](https://www.youtube.com/watch?v=gbdqJ0ZGvLM "Ontology 2"){target="_blank"}
 
 10. Read about "stereotype threat".  Not stereotypes.  There is a difference.  You'll need to find a source or two on your own.  
 
@@ -471,12 +471,13 @@ Schizophrenia
 
 [Final project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit?usp=sharing){target="_blank"}
 
+[Final Self-reflection](https://forms.gle/cq5vqRgHy3KCVgqV6){target="_blank"}
 
 ```{block, type='blueBackground'}
 
 When searching for articles, be sure to track/take note of your search terms and combinations.  
 
-This is important to save time.  It is not uncommon to accidentally lose articles and so you must go back and re-search.  Having no record of search terms may mean you have to recreate that history and it's time consuming.  
+This is important to save time.  It is not uncommon to accidentally lose articles and so you must go back and re-search.  Having no record of search terms may mean you have to recreate that history and it's time consuming.  oo
 ```
 Be finished by Dec 17, 5pm (technically the business day of the the last day of the quarter)
 
@@ -598,7 +599,7 @@ That Proquest research library is the database that you've all paid fees to acce
 
 5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
 
-![North's Find Periodicals](./images/NorthLibrarySearch.png)
+![North's Find Periodicals](../images/NorthLibrarySearch.png)
 
 6. Click on "A to Z"
 
