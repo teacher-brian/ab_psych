@@ -15,7 +15,7 @@ output:
       toolbar:
         position: fixed
     css: "style.css"
-    number_sections: no
+    number_sections: yes
     toc: yes
     toc_depth: 6
     toc_float: yes
@@ -132,13 +132,13 @@ After reading the above...
 
 ## Do the following
 
-1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the [#muddy-point-channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TKG6HWQZ){target='_blank'}
+1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the  [#muddy-point-channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TKG6HWQZ){target='_blank'}
     * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
     * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
 
 
-2. When you are done, highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the slack channel [#week 2 channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TK9N3S2V){target='_blank'. 
+2. When you are done, highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the slack channel [#week 2 channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TK9N3S2V){target='_blank'}. 
 
 3. Read a few other students and make some comments on their post. 
 ```{block,type='blueBackground'}
