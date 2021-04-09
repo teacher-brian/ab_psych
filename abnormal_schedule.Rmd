@@ -15,7 +15,7 @@ output:
       toolbar:
         position: fixed
     css: "style.css"
-    number_sections: yes
+    number_sections: no
     toc: yes
     toc_depth: 6
     toc_float: yes
@@ -76,6 +76,18 @@ Although I have some expert content knowledge in psychology, it's not exhaustive
  
       *Ethnocentrism
 
+```{block,type='blueBackground'}
+
+Okay, the following itesm ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
+
+Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, what part of the reading or video were you just watching?  And don't be afraid to keep asking 'so what?'
+
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point channel](https://lifespanpsychology.slack.com/archives/C01T8MQRP26){target="_blank"}
+
+
+Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
+```
+
 7. watch intro lecture on epistemology
 
 [![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
@@ -110,7 +122,7 @@ _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in s
 
 The idea is to be doing weekly writing about the things we read and the prompts that I give you and then you're going to share that information in slack.
 
-# Week 2 {#Week2} 
+# Week 2 April 12 {#Week2} 
 
 
 ## Read the following
@@ -132,11 +144,9 @@ After reading the above...
 
 ## Do the following
 
-1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the  [#muddy-point-channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TKG6HWQZ){target='_blank'}
+1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar with those articles.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the  [#muddy-point-channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TKG6HWQZ){target='_blank'}
     * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
     * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
-
-
 
 2. When you are done, highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the slack channel [#week 2 channel](https://abnormalpsych-mxs4843.slack.com/archives/C01TK9N3S2V){target='_blank'}. 
 
@@ -148,6 +158,85 @@ You can also link to each post or side thread.
 
 You can even set a reminder to revisit a post by right clicking on the 3 vertical dots (more actions) .
 ```
+
+# Week 3 April 19{#Week3} 
+
+## Read the following
+
+* [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
+
+* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019.....[link to canvas file](https://canvas.northseattle.edu/courses/1963336/files?preview=149657337){target='_blank'}
+
+* Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015
+
+* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
+
+* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
+
+* Intro to alternative to DSM
+  * [Video on Psychodynamic Diagnostic Manual
+](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}
+  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](https://canvas.northseattle.edu/files/150345697){target='_blank'}
+     * In particular the Table on mature functioning
+  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/150345696/){target='_blank'}
+  
+After reading/watching the above...
+
+## Do the following
+
+1. In the one document to rule them all, write about which psychology Model from ch2 resonates with you and why.
+
+2. In your document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the [#soup](https://abnormalpsych-mxs4843.slack.com/archives/C01TCRTHRB6){target='_blank'} channel
+
+3. In the one document to rule them all, list some questions about the readings above.  You don't need to repost it. 
+
+# Week 4 April 26 {#Week4} 
+
+## Read/watch the following
+
+* [Module 7: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-7-anxiety-disorders/){target="_blank"}
+
+* [humanistic intro](https://www.youtube.com/watch?v=KDRHaL6jyg8&list=PLDEwZwMNQswvPj4onxTjBdXgzFYJ6G-JJ&index=5){target="_blank"}
+
+* [first 3 videos of this youtube playlist on biopsych](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target="_blank"}
+
+
+## Do the following
+
+* Pick an Anxiety disorder form the following: 
+  +  panic
+  +  phobia
+  +  social anxiety disorder
+  +  generalized anxiety Disorder
+
+  * and find 2 articles that suggest what causes it
+    * The article should be from either these two school databases:
+      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
+      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
+
+* Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
+
+* Post a link in the week 4 channel.  You can find it by searching for it in at the top of slack.
+
+* Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
+
+## Added material from "zoom lectures"
+
+* Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
+
+# Week 5 May 3 {#Week5} 
+
+## 
+## Do, Watch, and Read the following
+
+A. Read [Module 5: stress Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-5-trauma-and-stressor-related-disorders/){target="_blank"}
+
+## Do the following
+
+1. Search for 3 reasonably competent definitions of trauma, but not the DSM.  You can use the DSM as a 4th source for contrast, if you want. Include references and do a quick summary/description of what you found. 
+2. In the same document, how would you defend your answer to the question: everyone goes through trauma.
+3. Post your paper in the #Stress channel.
+
 
 
 
