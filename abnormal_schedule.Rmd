@@ -375,7 +375,7 @@ For help in distinguishing the different types of sources, the library has some 
 
 ```
 
-8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to give your last name and student ID number. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to your @seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
 
 9. You should see you simple search box, where you can enter in important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
 
@@ -385,7 +385,7 @@ When you search for those two terms in their respective fields, you will get two
 
 Yay.  Now you can find the other articles. 
 
-### A quick video of the process
+### A quick video of the process (some day once ctclink matures)
 
 ## Anatomy of a journal article
 
