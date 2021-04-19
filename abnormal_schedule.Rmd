@@ -159,13 +159,13 @@ You can also link to each post or side thread.
 You can even set a reminder to revisit a post by right clicking on the 3 vertical dots (more actions) .
 ```
 
-# Week 3 April 19{#Week3} 
+# Week 3 April 19 {#Week3} 
 
 ## Read the following
 
 * [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
 
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019.....[link to canvas file](https://canvas.northseattle.edu/courses/1963336/files?preview=149657337){target='_blank'}
+* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019.....[link to canvas file](https://canvas.northseattle.edu/files/167489848/download?download_frd=1){target='_blank'}
 
 * Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015
 
@@ -176,9 +176,9 @@ You can even set a reminder to revisit a post by right clicking on the 3 vertica
 * Intro to alternative to DSM
   * [Video on Psychodynamic Diagnostic Manual
 ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](https://canvas.northseattle.edu/files/150345697){target='_blank'}
+  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](){target='_blank'}
      * In particular the Table on mature functioning
-  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/150345696/){target='_blank'}
+  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/167489847){target='_blank'}
   
 After reading/watching the above...
 
