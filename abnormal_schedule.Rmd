@@ -216,7 +216,7 @@ After reading/watching the above...
 
 * Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
 
-* Post a link in the week 4 channel.  You can find it by searching for it in at the top of slack.
+* Post a link in the [week 4 channel](https://abnormalpsych-mxs4843.slack.com/archives/C020A3GG84E){target="_blank"}. 
 
 * Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
 
@@ -234,10 +234,53 @@ A. Read [Module 5: stress Disorders](https://opentext.wsu.edu/abnormal-psych/cha
 ## Do the following
 
 1. Search for 3 reasonably competent definitions of trauma, but not the DSM.  You can use the DSM as a 4th source for contrast, if you want. Include references and do a quick summary/description of what you found. 
-2. In the same document, how would you defend your answer to the question: everyone goes through trauma.
-3. Post your paper in the #Stress channel.
+2. In the same document, how would you defend your answer to the statement:
+
+>Everyone goes through trauma.
+
+3. Post your paper in the [#Stress](https://abnormalpsych-mxs4843.slack.com/archives/C0216NQNT8Q){target="_blank"} channel.
 
 
+# Week 6 May 10 {#Week6} 
+
+## Read the following
+
+A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+B. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+C. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}
+
+* skim this but pay closer attention the semantic sections with the schematics for cars
+* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.  
+   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks
+
+D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-9-obsessive-compulsive-and-related-disorders/){target="_blank"}
+
+## Do the following
+
+ 1. Pick one of the disorders in the OCD module: 
+  
+  * and find 2 articles that discusses its cognitive pattern
+    * The article should be from either these two school databases:
+      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
+      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
+
+ 2. Write a page about what you have learned.  Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
+
+ 3. post a link in the [OCD channel](https://abnormalpsych-mxs4843.slack.com/archives/C020A51K546){target="_blank"}
+
+ 4. Pick 2 other students and invite them to read your post. In the invitation, think about what you might like to receive some feedback about. 
+   * if you are invited to give feedback, you don't have to but should you give feedback be kind and try to adhere to the request. 
+
+ 5. [Do A self-reflection Survey](https://forms.gle/v6FwuBw1gPtXfevQ8){target="_blank"}
+
+    * the text boxes you see in this 'quiz' will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words.
+
+ 6. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.   
+    * Don't edit your original work.  Make a new entry in your One-google-doc to rule
+    * use the channel [#re-write-self-reflection](https://abnormalpsych-mxs4843.slack.com/archives/C02025C0VT9){target="_blank"}
+    * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
 
 # Appendix
