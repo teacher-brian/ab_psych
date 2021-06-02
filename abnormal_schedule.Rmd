@@ -78,7 +78,7 @@ Although I have some expert content knowledge in psychology, it's not exhaustive
 
 ```{block,type='blueBackground'}
 
-Okay, the following itesm ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
+Okay, the following items ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
 
 Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, what part of the reading or video were you just watching?  And don't be afraid to keep asking 'so what?'
 
@@ -354,6 +354,14 @@ Stats and Depression and Bipolar
 
 ## Read 
 
+* Schizophrenia videos
+    * [Introduction.1  8 min  we talked about this in class 6/2/21](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
+    * [Introduction.2  3  min we talked about this in class 6/2/21](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770a8f9c-d5e1-4227-8574-abd501162fef){target='_blank'}
+    * [Causes  9 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
+    * [Schizophrenia Example 1  7 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7c9382-0d68-4492-bb67-abd501162962){target='_blank'}
+    * [Schizophrenia Example 2  10 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf324e4-5d6a-403c-a1cb-abd50185b083){target='_blank'}
+
+
 * [textbook psychotic Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-12-schizophrenia-spectrum-and-other-psychotic-disorders/){target='_blank'}
 
 * Skim necessary and sufficient @ConceptNecessaryConditions; most of this includes many examples. Go into the rabbit as far as you like, but at least try to doodle a grid of necessary/sufficient examples
@@ -547,7 +555,7 @@ For help in distinguishing the different types of sources, the library has some 
 
 ```
 
-8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to your @seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to your @ seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
 
 9. You should see you simple search box, where you can enter in important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
 
