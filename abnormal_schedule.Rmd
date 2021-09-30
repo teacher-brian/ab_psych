@@ -109,7 +109,7 @@ _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in s
 
 1. Introduce yourself the Slack introductions channel
 
-2. Write something about what interests you about Abnormal psychology in your one google doc. Be sure to give it a title.  You can also insert a page break between your writings.  
+2. Write something about what interests you about Abnormal psychology in your one google doc. Be sure to give it a title.  You can also insert a page break between your writings.  [Information about using a single google document](https://rstudio-pubs-static.s3.amazonaws.com/711457_72d13aaf16ff4f0987915648b6bf47b1.html#oneToRule){target='_blank'}
 
 3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [#week_1](https://abnormalpsych-zvs3360.slack.com/archives/C02F16DLQ8P){target='_blank'} slack channel by including a link to your document from step 2 above.
 
