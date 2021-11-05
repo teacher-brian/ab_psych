@@ -220,7 +220,7 @@ You can't know for sure, so you say that 5 out of 100 times you would be willing
 
 If the null hypothesis is true, the p-value is the probability that the found effect, or one larger, is real.  It's saying that when you find a difference between groups, that the chance of finding that difference (or one larger) has a certain probability, or a p-value---assuming that the null is true.  
 
-For example, let's say I do a study seeing the effect of regular dancing(IV) has on life satisfaction (DV).   Let's say I have 2 groups, one group does not dancing, like no physical activity during the week while the experimental group does 1 hour of dancing 5 days for the week. 
+For example, let's say I do a study seeing the effect of regular dancing(IV) has on life satisfaction (DV).   Let's say I have 2 groups, one group does no dancing, like no physical activity during the week while the experimental group does 1 hour of dancing for 5 days for the week. 
 
 Let's say I find that the average life satisfaction reports (the DV) are different between the two groups.  Say, control =2/5; dance = 4/5, after performing the appropriate test (t-test, most likely) finding the p-value is .03.  What does that mean?
 
