@@ -267,7 +267,7 @@ Also, remember the 3 main parts of John Stuart Mills thoughts on Cause and effec
 
 1. Co-variance between variables (correlation)
 
-2. Temporal precedence (the cause has to come before the effect
+2. Temporal precedence (the cause has to come before the effect)
 
 3. All other explanations must be ruled out.
 
