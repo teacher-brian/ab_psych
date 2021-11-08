@@ -1,0 +1,93 @@
+---
+title: "Sensitivity_ASD_PTSD"
+author: "Brian Holt"
+date: "11/7/2021"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(gt)
+library(tidyverse)
+```
+
+https://www.ptsd.va.gov/publications/rq_docs/V24N1.pdf  2013 update
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5381710/  says it's pretty good 2017 maybe just for kids?
+
+well, midnight phone research led to me losing the cite.   Having kids makes it hard to work.  I either ignore them or the work.  
+
+sensitivity was `r sen = .86`
+specificity was `r spec =.29`
+
+Now, sensitivity is found By taking the total cases marked as true positives / true positives plus false negatives 
+
+or TP / (TP + FN)
+
+While specificity is  TN / (TN + FP)
+
+https://www.nottingham.ac.uk/nmp/sonet/rlos/ebp/sensitivity_specificity/page_four.html
+
+
+So, using some algebra
+
+```{r, grid set up, echo=T}
+tp <- 9
+tn <- 69
+fp <- 1
+fn <- 21
+(ptsd.absent <- fp+tn)
+(ptsd.present <- tp+fn)
+(tot.pos <- tp+fp)
+(tot.neg <- tn+fn)
+
+tt <- tibble(metric =c('tp','fp','tn','fn'),
+             value = c(tp,fp,tn,fn),
+             column= c(1,2,2,1))
+gt(tt) %>% 
+   tab_header(
+    title = "Sensitivity/Specificity example",
+    subtitle = "ASD as a diagnostic test for PTSD"
+  ) %>% 
+  tab_row_group(
+    label = 'test outcome',
+    rows = c(1,4)
+  )
+```
+
+.86 = Sensitivity = TP/TP+FN
+
+
+```{r,echo=T}
+p.ptsd <- rbinom(1e5,1,.03)
+asd <- rep(0,1e5)
+df<- data.frame(p.ptsd,asd)
+
+
+df[p.ptsd==1,'asd'] <- rbinom(length(df[p.ptsd==1,'asd']),1,.85)
+df[p.ptsd!=1,'asd'] <- rbinom(length(df[p.ptsd!=1,'asd']),1,.7)
+(sens <- table(df)[4]/(table(df)[4]+table(df)[2]))
+(spec <- table(df)[1]/(table(df)[1]+table(df)[3]))
+
+'tp <- table(df)[4]
+fp <- table(df)[3]
+tn <- table(df)[1]
+fn <- table(df)[2]
+'
+df %>% pivot_longer(c(p.ptsd,asd)) %>%
+  group_by(name) %>% summarise(total = sum(value))
+  ggplot(aes(y=value))+geom_histogram()+facet_grid(~name)
+
+
+
+
+s.1<- sample(p,100,replace=T)
+
+
+```
+
+
+
+
+
+One thing might be to do the above, but to use a gradient of severity to give it continous data
