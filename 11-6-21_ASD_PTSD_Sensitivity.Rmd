@@ -17,9 +17,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5381710/  says it's pretty good 201
 
 well, midnight phone research led to me losing the cite.   Having kids makes it hard to work.  I either ignore them or the work.  
 
-sensitivity was `r sen = .86`
-specificity was `r spec =.29`
-
+/
 Now, sensitivity is found By taking the total cases marked as true positives / true positives plus false negatives 
 
 or TP / (TP + FN)
@@ -28,6 +26,7 @@ While specificity is  TN / (TN + FP)
 
 https://www.nottingham.ac.uk/nmp/sonet/rlos/ebp/sensitivity_specificity/page_four.html
 
+\newpage
 
 So, using some algebra
 
@@ -76,12 +75,12 @@ fn <- table(df)[2]
 '
 df %>% pivot_longer(c(p.ptsd,asd)) %>%
   group_by(name) %>% summarise(total = sum(value))
-  ggplot(aes(y=value))+geom_histogram()+facet_grid(~name)
+  #ggplot(aes(y=value))+geom_histogram()+facet_grid(~name)
 
 
 
 
-s.1<- sample(p,100,replace=T)
+#s.1<- sample(p,100,replace=T)
 
 
 ```
@@ -90,4 +89,4 @@ s.1<- sample(p,100,replace=T)
 
 
 
-One thing might be to do the above, but to use a gradient of severity to give it continous data
+One thing might be to do the above, but to use a gradient of severity to give it continuous data
