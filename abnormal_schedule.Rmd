@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Schedule Fall 2021"
+title: "Abnormal Schedule Spring 2022"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output:
@@ -10,7 +10,7 @@ output:
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
         before: |
-          <li><a href="./">Abnormal Psychology Fall 2021 schedule</a></li>
+          <li><a href="./">Abnormal Psychology Spring 2022 schedule</a></li>
         scroll_highlight: yes
       toolbar:
         position: fixed
@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Week 1  Sept 27 {#Week1} 
+# Week 1  {#Week1} 
 
 ## What do you want to focus on
 Think about what you want to learn:
@@ -111,7 +111,7 @@ _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in s
 
 2. Write something about what interests you about Abnormal psychology in your one google doc. Be sure to give it a title.  You can also insert a page break between your writings.  [Information about using a single google document](https://rstudio-pubs-static.s3.amazonaws.com/711457_72d13aaf16ff4f0987915648b6bf47b1.html#oneToRule){target='_blank'}
 
-3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [#week_1](https://abnormalpsych-zvs3360.slack.com/archives/C02F16DLQ8P){target='_blank'} slack channel by including a link to your document from step 2 above.
+3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [#week_1](https://northseattlea-yus1991.slack.com/archives/C03AKRTM2QY){target="_blank"} slack channel by including a link to your document from step 2 above.
 
     what is your process for thinking clearly?
 
@@ -122,7 +122,8 @@ _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in s
 
 The idea is to be doing weekly writing about the things we read and the prompts that I give you and then you're going to share that information in slack.
 
-# Week 2 Oct 4 {#Week2} 
+
+# Week 2 Apr 11 {#Week2} 
 
 
 ## Read the following
@@ -146,31 +147,42 @@ After reading the above...
 
 ## Do the following
 
-1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar with those articles.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the  [#muddy-point-channel](https://abnormalpsych-zvs3360.slack.com/archives/C02F14B3V8F){target='_blank'}
+1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar with those articles.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the #muddy-point-channel.
     * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
     * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
-2. When you are done, highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the slack channel [#week 2 channel](https://abnormalpsych-zvs3360.slack.com/archives/C02FN4NFAF6){target='_blank'}. 
+2. When you are done, create a link to your work: highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the slack channel #week 2 channel.
 
-3. Read a few other students and make some comments on their post. 
+3. Read a few other students and make some comments on their post.   Use google docs to make these comments.  highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'cntrl + alt +m'
+
 ```{block,type='blueBackground'}
-When you hover your mouse over a person's post, you should see a little floating menu.  One of the icons allows you to reply. It makes a side thread.   This keeps the channel a bit more tidy and easier to read.  
+In slack, when you hover your mouse over a person's post, you should see a little floating menu.  One of the icons allows you to reply. It makes a side thread. This keeps the channel a bit more tidy and easier to read.  
 
 You can also link to each post or side thread.
 
 You can even set a reminder to revisit a post by right clicking on the 3 vertical dots (more actions) .
 ```
 
-# Week 3 Oct 11 {#Week3} 
+# Week 3 Apr 18 {#Week3} 
 
 ## Read the following
 
+
+```{block,type = 'instructorNote'}
+
+If any of these links don't work, let me know. 
+
+This has to do with one of the reasons I dislike canvas: I have to move some files from a previous class to this one, rather than having a repository that I can use for multiple classes.  So, I have to upload similar files to new classes, which opens up the possibility of mistakes. 
+
+```
+
 * [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
 
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019
-    * [link to canvas file](https://canvas.northseattle.edu/files/179665179/download?download_frd=1){target='_blank'}
 
-* Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015
+* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019
+    * [link to canvas file](https://canvas.northseattle.edu/courses/2205994/files/192518787/download?download_frd=1){target='_blank'}
+
+* Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015  (In the reference section, I give a link to our school database...it may or may not work.  Post to logistics for help.)
 
 * [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
 
@@ -178,24 +190,34 @@ You can even set a reminder to revisit a post by right clicking on the 3 vertica
 
 * Intro to alternative to DSM
   * [Video on Psychodynamic Diagnostic Manual
-](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](https://canvas.northseattle.edu/files/179665175){target='_blank'}
-     * In particular the Table on mature functioning
-  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/179665177){target='_blank'}
+](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}  This link should take you to a video that should work. If not, say something in the logistics channel. 
+  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](https://canvas.northseattle.edu/files/192518784){target='_blank'}  This should either open a canvas page or it will ask you to log in and download. 
+     * In particular the Table on mental functioning
+  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/192518785){target='_blank'} This should either open a canvas page or it will ask you to log in and download. 
   
+```{block,type='blueBackground'}
+In case there is trouble finding these links above, here is a link directly to the "files" section in our Canvas shell:
+
+[https://canvas.northseattle.edu/courses/2205994/files](https://canvas.northseattle.edu/courses/2205994/files){target='_blank'}
+
+I'm using canvas in order to protect copyright of these materials. 
+```
+
 After reading/watching the above...
 
 ## Do the following
 
 1. In the one document to rule them all, write about which psychology Model from ch2 resonates with you and why.
 
-2. In your document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the [#soup](https://abnormalpsych-zvs3360.slack.com/archives/C02F95X1EP8){target='_blank'} channel
+2. In your document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the #soup channel
 
 3. In the one document to rule them all, list some questions about the readings above.  You don't need to re-post it. 
 
 
 
-# Week 4 Oct 18 {#Week4} 
+
+
+# Week 4 April 25 {#Week4} 
 
 ## Read/watch the following
 
@@ -221,7 +243,7 @@ After reading/watching the above...
 
 * Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
 
-* Post a link in the [week 4 channel](https://abnormalpsych-zvs3360.slack.com/archives/C02H6ESJ22W){target="_blank"}. 
+* Post a link in the week 4 channel
 
 * Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
 
@@ -229,12 +251,18 @@ After reading/watching the above...
 
 * Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
 
-# Week 5 October 25 {#Week5} 
+# Week 5 May 2 {#Week5} 
 
 ## 
 ## Do, Watch, and Read the following
 
 A. Read [Module 5: stress Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-5-trauma-and-stressor-related-disorders/){target="_blank"}
+
+B. Read Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+C. Read Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+
 
 ## Do the following
 
@@ -243,17 +271,56 @@ A. Read [Module 5: stress Disorders](https://opentext.wsu.edu/abnormal-psych/cha
 
 >Everyone goes through trauma.
 
-3. Post your paper in the [#Stress](https://abnormalpsych-zvs3360.slack.com/archives/C02H8LMEDL4){target="_blank"} channel.
+3. Post your paper in the #Stress channel.
+
+4. Do A [self-reflection Survey](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform){target="_blank"}
+
+    * The text boxes you see in this survey will expand to accommodate what you need to write. In other words, don’t feel like you must only say like 3 words to just fit the box shown.
 
 
-# Week 6 November 1 {#Week6} 
+
+```{block,type='blueBackground'}
+<h4 style="text-decoration: underline;">Why write our research up?</h4>
+
+For some of you, the invitation to join into a expert research conversation may still seem easy to decline but if you accept it you'll have to find a good question, search for sound data, formulate and support a good answer and then write it all up and even if you turn out a first-rate paper, it may be read not by anyone in the world but only by your teacher. And besides, you may think, my teacher knows all about my topic. What do I gain from writing up my research, other than proving I can do it?
+
+One answer is that we write not just to share our work but to improve it before we do.
+
+<h4 style="text-decoration: underline;">Write to remember</h4>
+
+Experienced researchers first write just to remember what they read. A few talented people can hold in mind masses of information, but most of us get lost when we think about what *Smith found in light of Wong's position, and compare both to the odd data in Brunelli, especially as they are supported by Buscovich but what was it that Smith said?* When you don't take notes on what you read, you are likely to forget or, worse misremember it.
+
+<h4 style="text-decoration: underline;">Write to understand</h4>
+
+The second reason for writing is to see larger patterns in what you read. When you arrange and rearrange the results of your research in new ways, you discover new implications, connections, and complications. Even if you could hold it all in mind, you would need help to line up arguments that pull in different directions, plot out complicated relationships, sort out disagreements among experts. 
+
+*I want to use these claims from long, but her argument is undercut by Smith's data. When I put them side-by-side, I see that Smith ignores this last part of Wong's argument. aha! If I introduce it with this part from Brunelli, I can focus on one more clearly. *
+
+That's why careful researchers never put off writing until they've gathered all the data they need: they write from the start of their projects to help them assemble their information in new ways. 
+
+<h4 style="text-decoration: underline;">Write to test your thinking</h4>
+
+But even when they agree that writing is an important part of learning thinking and understanding some still wonder why they can't write up their research in their own way, why they have to satisfy demands imposed by a community that they have not joined, or even want to, and conform to conventions they did nothing to create. 
+
+*Why should I adopt language in forms that are not mine? Aren't you just trying to turn me into an academic light yourself? If I write as you expect me to, I risk losing my identity.*
+
+Such concerns are legitimate (most teachers wish students would raise them more often). But it would be a feeble education that did not change you at all, and the deeper your education the more it will change the "you" that you are or want to be.
+
+That's why it is so important to choose carefully what you study and with whom. But it would be a mistake to think that learning to report sound research must threaten your true identity. It will change the way you think, but only by giving you more ways of thinking. You will be different by being freer to choose who you want to be and what you want to do with your life. 
+
+But the most important reason for learning to write in ways readers expect is that when you write for others, **you demand more of yourself and when you write for yourself alone.** By the time you fix your ideas in writing, they are so familiar to you that you need help to see them not for what you want them to be *but for what they really are.* 
+
+You will understand your own work better when you try to anticipate your readers inevitable and critical questions: how have you evaluated your evidence? Why do you think it's relevant? What ideas have you considered but rejected?
+```
+
+# Week 6 May 9 {#Week6} 
 
 ```{block, type='instructorNote'}
-On Wednesday, November 3, there will be no classes held for the whole school.  
+On Thursday, May 12, there will be no classes held for the whole school.  
 
 Faculty are expected to be doing other college work.  
 
-Which means none of you can be required to attend any class on 11/3.  For any class.  In the whole Seattle college district.  
+Which means none of you can be required to attend any class on 5/12.  For any class.  In the whole Seattle college district.  
 ```
 
 
@@ -282,7 +349,7 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
 
  2. Write a page about what you have learned.  Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
 
- 3. post a link in the [OCD channel](https://abnormalpsych-zvs3360.slack.com/archives/C02H6F3FM0A){target="_blank"}
+ 3. post a link in the [OCD channel](https://northseattlea-yus1991.slack.com/archives/C03EMV7UGKT){target="_blank"}
 
  4. Pick 2 other students and invite them to read your post. In the invitation, think about what you might like to receive some feedback about. 
     * Invite people to help you on any of the critical thinking standards, for example. 
@@ -291,18 +358,13 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
     * Remember that they are trying things out and are sharing potentially vulnerable parts of their lives.  If you need help giving feedback, send your instructor a /dm and I can help.
     * Also, because it’s still the pandemic and everything is just hard, don’t fret if people you invite can’t respond. It’s likely that they are just overwhelmed with something.
     
-
- 5. [Do A self-reflection Survey](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}
-
-    * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown.
-
- 6. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.   
+ 5. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't finish the synthesis paper, for example, don't use it here.   
     * Don't edit your original work.  Make a new entry in your One-google-doc to rule
-    * use the channel [#re-write-self-reflection](https://abnormalpsych-zvs3360.slack.com/archives/C02HK3V75BK){target="_blank"}
-    * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
+    * use the channel [#re-write-self-reflection](https://northseattlea-yus1991.slack.com/archives/C03E2MD16RL){target="_blank"}
+    * In the rewrite, you may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
 
-# Week 7 November 8 {#Week7} 
+# Week 7 May 16 {#Week7} 
 
 Stats and Depression and Bipolar
 
@@ -340,7 +402,7 @@ Stats and Depression and Bipolar
 
 ### Brian's workflow video
 
-I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically. 
+I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  But it's tedious.  Workflow isn't really exciting, so watch at 2x speeds and skip a lot. 
 
 [Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}
 
@@ -354,140 +416,8 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
   
 * Write down 5 questions about the methods of the paper.  How did they do the meta analysis?
  
-* Put both writings (summary and questions) into the one document and post it in channel [#meta_analysis.](https://abnormalpsych-zvs3360.slack.com/archives/C02LA798E3W){target='_blank'}
+* Put both writings (summary and questions) into the one document and post it in channel [#meta_analysis.](https://northseattlea-yus1991.slack.com/archives/C03FDQGM9M0){target='_blank'}
 
-
-
-# Week 8 Eating Disorders Nov 15 {#Week8} 
-
-* Make notice of the last week [final Project](#Week12).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
-
-## Eating disorders
-
-## Read 
-
-* [textbook Eating Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-10-eating-disorders/){target='_blank'}
-
-* [Read this excerpt from the PDM.2e](https://docs.google.com/document/d/18KIDPjn-xL48pphVnUrNr0rM3Ors4D1iDqgtr7QBMqs/edit?usp=sharing){target='_blank'} @lingiardiPsychodynamicDiagnosticManual2015a
-
-## Do
-
-* Write a few paragraphs on what, if any, is different between the two reading sources.
-* Post your work to slack channel #eating
-
-# Week 9  Psychotic Nov 22 {#Week9} 
-
-* Make notice of the last week [final Project](#Week12).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
-
-## Read 
-
-* Schizophrenia videos
-    * [Introduction.1  8 min  we talked about this in class 6/2/21](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
-    * [Introduction.2  3  min we talked about this in class 6/2/21](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770a8f9c-d5e1-4227-8574-abd501162fef){target='_blank'}
-    * [Causes  9 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
-    * [Schizophrenia Example 1  7 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7c9382-0d68-4492-bb67-abd501162962){target='_blank'}
-    * [Schizophrenia Example 2  10 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf324e4-5d6a-403c-a1cb-abd50185b083){target='_blank'}
-
-
-* [textbook psychotic Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-12-schizophrenia-spectrum-and-other-psychotic-disorders/){target='_blank'}
-
-* Skim necessary and sufficient @ConceptNecessaryConditions; most of this includes many examples. Go into the rabbit as far as you like, but at least try to doodle a grid of necessary/sufficient examples
-* Read **just** the abstract of @jablenskyDiagnosticConceptSchizophrenia2010, but read that abstract with diligence to word choices.  Have a dictionary handy and be sure to capture the meaning as well as the emotional/intentional nature of what was written.  Notice the year published
-* Read the introduction to schizophrenia on @CausesSchizophrenia2020
-* Read the introductory remarks of the Wikipedia entries; first an older version on the [Causes of schizophrenia (old)](https://en.wikipedia.org/w/index.php?title=Risk_factors_of_schizophrenia&oldid=1000718110){target='_blank'} and then the more recent version [Risk factors for schizophrenia](https://en.wikipedia.org/wiki/Risk_factors_of_schizophrenia){target='_blank'}
-
-* Read @harveyDualTaskInformationProcessing2006
-
-## Do
-
-* Write a short response to your thoughts about what you've read this week.  Keep it simple. Think about what strikes you as important.  
-* post to slack channel #psychotic
-* This week is heavier on reading, and less on writing.  But writing does improve our thinking.  You can always include your notes.
-
-# Week 10 Personality Dis. Nov 29 {#Week10} 
-
-* Make notice of the last week [final Project](#Week12).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
-
-## Read/watch
-
-[Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'} #make note of the therapy options for Borderline
-
-* [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this and the next few links will take you to panopto/canvas
-  1) supporting file [Levels of orgnaization](https://canvas.northseattle.edu/courses/1963336/files/150345697){target='_blank'}
-  2) supporting file [Personality Disorder examples from PDM](https://canvas.northseattle.edu/courses/1963336/files/150345696){target='_blank'}
-
-* read [[@westenEfficacyDialecticalBehavior2006]](https://abnormalpsych-group.slack.com/files/U01B6TEBD9V/F01G68PJR08/westen2006.pdf){target='_blank'}
-  * Note the date
-  * For 2.5 pages it is dense. Jot down 2 major ideas.  You may need summarize in your own words to step up and above the details.  
-  * Make a few notes on the motivation of the author
- 
-* [follow up study example](https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.13077?casa_token=mOamZoqXZS4AAAAA%3A1srQWWBtGfy14Zt2imV1539TfVzoDefV8wgNPwmck7xR_z1vQEscq9U3Y8_s16E2mrs_7ZfX5Qwlra7ejg){target="_blank"}
-
-
-## Do
-
-* Recall the 4 D's.  Write a response to the following:  In diagnosing a personality disorder what are some obstacles and or features to consider to differentiate them from healthy personalities? 
-
-* If you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, study therapy concludes with participants, maybe they do a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better.)
-
-* Post to slack channel #personality
-
-# Week 11 BIPOC and psychopathology Dec 6 {#Week11}
-
-Psychology has a problematic history of being weird.  That is:  W. E. I. R. D.
-Western, educated, industrialized, rich, and democratic
-
-I would also say tends to be white and it is worth being thoughtful about looking at mental disorders through the lens of people who do not fall under the weird acronym.
-
-So one thing we can do is take some time to look at how Mental Health is different for Bipoc people
-
-## Read/research some stuff
-
-This is somewhat open ended. I have a lot of ignorance about this. And so rather than me dictating to you about how you should go about researching issues by bipoc, ethnicity, diversity and equity in abnormal psychology, I want you to think about this as an opportunity to teach me, your instructor, about some things.
-
-Still, to help get started, here are some concepts you may want to search for; and you may want to combine them in a Google Scholar search, or maybe even just a general Google search.
-
-* Any key word that is related to ethnicity or diversity could be searched for alongside of the psychological term dealing with 'mental health', like 'abnormal psychology', Psychopathology, etc.
-
-* You might consider looking at statistics of mental Health for people in certain demographics, you might want to do the same thing or all of the above for particular disorders.
-
-
-## Do some stuff
-
-1) Outline your process that takes advantage of your workflow.
-
-  * Write down your wants and intentions
-    * eg., "I don't understand how indigenous Americans struggle with alcohol."  "What are the suicide rates for black people in the U.S.?"
-  * What information do you need to move?
-    * Wikipedia?
-    * stats/frequencies?
-  * What information is still missing?
-    * it can be sufficient to just list these things.  Not all questions have been answered.  Not all questions have even been asked.  So don't feel like if you can't find some answer that you are doing something wrong.  
-
-2) Summarize your readings/findings
-
-3) Identify 2 or 3 actions/concepts that seem significant for others to know
-
-4) Post your work to the #Diversity channel
-
-
-# Week 12 Closure.2 Dec 13 {#Week12}
-
-## Do some stuff
-
-1. [Final project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit?usp=sharing){target="_blank"}
-
-2. [Final Self-reflection](https://forms.gle/VhfLKCBMugfDJuy18){target="_blank"}
-
-```{block, type='blueBackground'}
-
-When searching for articles, be sure to track/take note of your search terms and combinations.  
-
-This is important to save time.  It is not uncommon to accidentally lose articles and so you must go back and re-search.  Having no record of search terms may mean you have to recreate that history and it's time consuming.  
-```
-Be finished by Dec 16, 5pm (technically the last business day of the the last day of the quarter)
-
-Don't be too stressed about this assignment name. It still follows the same format of read/do stuff but I have a few more instructions that take up space.  I thought I'd try a link out to it rather than embed it. 
 
 
 
