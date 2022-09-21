@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Schedule Spring 2022"
+title: "Abnormal Schedule Fall 2022"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output:
@@ -10,7 +10,7 @@ output:
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
         before: |
-          <li><a href="./">Abnormal Psychology Spring 2022 schedule</a></li>
+          <li><a href="./">Abnormal Psychology Fall 2022 schedule</a></li>
         scroll_highlight: yes
       toolbar:
         position: fixed
@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Week 1  {#Week1} 
+# Week 1 Sept 26  {#Week1} 
 
 ## What do you want to focus on
 Think about what you want to learn:
@@ -123,7 +123,7 @@ _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in s
 The idea is to be doing weekly writing about the things we read and the prompts that I give you and then you're going to share that information in slack.
 
 
-# Week 2 Apr 11 {#Week2} 
+# Week 2 Oct 3 {#Week2} 
 
 
 ## Read the following
@@ -163,7 +163,7 @@ You can also link to each post or side thread.
 You can even set a reminder to revisit a post by right clicking on the 3 vertical dots (more actions) .
 ```
 
-# Week 3 Apr 18 {#Week3} 
+# Week 3 Oct 10 {#Week3} 
 
 ## Read the following
 
@@ -217,7 +217,7 @@ After reading/watching the above...
 
 
 
-# Week 4 April 25 {#Week4} 
+# Week 4 Oct 17 {#Week4} 
 
 ## Read/watch the following
 
@@ -251,7 +251,7 @@ After reading/watching the above...
 
 * Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
 
-# Week 5 May 2 {#Week5} 
+# Week 5 Oct 24 {#Week5} 
 
 ## 
 ## Do, Watch, and Read the following
@@ -313,7 +313,7 @@ But the most important reason for learning to write in ways readers expect is th
 You will understand your own work better when you try to anticipate your readers inevitable and critical questions: how have you evaluated your evidence? Why do you think it's relevant? What ideas have you considered but rejected?
 ```
 
-# Week 6 May 9 {#Week6} 
+# Week 6 Oct 31{#Week6} 
 
 ```{block, type='instructorNote'}
 On Thursday, May 12, there will be no classes held for the whole school.  
@@ -364,7 +364,7 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
     * In the rewrite, you may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
 
-# Week 7 May 16 {#Week7} 
+# Week 7 Nov 7 {#Week7} 
 
 Stats and Depression and Bipolar
 
@@ -418,7 +418,7 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
  
 * Put both writings (summary and questions) into the one document and post it in channel [#meta_analysis.](https://northseattlea-yus1991.slack.com/archives/C03FDQGM9M0){target='_blank'}
 
-# Week 8 Eating Disorders May 23 {#Week8} 
+# Week 8 Eating Disorders Nov 14 {#Week8} 
 
 * Make notice of the last week [final Project](#Week12).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
 
@@ -435,7 +435,7 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
 * Write a few paragraphs on what, if any, is different between the two reading sources.
 * Post your work to slack channel #eating
 
-# Week 9  Psychotic May 30 {#Week9} 
+# Week 9  Psychotic Nov 21 {#Week9} 
 
 * Make notice of the last week [final Project](#Week12).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
 
@@ -465,7 +465,7 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
 * post to slack channel #psychotic
 * This week is heavier on reading, and less on writing.  But writing does improve our thinking.  You can always include your notes.
 
-# Week 10 Personality Dis. June 6 {#Week10} 
+# Week 10 Personality Dis. Nov 28 {#Week10} 
 
 * Make notice of the last week [final Project](#Week11).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
 
@@ -493,7 +493,7 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
 
 * Post to slack channel [#personality](https://northseattlea-yus1991.slack.com/archives/C03H351K9LY){target="_blank"}
 
-# Week 11 BIPOC, psychopathology, and final paper June 13 {#Week11}
+# Week 11 BIPOC, psychopathology, and final paper Dec 5 {#Week11}
 
 Psychology has a problematic history of being weird.  That is:  W. E. I. R. D.
 Western, educated, industrialized, rich, and democratic
@@ -534,7 +534,7 @@ Still, to help get started, here are some concepts you may want to search for; a
 4) Post your work to the [#Diversity channel](https://northseattlea-yus1991.slack.com/archives/C03FYPYSGG7){target="_blank"}
 
 
-# "Week 12" cleaning up June 15 {#Week12}
+# "Week 12" cleaning up Dec 12 {#Week12}
 
 ## Do some stuff
 
@@ -544,7 +544,7 @@ Still, to help get started, here are some concepts you may want to search for; a
 
 2. [Final Self-reflection](https://forms.gle/VhfLKCBMugfDJuy18){target="_blank"}
 
-3. [All work should be completed by end of day, June 17, 2021](https://northseattle.edu/calendars/academic-calendar?trumbaEmbed=view%3Devent%26eventid%3D559538082){target="_blank"}
+3. [All work should be completed by end of day, December 12, 2021](https://northseattle.edu/calendars/academic-calendar?trumbaEmbed=view%3Devent%26eventid%3D559538082){target="_blank"}
 
 4. Post your final to the [#Final channel](https://northseattlea-yus1991.slack.com/archives/C03GFMRCMHS){target="_blank"}
 
@@ -554,7 +554,7 @@ When searching for articles, be sure to track/take note of your search terms and
 
 This is important to save time.  It is not uncommon to accidentally lose articles and so you must go back and re-search.  Having no record of search terms may mean you have to recreate that history and it's time consuming.  
 ```
-Be finished by June 17, 5pm (technically the last business day of the the last day of the quarter)
+Be finished by December 12 17, 5pm (technically the last business day of the the last day of the quarter)
 
 Don't be too stressed about this assignment name. It still follows the same format of read/do stuff but I have a few more instructions that take up space.  I thought I'd try a link out to it rather than embed it. 
 
