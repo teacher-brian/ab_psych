@@ -2,6 +2,16 @@ library(rvest)
 library(tidyverse)
 library(clipr)
 library(lubridate)
+users<- read.csv("slackUsers.csv")
+email <- read_clip()
+email<- as.data.frame(strsplit(email,", "))
+
+colnames(email ) <- "email"
+
+missing<- email%>% left_join(users) %>% select(email, fullname) %>% filter(is.na(fullname))
+
+gsub(x=paste(shQuote(missing$email), collapse = ", "),"'","" )%>% write_clip()
+
 
 users<- read.csv("slackUsers.csv")
 roster <- read.csv("5-16-22_abnormal_roster.csv")
