@@ -14,8 +14,14 @@ gsub(x=paste(shQuote(missing$email), collapse = ", "),"'","" )%>% write_clip()
 
 
 users<- read.csv("slackUsers.csv")
-roster <- read.csv("5-16-22_abnormal_roster.csv")
-roster %>% separate(Name,into = c('last','first'),sep = ',')
+roster <- read.csv("h5.csv")
+roster_names<- roster %>% separate(Name,into = c('last','first'),sep = ',') %>% mutate(across(everything(),tolower))
+
+slack_names<- users %>% select("fullname") %>% separate(fullname,into = c('first_s','last_s'),sep = ' ') %>% mutate(across(everything(),tolower))
+
+roster_names %>% left_join(slack_names,by = c("last"="last_s"))
+
+slack_names%>% left_join(roster_names,by = c("last_s"="last")) %>% arrange(first_s)
 
 week1 <- read_clip()
 week1
