@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Course Layout
 
-Read/watch some things, write some things.  You will save these written bits of work saved in a Google doc.  Microsoft documents are too complicated (I can explain if you are interestd),
+Read/watch some things, write some things.  You will save these written bits of work saved in a Google doc.  Microsoft documents are too complicated (I can explain if you are interested),
 
 ### ungrading and self reflections
 
@@ -120,58 +120,6 @@ But I can't leave feedback on those formats.
 
 
 
-
-
-
-# Week 3 Oct 10 {#Week3} 
-
-## Read the following
-
-
-```{block,type = 'instructorNote'}
-
-If any of these links don't work, let me know. 
-
-This has to do with one of the reasons I dislike canvas: I have to move some files from a previous class to this one, rather than having a repository that I can use for multiple classes.  So, I have to upload similar files to new classes, which opens up the possibility of mistakes. 
-
-```
-
-* [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
-
-
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019
-    * [link to canvas file](https://canvas.northseattle.edu/courses/2205994/files/192518787/download?download_frd=1){target='_blank'}
-
-* Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015  (In the reference section, I give a link to our school database...it may or may not work.  Post to logistics for help.)
-
-* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
-
-* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
-
-* Intro to alternative to DSM
-  * [Video on Psychodynamic Diagnostic Manual
-](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}  This link should take you to a video that should work. If not, say something in the logistics channel. 
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored in canvas](https://canvas.northseattle.edu/files/192518784){target='_blank'}  This should either open a canvas page or it will ask you to log in and download. 
-     * In particular the Table on mental functioning
-  * [Skim Example Personality disorders from PDM2; stored in canvas](https://canvas.northseattle.edu/files/192518785){target='_blank'} This should either open a canvas page or it will ask you to log in and download. 
-  
-```{block,type='blueBackground'}
-In case there is trouble finding these links above, here is a link directly to the "files" section in our Canvas shell:
-
-[https://canvas.northseattle.edu/courses/2205994/files](https://canvas.northseattle.edu/courses/2205994/files){target='_blank'}
-
-I'm using canvas in order to protect copyright of these materials. 
-```
-
-After reading/watching the above...
-
-## Do the following
-
-1. In the one document to rule them all, write about which psychology Model from ch2 resonates with you and why.
-
-2. In your document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the #soup channel
-
-3. In the one document to rule them all, list some questions about the readings above.  You don't need to re-post it. 
 
 
 

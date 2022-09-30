@@ -2,10 +2,12 @@
 title: "PDM examples"
 author: "PDM_e2; excerpt by Brian Holt"
 date: "6/11/2020"
-output: 
+output:
+  pdf_document:
+    toc: yes
   html_document:
-    toc: true
-    toc_float: true
+    toc: yes
+    toc_float: yes
 ---
 
 ```{r setup, include=FALSE}

@@ -2,10 +2,12 @@
 title: "PDM_2ed"
 author: "Edited by Vittorio Lingiardi & Nancy McWilliams; reproduced by Brian Holt"
 date: "6/11/2020"
-output: 
+output:
+  pdf_document:
+    toc: yes
   html_document:
-    toc: True
-    toc_float: True
+    toc: yes
+    toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
