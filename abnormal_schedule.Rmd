@@ -175,6 +175,8 @@ Please have @efran_defining_2007, @szasz_myth_1960, and @@watters_americanizatio
 
 * @efran_defining_2007 (to obtain this article, you'll need to walk through the steps found in the [Using the Library section](#useLibrary) --in particular the [Periodical Locator](#PeriodicalLocator))
 
+    -added 10/4/22: I want students to read the 'how to use a library' section, but I can admit that students may not want to.  The crux of finding this particular article is found in the following steps: [How to find an article](#libraryMainPoint)
+
 * Szazs @szasz_myth_1960  
     * [Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
 
@@ -335,7 +337,7 @@ So in a way, you are **not** actually getting this for free because you are payi
 So, download them all!
 ```
 
-##### Here's the main point:  
+##### Here's the main point: {#libraryMainPoint} 
 
 I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, Google, Google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
 
@@ -343,13 +345,13 @@ Let's use that @efran_defining_2007 article.
 
 1. Go to  [North's Article page](https://libguides.northseattle.edu/welcome/articles) and click on the periodical locator.  
 
-2. Type in the periodical for Efran's piece. 
+2. Type in the name of the periodical for Efran's piece. 
 
 You will see a link with the periodical's name.  Go ahead and click on this but beware of the next instruction:
 
 3. Once you have clicked on that link you may want to start searching within that publication. But do not do that. Instead, notice a little bit further down the search box you should see something that says "View online" and beneath that you should see something that says "proquest research library".   It’s this piece we need.
 
-That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.
+    That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.  Or, I think now you can just click on it and skip to step 8.
 
 4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles).
 
@@ -375,9 +377,11 @@ For help in distinguishing the different types of sources, the library has some 
 
 ```
 
-8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to your @ seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact a student of North Seattle before you can continue, which is why you've been prompted for your @ seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
 
-9. You should see you simple search box, where you can enter in important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
+     - 8a. If you don't know your @ seattlecolleges.edu email, or email password, you can go to this location [https://tools.seattlecolleges.edu/Initialize/resetmypassword](https://tools.seattlecolleges.edu/Initialize/resetmypassword){target='_blank'} to update it, reset/change the password. If you still can't get access, let me know.
+<p>     </p>
+9. You should see a simple search box, where you can enter important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
 
 But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like).
 
