@@ -46,4 +46,4 @@ posted <- week_post %>%
 
 
 users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
-  mutate(message= paste0("Hi @",displayname,", Week 3 is begining, and I'm not seeing a post from you to week 1. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 1 yet.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available."))  %>% write_clip()
+  mutate(message= paste0("Hi @",displayname,", Week 3 is beginning, and I'm not seeing a post from you to week 1. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 1 yet.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available."))  %>% write_clip()
