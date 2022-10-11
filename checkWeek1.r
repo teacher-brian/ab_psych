@@ -26,16 +26,25 @@ slack_names%>% left_join(roster_names,by = c("last_s"="last")) %>% arrange(first
 week1 <- read_clip()
 week1
 
-posted<- grep("[0-9]{1,2}:|joined",week1,value = T)  %>%
-  as.data.frame(row.names = NULL) %>%
-  separate (col=".",into=c("name","time"),sep = "  ") %>%
-  mutate(check=lead(name)) %>%
-  mutate(check=ifelse(grepl("joined",check,ignore.case=T),1,0)) %>%
-  filter(!grepl('joined',name,ignore.case=T) ) %>%
-  filter (check!=1) %>%
-  select(name) %>%  unique(.)
+
+grep("[a]|\\s",week1,value = T)  %>%
+  grep("[a-z]$|\\s[0-9]{1,2}:.*[AP]M$|joined",.,value = T,ignore.case = T)  %>%
+  grep("Google Doc|G Suite Document|repl|days|iew|http|rian|Only|one doc",
+       .,invert = T,value = T)  %>%  as.data.frame() -> week_post
+
+colnames(week_post) <- "data"
+
+head(week_post)
 
 
+posted <- week_post %>%
+  mutate(time=dplyr::lead(data,1)) %>%
+  mutate(time= gsub("^[a-zA-Z]",NA,time)) %>%
+  filter(complete.cases(.)) %>%
+  mutate(data= gsub("^[ 0-9]",NA,data)) %>%
+  filter(complete.cases(.)) %>%
+  select(data) %>%  unique(.)
 
-users %>% anti_join(posted, by = c("displayname"="name")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
+
+users %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
   mutate(message= paste0("Hi ",displayname,", Week 2 is getting close to being half over, and I'm not seeing a post to week 1. I might be wrong because I'm using program to filter for people who haven't posted yet, but I don't think you've posted to week 1 yet.  Do you need any help?  The #logistics channel is available."))
