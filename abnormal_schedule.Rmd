@@ -28,6 +28,12 @@ biblio-style: apalike
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+clean_tmpfiles_mod <- function() {
+  message("Calling clean_tmpfiles_mod()")
+}
+
+assignInNamespace("clean_tmpfiles", clean_tmpfiles_mod, ns = "rmarkdown")
+
 ```
 
 # Background before we begin
@@ -336,6 +342,113 @@ But the most important reason for learning to write in ways readers expect is th
 You will understand your own work better when you try to anticipate your readers inevitable and critical questions: how have you evaluated your evidence? Why do you think it's relevant? What ideas have you considered but rejected?
 ```
 
+
+
+
+# Week 6 Oct 31{#Week6} 
+
+```{block, type='instructorNote'}
+On Wednesday, Nov 2, there will be no classes held for the whole school.  
+
+Faculty are expected to be doing other college work.  
+
+Which means none of you can be required to attend any class on 11/2.  For any class.  In the whole Seattle college district.  
+```
+
+
+## Read the following
+
+A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+B. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+C. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}
+
+* skim this but pay closer attention the semantic sections with the schematics for cars
+* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.  
+   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks
+
+D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-9-obsessive-compulsive-and-related-disorders/){target="_blank"}
+
+## Do the following
+
+ 1. Pick one of the disorders in the OCD module: 
+  
+  * and find 2 articles that discusses its cognitive pattern
+    * The article should be from either these two school databases:
+      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
+      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
+
+ 2. Write a page about what you have learned.  Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
+
+ 3. post a link in the [OCD channel](https://northseattlea-yus1991.slack.com/archives/C03EMV7UGKT){target="_blank"}
+
+ 4. Pick 2 other students and invite them to read your post. In the invitation, think about what you might like to receive some feedback about. 
+    * Invite people to help you on any of the critical thinking standards, for example. 
+    * if you are invited to give feedback, you don't have to.  Sometimes you might have several people asking for feedback.  Don't feel like you must respond to all of them.  
+    Should you chose to give feedback, be kind and try to adhere to the request. 
+    * Remember that they are trying things out and are sharing potentially vulnerable parts of their lives.  If you need help giving feedback, send your instructor a /dm and I can help.
+    * Also, because it’s still the pandemic and everything is just hard, don’t fret if people you invite can’t respond. It’s likely that they are just overwhelmed with something.
+    
+ 5. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't finish the synthesis paper, for example, don't use it here.   
+    * Don't edit your original work.  Make a new entry in your One-google-doc to rule
+    * use the channel [#re-write-self-reflection](https://northseattlea-yus1991.slack.com/archives/C03E2MD16RL){target="_blank"}
+    * In the rewrite, you may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
+
+
+# Week 7 Nov 7 {#Week7} 
+
+Stats and Depression and Bipolar
+
+## read/watch
+
+* [playlist of videos on depression and bipolar](https://www.youtube.com/playlist?list=PLDEwZwMNQswsr6gT7c0HT9rbpW5X-lstj){target="_blank"}
+
+### Stats
+
+[Intro to Histograms](https://youtu.be/qBigTkBLU6g?t=17){target="_blank"}
+
+[Normal Distributions](https://youtu.be/rzFX5NWojp0?t=12){target="_blank"}
+
+* Stat concepts
+  * [Intro](https://youtu.be/Q5PT_Kb1Z-w){target="_blank"}  1 min
+  * [Independent variable](https://youtu.be/Q5PT_Kb1Z-w?t=71){target="_blank"}  1 min
+  * [Dependent variable](https://youtu.be/Q5PT_Kb1Z-w?t=108){target="_blank"} 1 min
+  * [Central Tendency](https://youtu.be/Q5PT_Kb1Z-w?t=125){target="_blank"} 1 min
+  * [Measure of Variation](https://youtu.be/Q5PT_Kb1Z-w?t=151){target="_blank"} 1 min
+  * [Graphing/ Histograms](https://youtu.be/Q5PT_Kb1Z-w?t=196){target="_blank"} 1 min
+  * [Examples of central tendency](https://youtu.be/Q5PT_Kb1Z-w?t=241){target="_blank"} 2 min
+  * [Examples of variation](https://youtu.be/Q5PT_Kb1Z-w?t=312){target="_blank"} 1 min
+  * [Examples of histogram](https://youtu.be/Q5PT_Kb1Z-w?t=382){target="_blank"} 1 min
+  * [Normal Distributions](https://youtu.be/Q5PT_Kb1Z-w?t=436){target="_blank"} 5 min
+  * [Null Hypotheses and Alpha](https://youtu.be/Q5PT_Kb1Z-w?t=737){target="_blank"} 1 min
+  * [P-value](https://youtu.be/Q5PT_Kb1Z-w?t=817){target="_blank"} 3 min
+  * [effect sizes & meta-analyses](https://youtu.be/Q5PT_Kb1Z-w?t=1025){target="_blank"} 3 min
+  * [Three criteria to determine cause](https://youtu.be/Q5PT_Kb1Z-w?t=1230){target="_blank"} 1 min
+  * [General Stat book contents](https://youtu.be/8MJvoliGils){target="_blank"} 1 min
+  * [Correlations and linear regression](https://youtu.be/8MJvoliGils?t=50){target="_blank"} 5 min #at 2:43 I make a little bit of a mistake.  Technically, what is being presented on the slide are non-standardized scores. So though what I'm saying is correct, I should have further said, "once these scores are standardized, a change in 1 unit of X will increase Y by .63".
+  * [linear regression output and coefficients](https://youtu.be/8MJvoliGils?t=259){target="_blank"} 5 min #Again, at 5:15, I make a mistake in the video.  The output is in un-standardized units and so the correct statement would be " this output is for unstandardized units, a movement up 1 unit on the x axis corresponds to an increase in the y axis about .13 units; had these variables been standardized, you would see the same value as the correlation, .63"
+  * [Return of the P-value](https://youtu.be/8MJvoliGils?t=500){target="_blank"} 5 min but you might not find this helpful.  
+ 
+  * [presentation slides can be found here](https://rpubs.com/briholt/abnormal_stats){target="_blank"}
+
+### Brian's workflow video
+
+I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  But it's tedious.  Workflow isn't really exciting, so watch at 2x speeds and skip a lot. 
+
+[Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}
+
+
+## Do the following
+
+* Search for a meta-analysis on a mood disorder (major, minor, persistent, bipolar (1,2) cyclothymia, dysthymia, or even the sub types of depression (e.g., Seasonal, postpartum)) and try to summarize the findings using your own words.  If you want to copy paste some of the language from the article, that is fine, but you should still try to use your own words to say it. 
+  * here is [a video on how to find a meta-analysis in our library](https://youtu.be/8nmCpM2yi34){target="_blank"}
+
+  * don't get lost in the details. I'm thinking this should not be more than 1 page, double spaced.  Aim for about 1/2 page of double spaced text. 
+  
+* Write down 5 questions about the methods of the paper.  How did they do the meta analysis?
+ 
+* Put both writings (summary and questions) into the one document and post it in channel [#meta_analysis.](https://northseattlea-yus1991.slack.com/archives/C03FDQGM9M0){target='_blank'}
 
 
 
