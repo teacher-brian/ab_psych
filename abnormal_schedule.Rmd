@@ -381,7 +381,7 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
 
  2. Write a page about what you have learned.  Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
 
- 3. post a link in the [OCD channel](https://northseattlea-yus1991.slack.com/archives/C03EMV7UGKT){target="_blank"}
+ 3. post a link in the #OCD channel
 
  4. Pick 2 other students and invite them to read your post. In the invitation, think about what you might like to receive some feedback about. 
     * Invite people to help you on any of the critical thinking standards, for example. 
@@ -392,7 +392,7 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
     
  5. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't finish the synthesis paper, for example, don't use it here.   
     * Don't edit your original work.  Make a new entry in your One-google-doc to rule
-    * use the channel [#re-write-self-reflection](https://northseattlea-yus1991.slack.com/archives/C03E2MD16RL){target="_blank"}
+    * use the channel #re-write-self-reflection
     * In the rewrite, you may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
 
@@ -448,7 +448,7 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
   
 * Write down 5 questions about the methods of the paper.  How did they do the meta analysis?
  
-* Put both writings (summary and questions) into the one document and post it in channel [#meta_analysis.](https://northseattlea-yus1991.slack.com/archives/C03FDQGM9M0){target='_blank'}
+* Put both writings (summary and questions) into the one document and post it in channel #meta_analysis.
 
 
 
