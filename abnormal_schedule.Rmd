@@ -132,8 +132,7 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 [![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
 
-8. **Skim from page 2**, sub heading "The Theory of Knowledge"** of the article: An introduction to Stephen C. Pepper's
-philosophical system via
+8. **Skim from page 2**, sub heading "The Theory of Knowledge"** of the article: An introduction to Stephen C. Pepper's philosophical system via
 _World Hypotheses: A Study in Evidence_**, @berry_introduction_1984 [(found in syllabus) ](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#bookmark=id.kapuzuy6k04e){target="_blank"}
 
 9. Watch two vids on Ontology, essentially a review of the World hypotheses reading above:
@@ -434,7 +433,10 @@ Stats and Depression and Bipolar
 
 ### Brian's workflow video
 
-I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  But it's tedious.  Workflow isn't really exciting, so watch at 2x speeds and skip a lot. 
+#### Two Videos you could watch if you are still unclear about workflow
+  1. This one is recent, shorter, and from our class. The document and video can be found in the [#resource](https://abnormalpsych-umw3641.slack.com/archives/C0443AWT3LG/p1666741274184139){target="_blank"} channel post
+
+  2. In a previous course, I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  But it's tedious.  Workflow isn't really exciting, so watch at 2x speeds and skip a lot. 
 
 [Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}
 
@@ -488,10 +490,10 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
 * [Skim necessary and sufficient](https://www.sfu.ca/~swartz/conditions1.htm){target='_blank'} @ConceptNecessaryConditions; most of this includes many examples. Go into the rabbit as far as you like, but at least try to doodle a grid of necessary/sufficient examples
 * [Read **just** the abstract of](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181977/){target='_blank'} @jablenskyDiagnosticConceptSchizophrenia2010, but read that abstract with diligence to word choices.  Have a dictionary handy and be sure to capture the meaning as well as the emotional/intentional nature of what was written.  Notice the year published
 * Read Wikipedia's introduction to schizophrenia on @CausesSchizophrenia2020
-* Read the introductory remarks of the Wikipedia entries; first an older version on the [Causes of schizophrenia (old)](https://en.wikipedia.org/w/index.php?title=Risk_factors_of_schizophrenia&oldid=1000718110){target='_blank'} and then the more recent version [Risk factors for schizophrenia](https://en.wikipedia.org/wiki/Risk_factors_of_schizophrenia){target='_blank'}
-    * by the way, the reason I'm showing both of these is partly to show why relying on URL's is a mistake (URLs change)
+  * First read the introductory remarks of the Wikipedia entries; first an older version on the [Causes of schizophrenia (old)](https://en.wikipedia.org/w/index.php?title=Risk_factors_of_schizophrenia&oldid=1000718110){target='_blank'} and then the more recent version [Risk factors for schizophrenia](https://en.wikipedia.org/wiki/Risk_factors_of_schizophrenia){target='_blank'}
+    * by the way, the reason I'm showing both of these is partly to show why relying on URL's for references can be a mistake (URLs change)
 
-* Read @harveyDualTaskInformationProcessing2006
+* Read @harveyDualTaskInformationProcessing2006 . The link in 2006 takes you to the reference section below.  You'll need to use that reference information to obtain the full text, which can be found in our library database PsychArticles. So, [go to the library article page.](https://libguides.northseattle.edu/welcome/articles){target='_blank'}  
 
 ## Do
 
@@ -507,11 +509,12 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
 
 [Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'} #make note of the therapy options for Borderline
 
-* [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this and the next few links will take you to panopto/canvas
-  1) supporting file [Levels of organization](https://canvas.northseattle.edu/courses/2205994/files/192518784){target='_blank'}
-  2) supporting file [Personality Disorder examples from PDM](https://canvas.northseattle.edu/courses/2205994/files/192518785){target='_blank'}
+* [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this and the next few links will take you to panopto or slack
+  1) supporting file [Levels of organization](https://abnormalpsych-umw3641.slack.com/files/U043G3963GU/F0452914FJ5/excerpts_pdm_2e.pdf){target='_blank'}
+  2) supporting file [Personality Disorder examples from PDM](https://abnormalpsych-umw3641.slack.com/files/U043G3963GU/F04493PFSQP/pdm_e2_examples.pdf){target='_blank'}
 
-* read [@westenEfficacyDialecticalBehavior2006]  [link to source in slack](https://northseattlea-yus1991.slack.com/files/U03A8LDQV4Z/F03G6RHHGLE/westen2006.pdf){target='_blank'}
+* read [@westenEfficacyDialecticalBehavior2000]  [link to source in library...I'm not sure it will work because I'm linking to the psychArticles database](https://northseattle.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=pdh&bquery=AU+westen+AND+TI+dialectical+behavior+therapy&type=1&searchMode=Standard&site=ehost-live){target='_blank'}  
+      * if this link doesn't work, it can be found in the psychArticles database found in North's Library journal page.
   * Note the date
   * For 2.5 pages it is dense. Jot down 2 major ideas.  You may need summarize in your own words to step up and above the details.  
   * Make a few notes on the motivation of the author
@@ -523,18 +526,18 @@ I was asked to show how I might use tools to solve a question.  Here is a 36 min
 
 * Recall the 4 D's.  Write a response to the following:  In diagnosing a personality disorder what are some obstacles and or features to consider to differentiate them from healthy personalities? 
 
-* If you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, study therapy concludes with participants, maybe they do a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better.)
+* If you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, the study on therapy concludes with participants having something like more than a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better, but much harder to do and therefore find.)
 
-* Post to slack channel [#personality](https://northseattlea-yus1991.slack.com/archives/C03H351K9LY){target="_blank"}
+* Post to slack channel [#personality](https://abnormalpsych-umw3641.slack.com/archives/C04AA6X8316){target="_blank"}
 
 # Week 11 BIPOC, psychopathology, and final paper Dec 5 {#Week11}
 
 Psychology has a problematic history of being weird.  That is:  W. E. I. R. D.
-Western, educated, industrialized, rich, and democratic
+Western, educated, industrialized, rich, and democratic.  We should also add Cis.  Doesn't fit easily in the Weird acronym. 
 
 I would also say tends to be white and it is worth being thoughtful about looking at mental disorders through the lens of people who do not fall under the weird acronym.
 
-So one thing we can do is take some time to look at how Mental Health is different for Bipoc people
+So one thing we can do is take some time to look at how Mental Health is different non White, non weird, non cis. 
 
 ## Read/research some stuff
 
@@ -542,9 +545,13 @@ This is somewhat open ended. I have a lot of ignorance about this. And so rather
 
 Still, to help get started, here are some concepts you may want to search for; and you may want to combine them in a Google Scholar search, or maybe even just a general Google search.
 
+
 * Any key word that is related to ethnicity or diversity could be searched for alongside of the psychological term dealing with 'mental health', like 'abnormal psychology', Psychopathology, etc.
 
 * You might consider looking at statistics of mental Health for people in certain demographics, you might want to do the same thing or all of the above for particular disorders.
+
+
+###  A rubric to help evaluate critical thinking
 
 * [As a way to support students in evaluating their own work, consider this document, a rubric!, that talks about quality of thinking/writing without the points.](https://docs.google.com/document/d/1DRobbPDaLLLg-kSpeh95spS8tBoPvlK7lBFqvfrzHEk/edit?usp=sharing){target="_blank"} 
 
@@ -565,7 +572,7 @@ Still, to help get started, here are some concepts you may want to search for; a
 
 3) Identify 2 or 3 actions/concepts that seem significant for others to know
 
-4) Post your work to the [#Diversity channel](https://northseattlea-yus1991.slack.com/archives/C03FYPYSGG7){target="_blank"}
+4) Post your work to the [#Diversity channel](https://abnormalpsych-umw3641.slack.com/archives/C049DV2FRT8){target="_blank"}
 
 
 # "Week 12" cleaning up Dec 12 {#Week12}
@@ -578,17 +585,11 @@ Still, to help get started, here are some concepts you may want to search for; a
 
 2. [Final Self-reflection](https://forms.gle/VhfLKCBMugfDJuy18){target="_blank"}
 
-3. [All work should be completed by end of day, December 12, 2021](https://northseattle.edu/calendars/academic-calendar?trumbaEmbed=view%3Devent%26eventid%3D559538082){target="_blank"}
+3. All work should be completed by end of day, December 12, 2022
 
-4. Post your final to the [#Final channel](https://northseattlea-yus1991.slack.com/archives/C03GFMRCMHS){target="_blank"}
+4. Post your final to the [#Final channel](https://abnormalpsych-umw3641.slack.com/archives/C049LET9UE7){target="_blank"}
 
-```{block, type='blueBackground'}
 
-When searching for articles, be sure to track/take note of your search terms and combinations.  
-
-This is important to save time.  It is not uncommon to accidentally lose articles and so you must go back and re-search.  Having no record of search terms may mean you have to recreate that history and it's time consuming.  
-```
-Be finished by December 12 17, 5pm (technically the last business day of the the last day of the quarter)
 
 Don't be too stressed about this assignment name. It still follows the same format of read/do stuff but I have a few more instructions that take up space.  I thought I'd try a link out to it rather than embed it. 
 
