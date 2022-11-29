@@ -478,7 +478,7 @@ Stats and Depression and Bipolar
 ## Read 
 
 * Schizophrenia videos
-    * [Introduction.1  8 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
+    * Introduction..the original link isn't working, so best to just see the zoom vid for 11-21-22 in the agenda (found in #resources)
     * [Introduction.2  3  min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770a8f9c-d5e1-4227-8574-abd501162fef){target='_blank'}
     * [Causes  9 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
     * [Schizophrenia Example 1  7 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7c9382-0d68-4492-bb67-abd501162962){target='_blank'}
@@ -500,6 +500,10 @@ Stats and Depression and Bipolar
 * Write a short response to your thoughts about what you've read this week.  Keep it simple. Think about what strikes you as important.  
 * post to slack channel #psychotic
 * This week is heavier on reading, and less on writing.  But writing does improve our thinking.  You can always include your notes.
+* [Do A self-reflection Survey--be sure to seelct week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}  
+```{block, type='blueBackground'}
+This last bullet linking to the week 9 reflection was added on 11/17/22
+```
 
 # Week 10 Personality Dis. Nov 28 {#Week10} 
 
@@ -530,7 +534,11 @@ Stats and Depression and Bipolar
 
 * Post to slack channel [#personality](https://abnormalpsych-umw3641.slack.com/archives/C04AA6X8316){target="_blank"}
 
-# Week 11 BIPOC, psychopathology, and final paper Dec 5 {#Week11}
+```{block, type='blueBackground'}
+* I neglected to add this link to week 9 until 11/17/22. I'm putting it here in case it gets missed. [Do A self-reflection Survey--be sure to seelct week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}  
+```
+
+# Week 11 Dec 5; BIPOC, psychopathology, and final paper  {#Week11}
 
 Psychology has a problematic history of being weird.  That is:  W. E. I. R. D.
 Western, educated, industrialized, rich, and democratic.  We should also add Cis.  Doesn't fit easily in the Weird acronym. 
