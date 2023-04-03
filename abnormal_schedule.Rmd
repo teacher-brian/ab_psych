@@ -168,7 +168,48 @@ The idea is to be doing weekly writing about the things we read and the prompts 
 
 # Week 2 and remaining weeks...
 
-will be posted here as the quarter moves forward. For now I want to avoid overwhelming you. 
+## Read the following
+
+```{block,type='blueBackground'}
+Some of the links below jump to the references section at the end of this document.  From there, you may find links to the actual article or you will have references to fetch from our college's library databases.  
+```
+* [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"}
+
+* [Diathesis stress video youtube](https://www.youtube.com/watch?v=1MaaORgCHvc){target="_blank"}
+
+```{block, type='instructorNote'}
+Please have @efran_defining_2007, @szasz_myth_1960, and @@watters_americanization_2010  read by Monday of week 3 (April 17) so that we can discuss in class.
+```
+
+
+* @efran_defining_2007 (to obtain this article, you'll need to walk through the steps found in the [Using the Library section down below in the appendix](#useLibrary) --in particular the [Periodical Locator](#PeriodicalLocator))
+
+    * I want students to read the 'how to use a library' section, but I can admit that students may not want to.  The crux of finding this particular article is found in the following steps: [How to find an article](#libraryMainPoint)
+    
+
+* Szazs @szasz_myth_1960  which can be found using this link [Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
+
+* Americanization of Mental Illness @watters_americanization_2010 which [can be found in our syllabus by clicking this link](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#bookmark=id.a11215pgy49s){target='_blank'}
+
+After reading the above...
+
+## Do the following
+
+1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar with those articles.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the #muddy-point-channel.
+    * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+ 
+
+2. When you are done, create a link to your work: highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the slack channel [#week 2](https://spr23abnormalpsych.slack.com/archives/C0518H37TFF){target='_blank'} channel.
+
+3. Read a few other students and make some comments on their post.   Use google docs to make these comments.  Highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'cntrl + alt +m'
+
+```{block,type='blueBackground'}
+In slack, when you hover your mouse over a person's post, you should see a little floating menu.  One of the icons allows you to reply. It makes a side thread. This keeps the channel a bit more tidy and easier to read.  
+
+You can also link to each post or side thread.
+
+You can even set a reminder to revisit a post by right clicking on the 3 vertical dots (more actions) .
+```
 
 
 # Appendix
