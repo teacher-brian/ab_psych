@@ -16,6 +16,7 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 library(tinytex)
+library(kableExtra)
 
 ```
 
@@ -33,7 +34,55 @@ library(tinytex)
 
 # independent variable aka 'x' variable {#iv}
 
-This is often considered the variable that influences, or causes, changes in the 'y' variable.  Below in this faked graph, the independent variable is miles jogged
+This is often considered the variable that influences, or causes, changes in the 'y' variable.  
+
+Consider some data that's collected from a survey. Oftentimes the survey information looks something like this
+
+
+```{r}
+
+df <- data.frame('name'=letters[1:3],'age'= c(18,30,22),'score'=c(30,50,25)) 
+df %>% kbl() %>% kable_classic(full_width = F, html_font = "Cambria")
+
+```
+And, so we might plot the data as such
+
+
+```{r,fig.dim=c(4,5)}
+plot(df$age,df$score,xlim=c(10,40),ylim = c(20,60),pch=18)
+```
+
+# Real data
+
+```{r,echo=F}
+sex.d <- readRDS('../HumanSex/d_Sex-survey.RDS')
+
+sex.d %>% 
+  select(id,q.num,ques,Age,sex,score) %>% 
+  pivot_wider(id_cols = c(id,Age,sex),names_from = q.num,values_from =score) %>% 
+  select(-c(id,`10`:`17`)) %>%
+  head() %>% 
+  kbl()  %>%  
+  kable_classic(full_width = F, html_font = "Cambria")
+```
+
+
+With that, we can see a more common scatter plot
+
+```{r,echo=F,fig.dim=c(4,7)}
+sex.d %>% 
+  select(id,q.num,ques,Age,sex,score) %>% 
+  group_by(id,Age) %>% 
+  summarise(S=sum(score)) %>% 
+  ggplot(aes(x=Age,y=S))+geom_point()+
+  ggtitle('Scatterplot of Age and Score')
+
+  
+  
+```
+
+
+Below in this faked graph, the independent variable is miles jogged
  
 ```{r,fig.dim=c(4,3),echo=F}
 plot(x=1:10,y=10:1,type='l', xlab='weekly miles jogged',ylab='body fat',xaxt='n',yaxt='n')
