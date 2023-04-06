@@ -2,23 +2,21 @@
 title: "Abnormal stats"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
-output: #slidy_presentation
-  html_document:
-    toc: true
-    toc_float: true
+output: slidy_presentation
+  #html_document:
+   # toc: true
+  #  toc_float: true
 bibliography: Abnormal_stat_references.bib
 biblio-style: apalike
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyr)
-library(dplyr)
-library(ggplot2)
+knitr::opts_chunk$set(echo = F,message = F,warning = F,fig.dim=c(4,3))
+library(tidyverse)
 library(tinytex)
+library(kableExtra)
 
 ```
-
 # Key terms
 
 * Independent Variable
@@ -31,33 +29,158 @@ library(tinytex)
 * P-value
 * Effect Sizes
 
-# independent variable aka 'x' variable {#iv}
+# Independent variable aka 'x' variable {#iv}
 
-This is often considered the variable that influences, or causes, changes in the 'y' variable.  Below in this faked graph, the independent variable is miles jogged
- 
-```{r,fig.dim=c(4,3),echo=F}
-plot(x=1:10,y=10:1,type='l', xlab='weekly miles jogged',ylab='body fat',xaxt='n',yaxt='n')
+This is often considered the variable that influences, or causes, changes in the 'y' variable. This variable usually goes on the x-axis.
+
+Consider some height and weight data. Obviously there is a biological process that contributes to both of a person's weight and height, so it's somewhat arbitrary here.
+
+The dots come from an individual's report of both their height and weight. 
+
+```{r}
+sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
+plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
 ```
- 
+
 # Dependent variable, outcome variable, aka 'y' variable {#dv}
-
+::: columns
+:::: {.column width=38%}
 This is often considered the outcome variable because its value depends on the x value. Below in this fake graph, the dependent variable is body fat.
- 
+::::
+:::: {.column width=38%}
 ```{r,fig.dim=c(4,3),echo=F}
-plot(x=1:10,y=10:1,type='l', xlab='weekly miles jogged',ylab='body fat',xaxt='n',yaxt='n')
+ggplot(data=data.frame(x=1:10,y=10:1),aes(x,y))+
+  geom_line()+
+  xlab('weekly miles jogged')+
+  ylab('body fat')+
+  theme(axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())
 ```
-
 This is often considered 'the effect' when dealing with "cause effect" relationships.
 
 So, assuming everything else equal, the more you run, the more your body fat will decrease.
+::::
+:::
+
+# Presenting and thinking about data
+::: columns
+
+:::: {.column width=45%}
+Most are used to seeing spreadsheets that look like this:
+
+```{r}
+sex.d <- readRDS(file = '../HumanSex/d_Sex-survey.RDS')
+sex.d %>% 
+  select(id,Age,sex,q.num,score) %>% 
+  pivot_wider(id_cols = c(id,Age,sex),names_from = q.num,values_from=score) %>% 
+  select(-id) %>% 
+  head() %>% kbl() %>% kable_classic(full_width=F)
+```
+::::
+
+:::: {.column width=8%}
+::::
+
+:::: {.column width=38%}
+This is just a glance of data to make this table. It comes from the Sexuality Importance scale. The scores don't really have meaning yet, but if we add them all up, we'd get a "total Score" that is claimed to represent how important sex is to that person. 
+::::
+
+:::
+# Likert scale data
+
+In this case, the numbers at the top question numbers. The survey has 17 questions. It's called a likert scale where we have people provide some level of agreement/disagreement to the questions.  And in this case, there are 7 possible choices ranging between Strongly Disagree to Strongly Agree.
+
+We then, for better or worse, treat those answers as if they were a number.  We'll come back to how that can be dangerous later. For now, let's just see what some of these data look like. 
+
+A scatter plot is often a way to show how these data may relate to each other.  
+
+# Scatterplot
+::: columns
+:::: {.column width=38%}
+
+```{r}
+sex.d %>% 
+  group_by(id,Age) %>% 
+  summarise(S=sum(score)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
+  ggtitle("Sexual Importance total score and Age")
+```
+If we have some understanding about the variables, maybe that one influences the other, we can plot accordingly.
+
+::::
+
+:::: {.column width=38%}
+In this case, it doesn't make sense to say that some score on a survey is going to influence someone's age. 
+So, we put Age on the x-axis, and their score on the y-axis.
+
+This doesn't mean that X is causing Y...it's just a convention of drawing graphs. 
+::::
+
+:::
 
 # Measure of Central Tendency {#central}
-
+::: columns
+:::: {.column width=33%}
 **Mean**: the arithmetic average where you sum all of the data points and divide by the total number of data points
-
+::::
+:::: {.column width=33%}
 **Median**: the middle score. Visually, it's found by sorting all of the data and picking the data point where equal numbers update exist on either side. It is also known as the 50th percentile, which implies you could calculate any Percentile. For example the 25th percentile would mean that 25% of the scores are below that point while 75% is above.
+::::
 
-**Mode**: the most common score. It is not uncommon to have more than one mode where we might call something by modal or trimodal as the case may be .
+:::: {.column width=33%}
+**Mode**: the most common score. It is not uncommon to have more than one mode where we might call something by modal or trimodal as the case may be.
+::::
+:::
+
+# Examples of central tendency
+**Mean**: 
+```{r}
+sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
+  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling()
+```
+# Median Example
+
+```{r,fig.dim=c(8,2)}
+sex.age.median <- sex.d %>% select(id,Age) %>%  distinct() %>% 
+    summarise(q=quantile(Age,probs = .5))
+
+sex.d %>% select(id,Age) %>%  distinct() %>% 
+   mutate(Age=jitter(Age, amount = 0.1)) %>% 
+  ggplot(aes(x=Age,y=0))+geom_line()+
+  geom_text(aes(label=round(Age,0)),vjust=1)+
+  geom_vline(xintercept = sex.age.median$q)+
+  theme(axis.text.x = element_text(angle = 45, vjust = 0.5, hjust=1))
+
+
+ 
+
+  # ggplot(aes(x=Age, y=0)) +
+  # geom_line(size=1) +
+  # geom_point(shape = 108, size = 5) +
+  # 
+  # geom_text(aes(label=Age),hjust=.5, vjust=2) +
+  # theme_void()+
+  # theme(axis.line.y=element_blank(),
+  #         axis.text.y=element_blank(),
+  #         axis.ticks.y=element_blank(),
+  #         axis.title.y=element_blank(),
+  #         panel.grid.minor.y=element_blank(),
+  #         panel.grid.major.y=element_blank())
+  # 
+
+
+```
+
+
+# Mode Example
+```{r}
+sex.d %>% select(id,Age) %>%  distinct() %>% group_by(Age) %>% 
+  summarise(count=n()) %>% arrange(desc(count)) %>% 
+  kbl() %>% kable_styling()
+```
+
+
 
 # Measure of Variation {#variation}
 
