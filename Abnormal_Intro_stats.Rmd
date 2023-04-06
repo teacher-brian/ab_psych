@@ -38,7 +38,10 @@ Consider some height and weight data. Obviously there is a biological process th
 The dots come from an individual's report of both their height and weight. 
 
 ```{r}
-sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
+#sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
+
+#write_csv(sd,file='height_gpa.csv')
+sd <- read.csv(file='height_gpa.csv')
 plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
 ```
 
@@ -137,23 +140,40 @@ This doesn't mean that X is causing Y...it's just a convention of drawing graphs
 **Mean**: 
 ```{r}
 sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling()
+  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling(position = 'float_left')
 ```
 # Median Example
 
-```{r,fig.dim=c(8,2)}
-sex.age.median <- sex.d %>% select(id,Age) %>%  distinct() %>% 
-    summarise(q=quantile(Age,probs = .5))
+```{r,fig.dim=c(12,5)}
+sex.age.median <- 
+  sex.d %>% select(id,Age) %>%  distinct() %>% 
+    summarise(q=quantile(Age),
+              median=median(Age),
+              n=n())
+
 
 sex.d %>% select(id,Age) %>%  distinct() %>% 
-   mutate(Age=jitter(Age, amount = 0.1)) %>% 
-  ggplot(aes(x=Age,y=0))+geom_line()+
-  geom_text(aes(label=round(Age,0)),vjust=1)+
-  geom_vline(xintercept = sex.age.median$q)+
-  theme(axis.text.x = element_text(angle = 45, vjust = 0.5, hjust=1))
+  arrange(Age) %>% select(Age) %>% 
+    mutate(position=row_number()) %>% 
+  ggplot(aes(x=position,y=0))+geom_line(size=.1)+
+  geom_label(aes(label=Age),vjust=-1,size=3)+
+  geom_text(aes(label=position),vjust=1.5,size=4)+
+  theme(axis.line.y=element_blank(),
+          axis.text.y=element_blank(),
+          axis.ticks.y=element_blank(),
+          axis.title.y=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank(),
+          axis.title.x=element_blank(),
+        panel.spacing = unit(.1, "lines"))+
+  ylim(-.1,.1)+
+  geom_vline(xintercept = ifelse(sex.age.median$n[1]%%2==0,sex.age.median$n[1]/2,(sex.age.median$n[1]+1)/2),color='blue')+
+  geom_text(aes(label="Ages in order from least\nto greatest"),x=10,y=.05)+
+  geom_text(aes(label="There are equal number\nof scores\non each side of the blue line"),x=38,y=.05)+
+  geom_text(aes(label="Order and position of the Ages,\nstarting at position 1"),x=15,y=-.03,size=4)+
+  geom_text(aes(label=paste0("So, ",sex.age.median$q[[3]]," should be the median,\nor midpoint of the scores"),x=35,y=-.03))
 
 
- 
 
   # ggplot(aes(x=Age, y=0)) +
   # geom_line(size=1) +
