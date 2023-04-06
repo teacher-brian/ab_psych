@@ -19,7 +19,7 @@ library(tinytex)
 library(kableExtra)
 library(dagitty)
 library(ggdag)
-library(MASS)
+
 
 ```
 # Key terms
@@ -54,9 +54,8 @@ plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",
 # Dependent variable, outcome variable, aka 'y' variable {#dv}
 ::: columns
 :::: {.column width=52%}
-This is often considered the outcome variable because its value depends on the x value. Below in this fake graph, the dependent variable is body fat.
+This is often considered the outcome variable because its value depends on the x value. Below in this graph, the dependent variable is body fat, and we might say that running _causes_ body fat to go down.
 
-You could say it looks a bit like this:
 
 ```{r,fig.dim=c(8,1)}
 
@@ -92,7 +91,7 @@ sigma<-rbind(c(1,-0.8,-0.7), c(-0.8,1, 0.9), c(-0.7,0.9,1))
 # create the mean vector
 mu<-c(10, 5, 2) 
 # generate the multivariate normal distribution
-df<-as.data.frame(mvrnorm(n=1000, mu=mu, Sigma=sigma))
+df<-as.data.frame(MASS::mvrnorm(n=1000, mu=mu, Sigma=sigma))
 
 ggplot(data=df,aes(V1,V2))+
   geom_smooth(method='lm',se=F)+
@@ -106,7 +105,7 @@ ggplot(data=df,aes(V1,V2))+
         axis.title.y=element_text(angle=45,vjust=.5))
 ```
 
-This is often considered 'the effect' when dealing with "cause effect" relationships.
+In the graph above, I've created extremely fake data to show a very strong effect. 
 
 So, assuming everything else equal, the more you run, the more your body fat will decrease.
 ::::
@@ -154,6 +153,7 @@ sex.d %>%
   summarise(S=sum(score)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
   ggtitle("Sexual Importance total score and Age")
 ```
+
 If we have some understanding about the variables, maybe that one influences the other, we can plot accordingly.
 
 ::::
@@ -185,15 +185,18 @@ When we deal with studying groups of people it's useful, sometimes to think abou
 :::
 
 # Examples of central tendency
-**Mean**: 
+
+**Mean**:
+
 ```{r}
 sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling(full_width = F)
+  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling(full_width = F,position = 'center')
 
-sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-  ggplot(aes(x=Age))+geom_density()
+# sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
+#   ggplot(aes(x=Age))+geom_density()
 
 ```
+
 # Median Example
 
 ```{r,fig.dim=c(12,5)}
@@ -251,12 +254,17 @@ sex.d %>% select(id,Age) %>%  distinct() %>%
 
 
 # Mode Example
+
 ```{r}
-sex.d %>% select(id,Age) %>%  distinct() %>% group_by(Age) %>% 
-  summarise(count=n()) %>% arrange(desc(count)) %>% 
-  kbl() %>% kable_styling()
+a<- sex.d %>% select(id,Age) %>%  distinct() %>% group_by(Age) %>% 
+  summarise(count=n()) %>% arrange(desc(count)) 
+
+a %>% 
+  filter(count>1) %>% 
+  kbl() %>% kable_styling(full_width = F,font_size=12)
 ```
 
+The table above shows the count of each Age reported with counts of one removed to save space.  Obviously, the Age `r a$Age[1]` is the most common Age, so it's the mode.
 
 
 # Measure of Variation {#variation}
