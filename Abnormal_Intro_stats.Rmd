@@ -216,7 +216,7 @@ It might help to see it graphically...if we make a histogram, you can sort of se
 ```
 
 If you see that blue line as the center of mass, you can maybe see that the mass of the columns on the left is the same as what's on the right. 
-It's not quite correct, but if you add up all the ages on the left side, you get about `r sum(Age[Age<mean_age[[1]]])`, and `r sum(Age[Age>mean_age[[1]]] )` on the left side.
+It's not quite correct, but if you add up all the ages on the left side, you get about `r sum(Age[Age<mean_age[[1]]])`, and `r sum(Age[Age>mean_age[[1]]] )` on the right side.
 
 ::::
 :::
