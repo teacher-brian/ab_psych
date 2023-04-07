@@ -2,12 +2,14 @@
 title: "Abnormal stats"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
-output: slidy_presentation
-  #html_document:
-   # toc: true
-  #  toc_float: true
+output: slidy_presentation 
+  # html_document:
+  #   toc: true
+  #   toc_float: true
 bibliography: Abnormal_stat_references.bib
 biblio-style: apalike
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -15,6 +17,9 @@ knitr::opts_chunk$set(echo = F,message = F,warning = F,fig.dim=c(4,3))
 library(tidyverse)
 library(tinytex)
 library(kableExtra)
+library(dagitty)
+library(ggdag)
+
 
 ```
 # Key terms
@@ -38,30 +43,69 @@ Consider some height and weight data. Obviously there is a biological process th
 The dots come from an individual's report of both their height and weight. 
 
 ```{r}
-#sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
+sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
 
 #write_csv(sd,file='height_gpa.csv')
-sd <- read.csv(file='height_gpa.csv')
+#sd <- read.csv(file='height_gpa.csv')
 plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
+
 ```
 
 # Dependent variable, outcome variable, aka 'y' variable {#dv}
 ::: columns
-:::: {.column width=38%}
-This is often considered the outcome variable because its value depends on the x value. Below in this fake graph, the dependent variable is body fat.
+:::: {.column width=52%}
+This is often considered the outcome variable because its value depends on the x value. Below in this graph, the dependent variable is body fat, and we might say that running _causes_ body fat to go down.
+
+
+```{r,fig.dim=c(8,1)}
+
+layout <- data.frame('x'=seq(0:1),'y'=seq(1,1),
+                     'name'= c('Miles_Jogged','Body_Fat'))
+miles_jogged_dag <- dagify(Body_Fat ~ Miles_Jogged,
+       labels = c("Body_Fat" = 'Body_Fat', 
+                  "Miles_Jogged" = "Miles_Jogged"),
+       exposure = "Miles_Jogged",
+       outcome = "Body_Fat",
+       coords = layout )
+
+ggdag_dseparated(from='Miles_Jogged', to='Body_Fat', miles_jogged_dag, text = FALSE)+
+  geom_dag_text(vjust=3)+
+  guides(fill = "none", color = "none") +  
+  theme(axis.title=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+        panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank(),
+        legend.position = 'none')
+
+```
+
 ::::
 :::: {.column width=38%}
 ```{r,fig.dim=c(4,3),echo=F}
-ggplot(data=data.frame(x=1:10,y=10:1),aes(x,y))+
-  geom_line()+
-  xlab('weekly miles jogged')+
-  ylab('body fat')+
+
+sigma<-rbind(c(1,-0.8,-0.7), c(-0.8,1, 0.9), c(-0.7,0.9,1))
+# create the mean vector
+mu<-c(10, 5, 2) 
+# generate the multivariate normal distribution
+df<-as.data.frame(MASS::mvrnorm(n=1000, mu=mu, Sigma=sigma))
+
+ggplot(data=df,aes(V1,V2))+
+  geom_smooth(method='lm',se=F)+
+  geom_point(data=df,aes(V1,V2),alpha=.1,size=.1)+
+  xlab('weekly miles jogged\n the "X" axis')+
+  ylab('body fat\n the "Y" axis')+
   theme(axis.text.x=element_blank(),
         axis.ticks.x=element_blank(),
         axis.text.y=element_blank(),
-        axis.ticks.y=element_blank())
+        axis.ticks.y=element_blank(),
+        axis.title.y=element_text(angle=45,vjust=.5))
 ```
-This is often considered 'the effect' when dealing with "cause effect" relationships.
+
+In the graph above, I've created extremely fake data to show a very strong effect. 
 
 So, assuming everything else equal, the more you run, the more your body fat will decrease.
 ::::
@@ -109,6 +153,7 @@ sex.d %>%
   summarise(S=sum(score)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
   ggtitle("Sexual Importance total score and Age")
 ```
+
 If we have some understanding about the variables, maybe that one influences the other, we can plot accordingly.
 
 ::::
@@ -123,11 +168,14 @@ This doesn't mean that X is causing Y...it's just a convention of drawing graphs
 :::
 
 # Measure of Central Tendency {#central}
+
+When we deal with studying groups of people it's useful, sometimes to think about the data produced by some process as having a center of gravity. in fact a lot of the statistical techniques and statistical tests have embedded in their history and appreciation for the center of mass. when you get into more advanced probability courses you'll see things like "Probability Mass distribution ",  anyway, here are some examples of ways to get to the center of that Mass.
+
 ::: columns
-:::: {.column width=33%}
+:::: {.column width=25%}
 **Mean**: the arithmetic average where you sum all of the data points and divide by the total number of data points
 ::::
-:::: {.column width=33%}
+:::: {.column width=39%}
 **Median**: the middle score. Visually, it's found by sorting all of the data and picking the data point where equal numbers update exist on either side. It is also known as the 50th percentile, which implies you could calculate any Percentile. For example the 25th percentile would mean that 25% of the scores are below that point while 75% is above.
 ::::
 
@@ -137,11 +185,18 @@ This doesn't mean that X is causing Y...it's just a convention of drawing graphs
 :::
 
 # Examples of central tendency
-**Mean**: 
+
+**Mean**:
+
 ```{r}
 sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling(position = 'float_left')
+  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling(full_width = F,position = 'center')
+
+# sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
+#   ggplot(aes(x=Age))+geom_density()
+
 ```
+
 # Median Example
 
 ```{r,fig.dim=c(12,5)}
@@ -149,13 +204,17 @@ sex.age.median <-
   sex.d %>% select(id,Age) %>%  distinct() %>% 
     summarise(q=quantile(Age),
               median=median(Age),
-              n=n())
+              n=n()) %>% 
+  mutate(x=q,
+         y=0,
+         xend=q,
+         yend=.3)
 
 
 sex.d %>% select(id,Age) %>%  distinct() %>% 
   arrange(Age) %>% select(Age) %>% 
     mutate(position=row_number()) %>% 
-  ggplot(aes(x=position,y=0))+geom_line(size=.1)+
+  ggplot(aes(x=position,y=0))+geom_line(linewidth=.1)+
   geom_label(aes(label=Age),vjust=-1,size=3)+
   geom_text(aes(label=position),vjust=1.5,size=4)+
   theme(axis.line.y=element_blank(),
@@ -166,8 +225,9 @@ sex.d %>% select(id,Age) %>%  distinct() %>%
           axis.ticks.x=element_blank(),
           axis.title.x=element_blank(),
         panel.spacing = unit(.1, "lines"))+
-  ylim(-.1,.1)+
-  geom_vline(xintercept = ifelse(sex.age.median$n[1]%%2==0,sex.age.median$n[1]/2,(sex.age.median$n[1]+1)/2),color='blue')+
+  ylim(-.05,.08)+
+  geom_segment(aes(x = sex.age.median$q[3],y=0,xend=sex.age.median$q[3],yend=.05),
+               color='blue')+
   geom_text(aes(label="Ages in order from least\nto greatest"),x=10,y=.05)+
   geom_text(aes(label="There are equal number\nof scores\non each side of the blue line"),x=38,y=.05)+
   geom_text(aes(label="Order and position of the Ages,\nstarting at position 1"),x=15,y=-.03,size=4)+
@@ -194,12 +254,17 @@ sex.d %>% select(id,Age) %>%  distinct() %>%
 
 
 # Mode Example
+
 ```{r}
-sex.d %>% select(id,Age) %>%  distinct() %>% group_by(Age) %>% 
-  summarise(count=n()) %>% arrange(desc(count)) %>% 
-  kbl() %>% kable_styling()
+a<- sex.d %>% select(id,Age) %>%  distinct() %>% group_by(Age) %>% 
+  summarise(count=n()) %>% arrange(desc(count)) 
+
+a %>% 
+  filter(count>1) %>% 
+  kbl() %>% kable_styling(full_width = F,font_size=12)
 ```
 
+The table above shows the count of each Age reported with counts of one removed to save space.  Obviously, the Age `r a$Age[1]` is the most common Age, so it's the mode.
 
 
 # Measure of Variation {#variation}
