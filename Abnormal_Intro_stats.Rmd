@@ -43,10 +43,10 @@ Consider some height and weight data. Obviously there is a biological process th
 The dots come from an individual's report of both their height and weight. 
 
 ```{r}
-sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
+#sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
 
 #write_csv(sd,file='height_gpa.csv')
-#sd <- read.csv(file='height_gpa.csv')
+sd <- read.csv(file='height_gpa.csv')
 plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
 
 ```
@@ -57,7 +57,7 @@ plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",
 This is often considered the outcome variable because its value depends on the x value. Below in this graph, the dependent variable is body fat, and we might say that running _causes_ body fat to go down.
 
 
-```{r,fig.dim=c(8,1)}
+```{r,fig.dim=c(6,1)}
 
 layout <- data.frame('x'=seq(0:1),'y'=seq(1,1),
                      'name'= c('Miles_Jogged','Body_Fat'))
@@ -149,7 +149,7 @@ A scatter plot is often a way to show how these data may relate to each other.
 
 ```{r}
 sex.d %>% 
-  group_by(id,Age) %>% 
+  group_by(id,Age) %>% filter(Age<49) %>% 
   summarise(S=sum(score)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
   ggtitle("Sexual Importance total score and Age")
 ```
@@ -185,23 +185,46 @@ When we deal with studying groups of people it's useful, sometimes to think abou
 :::
 
 # Examples of central tendency
+::: columns
 
-**Mean**:
+:::: {.column width=35%}
+
+The mean is where you sum up all the scores $\frac{\sum{x}}{N}$.
 
 ```{r}
-sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-  summarise(mean=mean(Age)) %>% kbl() %>% kable_styling(full_width = F,position = 'center')
+mean_age <- sex.d %>% select(id,Age,sex) %>%  distinct() %>% filter(Age<49) %>% 
+  summarise(mean=mean(Age))
 
-# sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-#   ggplot(aes(x=Age))+geom_density()
+round(mean_age,1) %>% kbl() %>% kable_styling(full_width = F,position = 'center')
+
+Age <- 
+sex.d %>% select(id,Age) %>%  distinct() %>% select(Age) %>%
+  filter(Age!=49) %>% 
+  arrange(Age) %>% pull() 
+```
+It might help to see it graphically...if we make a histogram, you can sort of see how all the numbers stack together and so the mean should be in the middle of these stacks
+::::
+
+:::: {.column width=65%}
+
+```{r}
+ sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
+  filter(Age<49) %>% 
+   ggplot(aes(x=Age))+geom_histogram(bins=15)+
+  geom_vline(xintercept = mean_age[[1]],color='blue')
 
 ```
 
+If you see that blue line as the center of mass, you can maybe see that the mass of the columns on the left is the same as what's on the right. 
+It's not quite correct, but if you add up all the ages on the left side, you get about `r sum(Age[Age<mean_age[[1]]])`, and `r sum(Age[Age>mean_age[[1]]] )` on the left side.
+
+::::
+:::
 # Median Example
 
 ```{r,fig.dim=c(12,5)}
 sex.age.median <- 
-  sex.d %>% select(id,Age) %>%  distinct() %>% 
+  sex.d %>% select(id,Age) %>%  distinct() %>% filter(Age<49) %>% 
     summarise(q=quantile(Age),
               median=median(Age),
               n=n()) %>% 
@@ -210,9 +233,30 @@ sex.age.median <-
          xend=q,
          yend=.3)
 
+# 
+# if(length(Age) %% 2 == 0) {
+#   pos_med_even <- mean(c(length(Age)/2,(length(Age)/2)+1))
+# 
+# } else {
+#   pos_med_odd <- (length(Age)+1)/2
+# 
+# }  
 
-sex.d %>% select(id,Age) %>%  distinct() %>% 
-  arrange(Age) %>% select(Age) %>% 
+find_median <- function(v) {
+  v_sorted <- sort(v)
+  n <- length(v_sorted)
+  if(n %% 2 == 0) {
+    med_even <- mean(c(n/2, (n/2)+1))
+    return(med_even)
+  } else {
+    med_odd <- (n+1)/2
+    return(med_odd)
+  }
+}
+
+med_pos<- find_median(Age)
+
+sex.d %>% select(id,Age) %>%  distinct() %>% filter(Age!=49) %>%   arrange(Age) %>% select(Age) %>% 
     mutate(position=row_number()) %>% 
   ggplot(aes(x=position,y=0))+geom_line(linewidth=.1)+
   geom_label(aes(label=Age),vjust=-1,size=3)+
@@ -226,29 +270,15 @@ sex.d %>% select(id,Age) %>%  distinct() %>%
           axis.title.x=element_blank(),
         panel.spacing = unit(.1, "lines"))+
   ylim(-.05,.08)+
-  geom_segment(aes(x = sex.age.median$q[3],y=0,xend=sex.age.median$q[3],yend=.05),
+  geom_segment(aes(x =med_pos, 
+                   y=0,
+                   xend=med_pos,
+                   yend=.05),
                color='blue')+
   geom_text(aes(label="Ages in order from least\nto greatest"),x=10,y=.05)+
   geom_text(aes(label="There are equal number\nof scores\non each side of the blue line"),x=38,y=.05)+
   geom_text(aes(label="Order and position of the Ages,\nstarting at position 1"),x=15,y=-.03,size=4)+
   geom_text(aes(label=paste0("So, ",sex.age.median$q[[3]]," should be the median,\nor midpoint of the scores"),x=35,y=-.03))
-
-
-
-  # ggplot(aes(x=Age, y=0)) +
-  # geom_line(size=1) +
-  # geom_point(shape = 108, size = 5) +
-  # 
-  # geom_text(aes(label=Age),hjust=.5, vjust=2) +
-  # theme_void()+
-  # theme(axis.line.y=element_blank(),
-  #         axis.text.y=element_blank(),
-  #         axis.ticks.y=element_blank(),
-  #         axis.title.y=element_blank(),
-  #         panel.grid.minor.y=element_blank(),
-  #         panel.grid.major.y=element_blank())
-  # 
-
 
 ```
 
@@ -266,6 +296,46 @@ a %>%
 
 The table above shows the count of each Age reported with counts of one removed to save space.  Obviously, the Age `r a$Age[1]` is the most common Age, so it's the mode.
 
+
+# Putting them all together
+::: columns
+
+:::: {.column width=25%}
+So, maybe putting them on the same graph might help.
+
+```{r}
+as.data.frame(Age) %>% 
+  ggplot(aes(x=Age))+geom_histogram(bins=15)+
+  geom_vline(xintercept=mean(Age),color='orange')+
+  geom_vline(xintercept=median(Age),color='blue')+
+  geom_vline(xintercept=a$Age[1],color='purple')+
+  ggtitle("Purple = mode\nBlue = median\nOrange = mean")
+```
+::::
+
+:::: {.column width=10%}
+
+:::: 
+
+:::: {.column width=65%}
+If we did it with more 'normally distributed data', it would look like this:
+
+```{r}
+b<- sd %>% select(Height) %>%  group_by(Height) %>% 
+  summarise(count=n()) %>% arrange(desc(count)) 
+
+sd %>% 
+  ggplot(aes(x=Height))+geom_histogram(bins=15)+
+  geom_vline(xintercept=mean(sd$Height),color='orange')+
+  geom_vline(xintercept=median(sd$Height),color='blue')+
+  ggtitle("Omitting the mode\nbecause there are several\nBlue = median\nOrange = mean")
+```
+
+Usually, if all 3 measures are the same, we often think the data may be normally distributed.  This particular data set appears normally distributed; the Age data don't, which make sense given it was collected from community college students. 
+
+::::
+
+:::
 
 # Measure of Variation {#variation}
 
