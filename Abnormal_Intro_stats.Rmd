@@ -323,7 +323,7 @@ If we did it with more 'normally distributed data', it would look like this:
 ```{r}
 b<- sd %>% select(Height) %>%  group_by(Height) %>% 
   mutate(Height=round(Height,1)) %>% 
-  summarise(count=n()) %>% arrange(desc(count)) %>% print(n=100) 
+  summarise(count=n()) %>% arrange(desc(count))  
 
 sd %>% 
   ggplot(aes(x=Height))+geom_histogram(binwidth=1)+
