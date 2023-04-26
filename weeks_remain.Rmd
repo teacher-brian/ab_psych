@@ -1,75 +1,9 @@
 
-# Week 3 Oct 10 {#Week3} 
-
-```{block, type='blueBackground'}
-Although we aren't using canvas, a few videos I've made are stored in Panopto.  I don't think you need to log into canvas for them to work.  But you may be prompted.
-```
-
-## Read the following
-
-* [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
+<!-- * Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015  (When you click on the year, you'll see our reference section.  And in the reference section, I give a link the article found in our school database...it may or may not work.  Post to logistics for help.) -->
 
 
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019  * [link to slack file](https://abnormalpsych-umw3641.slack.com/files/U043G3963GU/F044RU1MTTN/not_so_fast_a_response_to_raskin.pdf){target='_blank'}
+<!-- 2. In your document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the #soup channel -->
 
-* Spitting in client’s soup, an article about language, concepts, personal constructs.  Please note this will hit several of the same themes in the Efran article from 2007  @efran_spitting_2015  (When you click on the year, you'll see our reference section.  And in the reference section, I give a link the article found in our school database...it may or may not work.  Post to logistics for help.)
-
-* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
-
-* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
-
-* Intro to alternative to DSM
-  * [Video on Psychodynamic Diagnostic Manual
-](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}  This link should take you to a video that should work. If not, say something in the logistics channel. 
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored slack](https://abnormalpsych-umw3641.slack.com/files/U043G3963GU/F0452914FJ5/excerpts_pdm_2e.pdf){target='_blank'}  This should take you to a particular post in #resources in slack. 
-     * In particular the Table on mental functioning
-  * [Skim Example Personality disorders from PDM2; stored in canvas](https://abnormalpsych-umw3641.slack.com/files/U043G3963GU/F04493PFSQP/pdm_e2_examples.pdf){target='_blank'}  This should take you to a particular post in #resources in slack. 
-  
-After reading/watching the above...
-
-## Do the following
-
-1. In the one document to rule them all, write about which psychology Model from ch2 resonates with you and why.
-
-2. In your document, write about how others (people, institutions) "spit in your soup"? Make some mention as to "What is the soup?"  Post a link to your work in the #soup channel
-
-3. In the one document to rule them all, list some questions about the readings above.  You don't need to re-post it. 
-
-
-
-# Week 4 Oct 17 {#Week4} 
-
-## Read/watch the following
-
-* [Module 7: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-7-anxiety-disorders/){target="_blank"}
-
-* [humanistic intro](https://www.youtube.com/watch?v=KDRHaL6jyg8&list=PLDEwZwMNQswvPj4onxTjBdXgzFYJ6G-JJ&index=5){target="_blank"}
-
-* [first 3 videos of this youtube playlist on biopsych](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target="_blank"}
-
-
-## Do the following
-
-* Pick an Anxiety disorder form the following: 
-  +  panic
-  +  phobia
-  +  social anxiety disorder
-  +  generalized anxiety Disorder
-
-  * and find 2 articles that suggest what causes it
-    * The article should be from either these two school databases:
-      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
-      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
-
-* Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
-
-* Post a link in the #Anxiety channel
-
-* Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
-
-## Added material from "zoom lectures"
-
-* Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
 
 # Week 5 Oct 24 {#Week5} 
 
