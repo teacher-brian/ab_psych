@@ -1,0 +1,116 @@
+---
+title: "reliability"
+author: "bh"
+date: '2023-04-26'
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(MASS)
+library(tidyverse)
+library(kableExtra)
+```
+
+# Example of high reliabilty
+
+measuring length.
+
+How reliable are bone scans at measuring the length of bone?
+
+Using cadavers, researchers measured the length of their femur in a bone scan machine. Then, the researchers measured the length of the bone using the standard tool, a caliper.
+
+Each cadaver, then, had 2 measurements, one from the scan, one from the caliper.
+
+# made up data
+
+Here is a snip of that data
+
+```{r}
+
+x <- mvrnorm(300,
+        mu=c(15,15),
+        Sigma = matrix(c(1,.98,.98,1),2,2)
+        )
+df <- data.frame(caliper=x[,1],scan=x[,2])
+df[1:5,] %>% kable() %>% kable_styling(full_width = F)
+```
+
+# check for nonsense
+
+
+It's simulated data (the correlation isn't...I read it somewhere), but maybe I've got some weird data. 
+
+Femur length can't be less than zero. These are the low and high measurements for each.  
+
+```{r}
+apply(df,2,range)
+```
+Okay...good enough
+
+```{r}
+
+cal.scan.cor <- cor(df$caliper,df$scan)
+
+```
+
+If we take the correlation of this data, the correlation between the standard caliper and the bone scan is  `r round(cal.scan.cor,3)`. That is super high. Of course it makes sense here because we are dealing with a simple and concrete construct, length. What makes this more difficult is the technology used to create a bone scanner.  
+
+# Scatter plot
+
+Not surprising, if you plot these two measurements, you see a strong line form
+
+```{r} 
+df %>% 
+  ggplot(aes(x=caliper,scan))+geom_point()
+```
+
+
+# Place a fitted line on graph
+
+And if you put a line over it, you can see what I mean:
+
+```{r}
+unstandardized.lm<-lm(data=df,scan~caliper)
+df_s <-as.data.frame( scale(df))
+standardized.lm<- lm(data=df_s,scan~caliper)
+df %>% 
+  ggplot(aes(x=caliper,scan))+geom_point() +
+  geom_abline(
+    slope = coef(unstandardized.lm)[["caliper"]],
+    intercept = coef(unstandardized.lm)[["(Intercept)"]],color='blue'
+    )
+
+```
+
+# look at the output of the linear model
+
+```{r}
+summary(unstandardized.lm)
+
+```
+
+
+# what is a correlation compared to regression?
+
+well, most people 'get' what a correlation is...it has to be between -1 and +1.
+
+conceptually, it's related to a regression, and you can see it here but only if you standardize the data first.  It's not hard to do, but instead of explaining it, by standardizing data, you are transforming all of the variables so that they are on the same scale.  You can literally compare apples to oranges.  But I'll skip the mathematical demo.  Just trust me. 
+
+If you look at the correlation of the 2 variables, you get this: `r round(cal.scan.cor,3)`, which we've seen
+
+Notice the coefficient in the unstandardized regression output above.  Here is the key bit: `r coef(unstandardized.lm)[2]` .  the Caliper is close to the correlation but not the same.  That's because the regression model is using *un*standardized data. 
+
+# If we standardize it, here is the new output
+
+```{r}
+summary(standardized.lm)
+```
+And you should see that now the coefficient: `r coef(standardized.lm)[2]` is now super similar to the correlation, `r cor(df$caliper,df$scan)` .  In fact formatting constraints in this web presentation might hide the differences. 
+If you subtract the two, you get not a perfect zero (because computers are not pure)...but it's effectively zero:
+
+`r format(cor(df$caliper,df$scan),scientific = F)` - `r format(standardized.lm$coefficients[2],scientific = F)` you get : `r format(cor(df$caliper,df$scan) - standardized.lm$coefficients[2],scientific = F)`
+
+They the same now.  
+
+
