@@ -674,4 +674,22 @@ The point here is that if you know something about a sample's distribution, you 
 
 I'm going to load a data set that has 231 cases, people, where they have given data about their personality.  I've no idea about who these people are, though I imagine there is some information online.  You can probably recognize some of these variables below..
 
+# additional ttest example to demonstrate the dancing pvale
+
+```{r}
+n <- 30
+set.seed(1)
+(d <- rnorm(n,4,1))
+d <- unlist(lapply(d,function(x) ifelse(x>5,x <- 5,x)))
+set.seed(1)
+(nd <- rnorm(n,2.5,1))
+nd <- unlist(lapply(nd,function(x) ifelse(x<0,x*-1,x)))
+
+t.test(d,nd)
+
+plot(density(d),xlim=c(-2,8))
+lines(density(nd),col='blue')
+abline(v=mean(d))
+abline(v=mean(nd),col='blue')
+```
 # References
