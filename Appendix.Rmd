@@ -1,0 +1,178 @@
+---
+title: "Appendix"
+author: "bh"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Appendix
+
+## Link to getting started help documents
+
+A lot of non-syllabus and/or technical instructions can be found in the [getting_started document](https://rpubs.com/briholt/Getting_started/){target='_blank'}
+
+## Using the library {#useLibrary} 
+
+The library has set up a simple library guide for our class.  You can find it here: [Abnormal Psychology library guide](https://libguides.northseattle.edu/psych220). I
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note: Don't pay for articles</span>
+
+One important word of advice is to never pay for a scholarly article. If you go online and use Google, or even Google Scholar to find online sources, you may be directed to the publication that will charge you a large amount of money to access just one article.  So don’t do that.
+
+Generally there are ways to get articles through our library, so don't pay for articles.
+```
+
+
+To get started with our readings, you'll need to use our Library (online, of course) to obtain many of the articles.  
+
+Finding journal articles is a skill that gets better with practice.  This happens to be why Librarians are so helpful.  They've actually been trained so if you can't find an article, it's okay to ask librarians for help.  
+
+In fact, here is how you can [get help from North Seattle's library staff](https://libguides.northseattle.edu/welcome/askus). 
+
+
+
+### Relationship of an article to its Journal
+
+Using hierarchies helps us organize information. Journal articles, or for that matter the file directories on your computer, work somewhat like an address for a person's home. There are several different parts that give us information to track down and locate whatever it is we're looking for, be it a computer file, or Journal article. Basically, a journal article  has the following components, some of which may be familiar to you :
+
+      Database (of periodicals)
+        Periodical (eg., magazine, newspaper, scholarly journal)
+         Year (of publication)
+           Volume Number
+            Volumne Issue number
+             Page Number (optional, often unnecessary)
+               Article Title
+                  Author
+
+So, to find an article, you'll need to know the parts above.  When you are given a list of references, or citations, nearly all of the information needed above is given to  you.  What is not given, or at least is done implicitly with web searches, is access to the top part, the database.  
+
+#### Here is a typical citation:
+
+>Author(s). (year of pub). "Article Title." <span class='underline'>Periodical title</span>. Volume Number (issue number).
+
+The information in a citation isn't presented in the same hierarchy as above, but all of the necessary parts are there.  
+
+Here is an example citation (reference) for something we may read.  Can you identify the periodical?
+
+>Jay Efran, Michael Lukens, Mitchell Greene. 2007. “Defining Psychotherapy: The Last 25 Years Have Taught Us That It’s Neither Art nor Science.” <span class='underline'>Psychotherapy Networker</span> 31 (2). 
+
+Most of the items in the list above are self-explanatory. I want to focus a bit about periodicals.
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on formatting citations: underlining publication titles</span>
+
+In print, publication titles are *italicized*.  I have a very hard time noticing that subtle font.  
+
+When you submit a written manuscript for printing, publication titles are <span style='text-decoration: underline'>underlined</span> because traditionally manuscripts were typed with typewriters, and to be able to type italicized words required an entire additional alphabet represented in the hammers.  So, underlining was how you could emphasize a word, and the printer--a physical person--could notice the author's formatting intent and correctly publish the final product in italics. 
+
+It's a bit different now with our computers, obviously.  Still, I have a hard time seeing italicized words and will occasionally use underline. 
+
+So, sometimes I'll underline pub titles, sometimes I'll italicize. I have no rule on this.  I am chaos manifested.  Beware. 
+```
+
+#### Periodicals
+
+These are just the names of the major publication. _The New York Times_, is colloquially known as a newspaper but technically it is a periodical. <span class='underline'>The Journal of Abnormal Psychology</span> is also a periodical. 
+
+When we search for articles, we have to first know which journal, or periodical, owns that article.  So it is a little counter intuitive but once we have identified an article we would like to read, we have to first find out whether or not our College has access to that periodical.  
+
+To do that, we have to use our colleges periodical locator.
+
+### Finding a journal using Periodical locator
+
+#### Periodical locator {#PeriodicalLocator} 
+
+Notice the first link within [North's Article page](https://libguides.northseattle.edu/welcome/articles){target="_blank"}.  It should say "Periodical Locator"
+
+There are many databases, inside of these databases are pages of journals, and inside those journals are articles. 
+
+**We need to use the periodical locator to determine which database houses which periodical.  With that, we can then open up that periodical and get the article**
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on 'free' articles and tuition/fees</span>
+
+Part of the fees that you pay as a student are used to pay subscriptions for these periodical databases. We have a small, but pretty good selection. Major universities have much larger collections due to their size and tuition/fee structure.
+
+So in a way, you are **not** actually getting this for free because you are paying for library access. That's the benefit of taking classes from a college. If you were not an active student, you would not be able to see many of these articles.
+
+So, download them all!
+```
+
+##### Here's the main point: {#libraryMainPoint} 
+
+I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, Google, Google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
+
+Let's use that @efran_defining_2007 article.  
+
+1. Go to  [North's Article page](https://libguides.northseattle.edu/welcome/articles) and click on the periodical locator.  
+
+2. Type in the name of the periodical for Efran's piece. 
+
+You will see a link with the periodical's name.  Go ahead and click on this but beware of the next instruction:
+
+3. Once you have clicked on that link you may want to start searching within that publication. But do not do that. Instead, notice a little bit further down the search box you should see something that says "View online" and beneath that you should see something that says "proquest research library".   It’s this piece we need.
+
+    That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.  Or, I think now you can just click on it and skip to step 8.
+
+4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles).
+
+5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
+
+
+
+6. Click on "A to Z"
+
+7. You might notice that there are 67 databases that North Seattle has premium access to. In our case we're going to be looking for the proquest direct database. And we can either click on the letter "P" or we can just type in proquest direct.
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on Popular sources</span>
+
+You may also notice the little tag "popular" next to proquest link.  That's an indicator that the articles are not peer reviewed and so aren't exactly cutting edge science. Even though this particular journal we are looking for, _Psychotherapy Networker_, is flagged as a popular type, it is a place for therapists to share their thoughts on the profession so there is a lot of value in it.
+
+For help in distinguishing the different types of sources, the library has some guides:
+
+* [Scholar vs popular](http://libguides.northseattle.edu/c.php?g=97441&p=630690)
+
+* [Find Scholarly Journals](http://libguides.northseattle.edu/c.php?g=97441&p=630669)
+
+```
+
+8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact a student of North Seattle before you can continue, which is why you've been prompted for your @ seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+
+     - 8a. If you don't know your @ seattlecolleges.edu email, or email password, you can go to this location [https://tools.seattlecolleges.edu/Initialize/resetmypassword](https://tools.seattlecolleges.edu/Initialize/resetmypassword){target='_blank'} to update it, reset/change the password. If you still can't get access, let me know.
+<p>     </p>
+9. You should see a simple search box, where you can enter important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
+
+But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like).
+
+When you search for those two terms in their respective fields, you will get two hits and one of them is the article we need. You should notice that it is a full text, not all databases provide full text documents. But in this case it's a full text. You can either print it or read it online.
+
+Yay.  Now you can find the other articles. 
+
+### A quick video of the process (some day once ctclink matures)
+
+## Anatomy of a journal article
+
+#### Title
+#### Abstract
+#### Introduction
+##### Lit review
+##### hypothesis
+#### Methods
+##### Participants
+##### Materials
+##### Procedure
+#### Results
+#### Discussion
+#### References
+
+
+
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
