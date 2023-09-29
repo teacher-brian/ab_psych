@@ -1,9 +1,83 @@
 ---
-title: "Appendix"
+title: "Week 2"
 author: "bh"
 date: "`r Sys.Date()`"
-output: html_document
+output: 
+  html_document:
+    css: "style.css"
+link-citations: yes
+bibliography: Abnormal_references.bib
+biblio-style: apalike
 ---
+
+
+# Week 2 Oct 2 {#week2}
+
+This week 2 is busy.   in an effort to prepare everybody for the remaining weeks, there's several things that we need to do.
+
+The first is you're going to read some articles that are provocative and you'll write a bit about them. Instructions will be below.
+
+In an effort to keep inserting a little bit of statistical and research methods content I'm going to be having you do some other, hopefully small tasks, in preparation for work that comes in a week or two.
+
+
+
+## Read/watch the following
+
+```{block,type='blueBackground'}
+Some of the links below jump to the references section at the end of this document.  From there, you may find links to the actual article or you will have references to fetch from our college's library databases.  
+```
+<br />  
+
+1. [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"}
+
+2. [Diathesis stress video youtube](https://www.youtube.com/watch?v=1MaaORgCHvc){target="_blank"}
+
+```{block, type='instructorNote'}
+Please have the following readings below, @efran_defining_2007, @szasz_myth_1960, and @@watters_americanization_2010  read by Tuesday of week 3 (Oct 10) so that we can discuss in class.
+```
+
+
+3. @efran_defining_2007 (to obtain this article, you'll need to walk through the steps found in the [Using the Library section down below in the appendix](#useLibrary) --in particular the [Periodical Locator](#PeriodicalLocator))
+
+```{block,type='blueBackground'}
+to find this article, you may find the following video helpful [finding Efran article](https://youtu.be/FxqcwTE0gJQ){target='_blank'}
+
+```
+
+  * I want students to read the 'how to use a library' section, but I can admit that students may not want to.  The crux of finding this particular article is found in the following steps: [How to find an article](#libraryMainPoint).
+    
+<br />  
+4. @szasz_myth_1960  which can be found using this link [Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
+
+5. Americanization of Mental Illness @watters_americanization_2010 which [can be found in our syllabus by clicking this link](https://docs.google.com/document/d/1-9QMbTfv5QUjsvHpcy3sJtx6nCve67J4zPbgVE9zhHE/edit#bookmark=id.a11215pgy49s){target='_blank'}
+
+After reading the above...
+
+## Do the following
+
+1. synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar with those articles.  Instead of summarizing, let you references to their work so you can do yours.  If this doesn't make sense, post a question to the #muddy-point-channel.
+<br />  
+    * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+<br />  
+
+2. When you are done, create a link to your work: highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the canvas discussion [#week 2](https://canvas.seattlecolleges.edu/courses/16722/discussion_topics/156141){target='_blank'} channel.
+
+3. Read a few other students and make some comments on their post.   Use google docs to make these comments.  Highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'ctrl + alt +m'
+
+<!-- ```{block,type='blueBackground'} -->
+<!-- In slack, when you hover your mouse over a person's post, you should see a little floating menu.  One of the icons allows you to reply. It makes a side thread. This keeps the channel a bit more tidy and easier to read.   -->
+
+<!-- You can also link to each post or side thread. -->
+
+<!-- You can even set a reminder to revisit a post by right clicking on the 3 vertical dots (more actions) . -->
+<!-- ``` -->
+<br />  
+
+4. Please fill out this [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email.
+
+* It's not required, but it's helpful for my classes because it is useful to see how surveys are supposed to work. 
+
+
 
 # Appendix
 
