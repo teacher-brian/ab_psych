@@ -1,46 +1,4 @@
 
-
-# Week 3 April 17 {#Week3} 
-
-```{block, type='blueBackground'}
-Although we aren't using canvas, a few videos I've made are stored in Panopto.  I don't think you need to log into canvas for them to work.  But you may be prompted.
-```
-
-## Read the following
-
-* [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
-
-
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019  * [link to slack file](https://spr23abnormalpsych.slack.com/files/U051DVA435J/F053CE7JBR8/not_so_fast_a_response_to_raskin.pdf){target='_blank'}
-
-
-* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
-
-* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
-
-* Intro to alternative to DSM
-  * [Video on Psychodynamic Diagnostic Manual
-](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed980a00-805e-4e8b-b5b2-ac4e014ff5fb){target='_blank'}  This link should take you to a video that should work. If not, say something in the logistics channel. 
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a; stored slack](https://spr23abnormalpsych.slack.com/files/U051DVA435J/F0535TQ9KL6/excerpts_pdm_2e.pdf){target='_blank'}  This should take you to a particular post in #resources in slack. 
-     * In particular the Table on mental functioning
-  * [Skim Example Personality disorders from PDM2; stored in canvas](https://spr23abnormalpsych.slack.com/files/U051DVA435J/F053F0P3NDA/pdm_e2_examples.pdf){target='_blank'}  This should take you to a particular post in #resources in slack. 
-  
-After reading/watching the above...
-
-## Do the following
-
-1. In the one document to rule them all, write about which psychology Model from ch2 resonates with you and why.
-
-2.  Ask chatGpt what makes a good diagnostic system. Start in the abstract. Ask it about "criteria". Keep on the lookout for terms like "specificity" and "sensitivity".  From here, find some questions in it's responses and ask it to elaborate, to challenge it. Share your questions in your one google doc.
-
-3. In your google doc, write a short essay about what you learned from chatGpt and any other source regarding diagnostic decision making. 
-
-4. Lastly, in the one document to rule them all, list some questions about the readings/content for this week. Things you would like to learn more about. 
-
-5. Post to [#week3](https://spr23abnormalpsych.slack.com/archives/C052XV7JFRD){target="_blank"}
-
-
-
 # Week 4 April 24 {#Week4} 
 
 ## Read/watch the following
