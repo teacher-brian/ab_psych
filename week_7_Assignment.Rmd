@@ -1,0 +1,91 @@
+---
+title: "Week 7"
+author: "bh"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    css: "style.css"
+link-citations: yes
+bibliography: Abnormal_references.bib
+biblio-style: apalike
+---
+
+
+# Week 7 Nov 6 {#Week7} 
+
+Stats and Depression and Bipolar
+
+I understand that stats can be boring, and I certainly don't promise to make it interesting.
+
+I do want students to know this stuff, though you may not want to watch my 2 20 minute videos.  At least watch the last segment on effect sizes and meta analyses
+
+## read/watch
+
+* [playlist of videos on depression and bipolar](https://www.youtube.com/playlist?list=PLDEwZwMNQswsr6gT7c0HT9rbpW5X-lstj){target="_blank"}
+
+### Stats
+
+[Intro to Histograms](https://youtu.be/qBigTkBLU6g?t=17){target="_blank"}
+
+[Normal Distributions](https://youtu.be/rzFX5NWojp0?t=12){target="_blank"}
+
+* Stat concepts
+  * [Intro](https://youtu.be/Q5PT_Kb1Z-w){target="_blank"}  1 min
+  * [Independent variable](https://youtu.be/Q5PT_Kb1Z-w?t=71){target="_blank"}  1 min
+  * [Dependent variable](https://youtu.be/Q5PT_Kb1Z-w?t=108){target="_blank"} 1 min
+  * [Central Tendency](https://youtu.be/Q5PT_Kb1Z-w?t=125){target="_blank"} 1 min
+  * [Measure of Variation](https://youtu.be/Q5PT_Kb1Z-w?t=151){target="_blank"} 1 min
+  * [Graphing/ Histograms](https://youtu.be/Q5PT_Kb1Z-w?t=196){target="_blank"} 1 min
+  * [Examples of central tendency](https://youtu.be/Q5PT_Kb1Z-w?t=241){target="_blank"} 2 min
+  * [Examples of variation](https://youtu.be/Q5PT_Kb1Z-w?t=312){target="_blank"} 1 min
+  * [Examples of histogram](https://youtu.be/Q5PT_Kb1Z-w?t=382){target="_blank"} 1 min
+  * [Many Samples can give us a normal distribution](https://youtu.be/Q5PT_Kb1Z-w?t=436){target="_blank"} 5 min
+  * [Null Hypotheses and Alpha](https://youtu.be/Q5PT_Kb1Z-w?t=737){target="_blank"} 1 min
+  * [P-value](https://youtu.be/Q5PT_Kb1Z-w?t=817){target="_blank"} 3 min
+  * [effect sizes & meta-analyses](https://youtu.be/Q5PT_Kb1Z-w?t=1025){target="_blank"} 3 min
+  * [Three criteria to determine cause](https://youtu.be/Q5PT_Kb1Z-w?t=1230){target="_blank"} 1 min
+  * [General Stat book contents](https://youtu.be/8MJvoliGils){target="_blank"} 1 min
+  * [Correlations and linear regression](https://youtu.be/8MJvoliGils?t=50){target="_blank"} 5 min #at 2:43 I make a little bit of a mistake.  Technically, what is being presented on the slide are non-standardized scores. So though what I'm saying is correct, I should have further said, "once these scores are standardized, a change in 1 unit of X will increase Y by .63".
+  * [linear regression output and coefficients](https://youtu.be/8MJvoliGils?t=259){target="_blank"} 5 min #Again, at 5:15, I make a mistake in the video.  The output is in un-standardized units and so the correct statement would be " this output is for unstandardized units, a movement up 1 unit on the x axis corresponds to an increase in the y axis about .13 units; had these variables been standardized, you would see the same value as the correlation, .63"
+  * [Return of the P-value](https://youtu.be/8MJvoliGils?t=500){target="_blank"} 5 min but you might not find this helpful.  
+ 
+  * [presentation slides can be found here](https://rpubs.com/briholt/abnormal_stats){target="_blank"}
+
+### Brian's workflow video
+
+#### Two Videos you could watch if you are still unclear about workflow
+
+These do not make good TV.  It's not fun watching other people use their workflow.  If you could watch this at quad speed, I would.  But I think the best you could hope for is double speed. 
+
+  1. This one is recent, shorter, and from an Intro to Psychology class: [Fears about snakes biological or learned:](https://youtu.be/I4PiC3xvmXk){target="_blank"} channel post
+
+  2. In a previous course, I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  But it's tedious.  Workflow isn't really exciting, so watch at <b>2x speeds and skip a lot.</b> 
+
+[Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}
+
+
+## Do the following
+
+1. Search for a meta-analysis on a mood disorder (major, minor, persistent, bipolar (1,2) cyclothymia, dysthymia, or even the sub types of depression (e.g., Seasonal, postpartum)) and try to summarize the findings using your own words.  If you want to copy paste some of the language from the article, that is fine, but you should still try to use your own words to say it. 
+  * here is [a video on how to find a meta-analysis in our library](https://youtu.be/8nmCpM2yi34){target="_blank"}
+
+  * don't get lost in the details. I'm thinking this should not be more than 1 page, double spaced.  Aim for about 1/2 page of double spaced text. 
+  
+2. Write down 5 questions about the methods of the paper.  How did they do the meta analysis?
+ 
+3. Put both writings (summary and questions) into your one document
+
+    
+4. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't finish the synthesis paper, for example, don't use it here.   
+    * Don't edit your original work.  Make a new entry in your One-google-doc to rule
+    * In the rewrite, you may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
+
+5.  post your work to canavs here: [#week7](https://canvas.seattlecolleges.edu/courses/16722/discussion_topics/166707){target='_blank'}
+
+
+
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
