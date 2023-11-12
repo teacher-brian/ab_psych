@@ -1,0 +1,36 @@
+---
+title: "Week 8"
+author: "bh"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    css: "style.css"
+link-citations: yes
+bibliography: Abnormal_references.bib
+biblio-style: apalike
+---
+
+
+
+# Week 8 Eating Disorders Nov 13 {#Week8} 
+
+* Make notice of the last week [final Project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit){target="_blank"}.  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
+
+## Eating disorders
+
+## Read 
+
+* [textbook Eating Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-10-eating-disorders/){target='_blank'}
+
+* [Read this excerpt from the PDM.2e](https://docs.google.com/document/d/18KIDPjn-xL48pphVnUrNr0rM3Ors4D1iDqgtr7QBMqs/edit?usp=sharing){target='_blank'} @lingiardiPsychodynamicDiagnosticManual2015a
+
+## Do
+
+* Write a few paragraphs on what, if any, is different between the two reading sources.
+* Post your work to the week 8 discussion [#week8](https://canvas.seattlecolleges.edu/courses/16722/discussion_topics/168563){target='_blank'}
+
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
