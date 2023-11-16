@@ -11,14 +11,15 @@ biblio-style: apalike
 ---
 
 
-# Week 9  Psychotic May 29 {#Week9} 
+# Week 9  Psychotic Nov 20 {#Week9} 
 
 * Make notice of the last week [final Project](#Week11).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
 
 ## Read 
 
 * Schizophrenia videos
-    * Introduction vid 1?  bah...I cant find this one.  I'll get it soon enough
+    Intro #1 will be in class
+    
     * [Introduction.2  3  min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770a8f9c-d5e1-4227-8574-abd501162fef){target='_blank'}
     * [Causes  9 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
     * [Schizophrenia Example 1  7 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7c9382-0d68-4492-bb67-abd501162962){target='_blank'}
@@ -38,7 +39,7 @@ biblio-style: apalike
 ## Do
 
 * Write a short response to your thoughts about what you've read this week.  Keep it simple. Think about what strikes you as important.  
-* post to slack channel [#week9 channel](https://spr23abnormalpsych.slack.com/archives/C058MT868S1){target="_blank"}
+* post to [#week9 Discussion](https://canvas.seattlecolleges.edu/courses/16722/modules/items/780095){target="_blank"}
 * This week is heavier on reading, and less on writing.  But writing does improve our thinking.  You can always include your notes.
 * [Do A self-reflection Survey--be sure to seelct week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}  
 

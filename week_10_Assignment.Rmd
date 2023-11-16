@@ -11,7 +11,7 @@ biblio-style: apalike
 ---
 
 
-# Week 10 Personality Dis. June 5 {#Week10} 
+# Week 10 Personality Dis. Nov 27 {#Week10} 
 
 * Make notice of the last week [final Project](#Week11).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
 
@@ -20,8 +20,8 @@ biblio-style: apalike
 [Textbook personality Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-13-personality-disorders/){target='_blank'} #make note of the therapy options for Borderline
 
 * [PDM on Personality levels](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d9d4140-098d-45c5-ae91-abd7013ff9f0){target='_blank'}  #this and the next few links will take you to panopto or slack
-  1) supporting file [Levels of organization](https://spr23abnormalpsych.slack.com/files/U051DVA435J/F053F0P3NDA/pdm_e2_examples.pdf){target='_blank'}
-  2) supporting file [Personality Disorder examples from PDM](https://abnormalpsych-umw3641.slack.com/files/U043G3963GU/F04493PFSQP/pdm_e2_examples.pdf){target='_blank'}
+  1) supporting file [Levels of organization](){target='_blank'}
+  2) supporting file [Personality Disorder examples from PDM](){target='_blank'}
 
 * read [@westenEfficacyDialecticalBehavior2000]  [link to source in library...I'm not sure it will work because I'm linking to the psychArticles database](https://northseattle.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=pdh&bquery=AU+westen+AND+TI+dialectical+behavior+therapy&type=1&searchMode=Standard&site=ehost-live){target='_blank'}  
       * if this link doesn't work, it can be found in the psychArticles database found in North's Library journal page.
@@ -38,7 +38,7 @@ biblio-style: apalike
 
 * If you want, I'd love to read articles that have a follow up analysis more than 6 months on DBT effectiveness.  (So, the study on therapy concludes with participants having something like more than a 2 month follow up.  I'm looking for something more than 6 months.  Longer is better, but much harder to do and therefore find.)
 
-* Post to slack channel [#week10](https://spr23abnormalpsych.slack.com/archives/C058QRSGL02){target="_blank"}
+* Post to  [#week10 discussion](https://canvas.seattlecolleges.edu/courses/16722/modules/items/780096){target="_blank"}
 
 
 
