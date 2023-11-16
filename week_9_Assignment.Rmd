@@ -13,7 +13,7 @@ biblio-style: apalike
 
 # Week 9  Psychotic Nov 20 {#Week9} 
 
-* Make notice of the last week [final Project](#Week11).  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
+Make notice of the last week [final Project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit){target="_blank"}.  I would recommend starting that, or at least putting in your list of things to do sooner than later. 
 
 ## Read 
 
