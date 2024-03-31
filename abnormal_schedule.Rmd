@@ -73,7 +73,7 @@ H. Here is the pattern of the course:
 `r if (knitr:::is_html_output()) '
 
 
-# Week 1 Sept 25 {#Week1} 
+# Week 1 April 2 {#Week1} 
 
 
 ## What do you want to focus on
@@ -166,7 +166,7 @@ The idea is to be doing weekly writing about the things we read and the prompts 
 
 
 
-# Week 2 Oct 2 {#week2}
+# Week 2 April 9 {#week2}
 
 This week 2 is busy.   in an effort to prepare everybody for the remaining weeks, there's several things that we need to do.
 
