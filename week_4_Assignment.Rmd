@@ -11,40 +11,6 @@ biblio-style: apalike
 ---
 
 
-# Week 4 Oct 16 {#Week4} 
-
-## Read/watch the following
-
-* [Module 7: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-7-anxiety-disorders/){target="_blank"}
-
-* [humanistic intro](https://www.youtube.com/watch?v=KDRHaL6jyg8&list=PLDEwZwMNQswvPj4onxTjBdXgzFYJ6G-JJ&index=5){target="_blank"}
-
-* [first 3 videos of this youtube playlist on biopsych](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target="_blank"}
-
-* Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
-
-
-## Do the following
-
-* Pick an Anxiety disorder form the following: 
-  +  panic
-  +  phobia
-  +  social anxiety disorder
-  +  generalized anxiety Disorder
-
-  * and find 2 articles that suggest what causes it
-    * The article should be from either these two school databases:
-      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
-      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
-
-* Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarise the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
-
-* Post a link in the [#week4 Discussion room](https://canvas.seattlecolleges.edu/courses/16722/discussion_topics/160518){target="_blank"} 
-
-* Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
-
-
-
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
