@@ -70,9 +70,6 @@ H. Here is the pattern of the course:
   3. When you have finished the weeks assignment, you will post a link to your work in slack.
   4. Assignments should be submitted in a timely fashion. Friday is the standing due date, with reasonable flexibility. 
 
-`r if (knitr:::is_html_output()) '
-
-
 # Week 1 April 1 {#Week1} 
 
 
@@ -193,6 +190,12 @@ Please have the following readings below, @efran_defining_2007, @szasz_myth_1960
 
 6. When you are done, create a link to your work: highlight the title of your assignment and then go to the "Insert" menu of google. In that menu, find "bookmark" and select that. Your title is now a bookmark and if you hover over it, you should see a little 'link' option.  Copy that link and post it in the canvas discussion [Week 1 slack channel](https://abnormalpsych-zgb5710.slack.com/archives/C06RR1WFE23){target="_blank"}.
 
+```{block, Slack URLs1, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
+
 7. Read a few other students and make some comments on their post.   Use google docs to make these comments.  Highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'ctrl + alt +m'
 
 
@@ -250,6 +253,11 @@ After reading/watching the above...
 
 5. Post to [#week2--notice this is a clickable link](https://abnormalpsych-zgb5710.slack.com/archives/C06STTMFE0P){target="_blank"}
 
+```{block, Slack URLs2, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
 
 
 # Week 3 April 15 {#Week3} 
@@ -283,6 +291,12 @@ Please first fill out this anonymous survey on how many hours you spent on class
 * Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarize the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
 
 * Post a link in the [#week3 channel](https://abnormalpsych-zgb5710.slack.com/archives/C06TTGBGRST){target="_blank"} 
+
+```{block, Slack URLs3, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
 
 * Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
 
@@ -369,6 +383,9 @@ You will understand your own work better when you try to anticipate your readers
 
 3. Post your paper in the channel  [#week4](https://abnormalpsych-zgb5710.slack.com/archives/C06V7DLFN1Y){target="_blank"}
 
+```{block, Slack URLs4, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
 
 
 # Week 5 April 29 {#Week5} 
@@ -398,6 +415,11 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
  2. Write a page about what you have learned.  Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
 
  3. post a link in the [#week 5 channel](https://abnormalpsych-zgb5710.slack.com/archives/C06USSK6MDM){target='_blank'}
+ 
+ ```{block, Slack URLs5, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
 
  4. Pick 2 other students and invite them to read your post. In the invitation, think about what you might like to receive some feedback about. 
     * Invite people to help you on any of the critical thinking standards, for example. 
