@@ -1,7 +1,7 @@
 ---
 title: "Abnormal Schedule Spring 2024"
 author: "Brian Holt"
-date: "`r Sys.Date()`"
+date: "`r  Sys.time()`"
 output:
   html_document:
     config:
@@ -25,6 +25,19 @@ link-citations: yes
 bibliography: Abnormal_references.bib
 biblio-style: apalike
 ---
+
+<!-- if (FALSE) { -->
+<!-- # upload a document -->
+<!-- result <- rsconnect::rpubsUpload(title="abnormal_schedule", originalDoc="abnormal_schedule.Rmd",contentFile="abnormal_schedule.html") -->
+<!-- if (!is.null(result$continueUrl)) -->
+<!--    browseURL(result$continueUrl) -->
+<!-- else -->
+<!--    stop(result$error) -->
+
+<!-- # update the same document with a new title -->
+<!-- updateResult <- rsconnect::rpubsUpload("Abnormal_schedule", "abnormal_schedule.html", -->
+<!--                             id = result$id) -->
+<!-- } -->
 
 
 ```{r setup, include=FALSE}
@@ -412,11 +425,11 @@ D. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnorma
       * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
       * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
 
- 2. Write a page about what you have learned.  Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
+ 2. Write a page about what you have learned. Write a summary, but write as if you were writing it to a non-technical person that doesn't understand cognitive psychology.  
 
  3. post a link in the [#week 5 channel](https://abnormalpsych-zgb5710.slack.com/archives/C06USSK6MDM){target='_blank'}
  
- ```{block, Slack URLs5, type='blueBackground'}
+```{block, Slack URLs5, type='blueBackground'}
 Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
 ```
 
