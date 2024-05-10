@@ -438,7 +438,7 @@ Please note that slack has a bug that makes my URL links to channels automatical
 
  4. Pick 2 other students and invite them to read your post. In the invitation, think about what you might like to receive some feedback about. 
     * Invite people to help you on any of the critical thinking standards, for example. 
-    * if you are invited to give feedback, you don't have to.  Sometimes you might have several people asking for feedback.  Don't feel like you must respond to all of them.  
+    * if you are invited to give feedback, you don't have to.  Sometimes you might have several people asking for feedback.  Don't feel like you must respond to all of them.
     Should you chose to give feedback, be kind and try to adhere to the request. 
     * Remember that they are trying things out and are sharing potentially vulnerable parts of their lives.  If you need help giving feedback, send your instructor a /dm and I can help.
     * Also, because it’s still the pandemic and everything is just hard, don’t fret if people you invite can’t respond. It’s likely that they are just overwhelmed with something.    
