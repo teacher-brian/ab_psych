@@ -227,7 +227,7 @@ You can even set a reminder to revisit a post by right clicking on the 3 vertica
 
 
 
-# Week 2 April 8 {#Week3} 
+# Week 2 April 8 {#Week2} 
 
 ```{block, type='blueBackground'}
 Although we aren't using canvas, a few videos I've made are stored in Panopto.  I don't think you need to log into canvas for them to work.  But you may be prompted.
@@ -546,6 +546,27 @@ These do not make good TV.  It's not fun watching other people use their workflo
 
 
 * [Do A self-reflection Survey--be sure to select week 6 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}
+
+
+
+# Week 7 Eating Disorders May 13 {#Week7} 
+
+* Make notice of the last week [final Project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit){target="_blank"}.  I would recommend starting that, or at least putting in your list of things to do sooner than later.  
+
+## Eating disorders
+
+## Read 
+
+* [textbook Eating Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-10-eating-disorders/){target='_blank'}
+
+* [Read this excerpt from the PDM.2e](https://docs.google.com/document/d/18KIDPjn-xL48pphVnUrNr0rM3Ors4D1iDqgtr7QBMqs/edit?usp=sharing){target='_blank'} @lingiardiPsychodynamicDiagnosticManual2015a
+
+## Do
+
+* Write a few paragraphs on what, if any, is different between the two reading sources.
+* Post your work to the week 7 discussion [#week7](https://abnormalpsych-zgb5710.slack.com/archives/C07355Y2F7E){target='_blank'}
+
+
 
 
 
