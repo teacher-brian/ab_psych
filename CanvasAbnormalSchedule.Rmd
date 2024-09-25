@@ -1,0 +1,50 @@
+---
+title: "Abnormal Schedule Fall 2024"
+author: "Brian Holt"
+date: "`r  Sys.time()`"
+output:
+  html_document:
+    config:
+      search: yes
+      toc:
+        after: |
+          <!-- <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li> -->
+        before: |
+          <li><a href="./">Abnormal Psychology Spring 2024 schedule</a></li>
+        scroll_highlight: yes
+      toolbar:
+        position: fixed
+    css: "style.css"
+    number_sections: no
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+description: This is a minimal example of using the rmarkdown package for abnormal
+  psychology
+link-citations: yes
+bibliography: Abnormal_references.bib
+biblio-style: apalike
+---
+
+<!-- if (FALSE) { -->
+<!-- # upload a document -->
+<!-- result <- rsconnect::rpubsUpload(title="abnormal_schedule", originalDoc="abnormal_schedule.Rmd",contentFile="abnormal_schedule.html") -->
+<!-- if (!is.null(result$continueUrl)) -->
+<!--    browseURL(result$continueUrl) -->
+<!-- else -->
+<!--    stop(result$error) -->
+
+<!-- # update the same document with a new title -->
+<!-- updateResult <- rsconnect::rpubsUpload("Abnormal_schedule", "abnormal_schedule.html", -->
+<!--                             id = result$id) -->
+<!-- } -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dagitty)
+library(tidyverse)
+library(ggdag)
+library(tidygraph)
+library(ggraph)
+```
