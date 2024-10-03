@@ -209,6 +209,47 @@ After reading/watching the above...
 5. Post to [#week2--notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/27182/discussion_topics/287149?module_item_id=1379717){target="_blank"}
 
 
+# Week 3 Oct 7 {#Week3} 
+
+Please first fill out this anonymous survey on how many hours you spent on class during LAST week: [Survey on week 2  workload](https://docs.google.com/forms/d/e/1FAIpQLSeNVXfXLd5_XHqLlom99JZ8U8KMrlg5XbRjYdhRGkd98WlygQ/viewform?usp=sf_link){target="_blank"}
+
+
+
+## Read/watch the following
+
+* [Module 7: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-7-anxiety-disorders/){target="_blank"}
+
+* [humanistic intro](https://www.youtube.com/watch?v=KDRHaL6jyg8&list=PLDEwZwMNQswvPj4onxTjBdXgzFYJ6G-JJ&index=5){target="_blank"}
+
+* [first 3 videos of this youtube playlist on biopsych](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target="_blank"}
+
+* Video [Introduction to Existential psychology](https://youtu.be/6eXnVhsz5qE){target='_blank'}, emphasis on @Yalom_Existential_Psychotherapy_1980
+
+
+## Do the following
+
+* Pick an Anxiety disorder form the following: 
+  +  panic
+  +  phobia
+  +  social anxiety disorder
+  +  generalized anxiety Disorder
+
+  * and find 2 articles that suggest what causes it
+    * The article should be from either these two school databases:
+      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
+      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
+
+* Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarize the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes.
+
+* Post a link in the [#week3 Discussion in canvas](https://canvas.seattlecolleges.edu/courses/27182/discussion_topics/289362){target="_blank"} 
+
+```{block, Slack URLs3, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
+
+* Read 3 other student's work and engage them on their submission--you can ask them questions as an example. 
 
 
 # Appendix

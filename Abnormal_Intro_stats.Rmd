@@ -42,11 +42,11 @@ Consider some height and weight data. Obviously there is a biological process th
 
 The dots come from an individual's report of both their height and weight. 
 
-```{r}
-#sd <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
+```{r calc SD}
+HeightWeight_Data <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
 
-#write.csv(sd,file='height_gpa.csv')
-sd <- read.csv(file='height_gpa.csv')
+write.csv(HeightWeight_Data,file='height_gpa.csv')
+HeightWeight_Data <- read.csv(file='height_gpa.csv')
 plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
 
 ```
