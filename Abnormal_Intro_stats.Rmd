@@ -42,13 +42,13 @@ Consider some height and weight data. Obviously there is a biological process th
 
 The dots come from an individual's report of both their height and weight. 
 
-```{r calc SD,echo=FALSE}
+```{r calc  <- ,echo=FALSE}
 #HeightWeight_Data <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
 
 #write.csv(HeightWeight_Data,file='height_gpa.csv')
 HeightWeight_Data <- read.csv(file="\\\\S-N-NSCHOME\\nschomes\\U980354189\\Documents\\My Data Sources\\abpsych\\height_gpa.csv")[-c(1)] 
-sd <- HeightWeight_Data
-plot(sd$Weight,sd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
+hwd <- HeightWeight_Data
+plot(hwd$Weight,hwd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
 
 ```
 
@@ -328,8 +328,8 @@ b<- sd %>% select(Height) %>%  group_by(Height) %>%
 
 sd %>% 
   ggplot(aes(x=Height))+geom_histogram(binwidth=1)+
-  geom_vline(xintercept=mean(sd$Height),color='orange')+
-  geom_vline(xintercept=median(sd$Height),color='blue')+
+  geom_vline(xintercept=mean(hwd$Height),color='orange')+
+  geom_vline(xintercept=median(hwd$Height),color='blue')+
   ggtitle("Omitting the mode\nbecause there are several\nBlue = median\nOrange = mean")+
   theme(axis.text.x = element_text(angle = 45)) +
    scale_x_continuous(breaks = seq(50,80, by = 1))
@@ -342,8 +342,8 @@ sd %>%
 #                    T~Sex)) %>% 
 #   group_by(Sex) %>% 
 #   ggplot(aes(x=Height))+geom_histogram(binwidth=1)+
-#   geom_vline(xintercept=mean(sd$Height),color='orange')+
-#   geom_vline(xintercept=median(sd$Height),color='blue')+
+#   geom_vline(xintercept=mean(hwd$Height),color='orange')+
+#   geom_vline(xintercept=median(hwd$Height),color='blue')+
 #   ggtitle("Omitting the mode\nbecause there are several\nBlue = median\nOrange = mean")+
 #   theme(axis.text.x = element_text(angle = 45)) +
 #    scale_x_continuous(breaks = seq(50,80, by = 1))+
