@@ -47,7 +47,9 @@ The dots come from an individual's report of both their height and weight.
 
 #write.csv(HeightWeight_Data,file='height_gpa.csv')
 
+
 HeightWeight_Data <- read.csv("https://scedu-my.sharepoint.com/:t:/g/personal/brian_holt_seattlecolleges_edu/EYzXVzRGdT5HoKTpc0QgviEBCAZn6hGnQHxGj-lQEh4smQ?download=1")
+
 hwd <- HeightWeight_Data
 plot(hwd$Weight,hwd$Height,pch=18,xlab="weight in pounds",ylab="Height in inches",main="college student weight and heights")
 
