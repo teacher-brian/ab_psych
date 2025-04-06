@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Schedule Fall 2024"
+title: "Abnormal Schedule Winter 2025"
 author: "Brian Holt"
 date: "`r  Sys.Date()`"
 output:
@@ -10,7 +10,7 @@ output:
         after: |
           <!-- <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li> -->
         before: |
-          <li><a href="./">Abnormal Psychology Fall 2024 schedule</a></li>
+          <li><a href="./">Abnormal Psychology Winter 2025 schedule</a></li>
         scroll_highlight: yes
       toolbar:
         position: fixed
