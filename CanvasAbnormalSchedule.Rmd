@@ -36,6 +36,54 @@ library(tidygraph)
 library(ggraph)
 ```
 
+
+
+# Week 2 April 14 {#Week2} 
+
+Please read the following (in addition to your study guides, found in the canvas module week 2)
+
+```{block, type='instructorNote'}
+Please have the following readings below, @efran_defining_2007, @szasz_myth_1960, and @@watters_americanization_2010  read by Tuesday of week 3 (April 22) so that we can discuss in class.
+```
+
+
+1. @efran_defining_2007 (to obtain this article, you'll need to walk through the steps found in the [Using the Library section down below in the appendix](#useLibrary) --in particular the [Periodical Locator](#PeriodicalLocator))
+
+  * I want students to read the 'how to use a library' section, but I can admit that students may not want to.  The crux of finding this particular article is found in the following steps: [How to find an article](#libraryMainPoint).
+    
+<br>  
+
+2. @szasz_myth_1960  which can be found using this link [Szasz link to web](http://psychclassics.yorku.ca/Szasz/myth.htm){target='_blank'}
+
+3. Americanization of Mental Illness @watters_americanization_2010 which [can be found in our syllabus by clicking this link](https://docs.google.com/document/d/1Xz6lc6qURPmLZ7o-upBlkgqhIJJUwkO6faZKIvHXbM8/edit#bookmark=id.a11215pgy49s){target='_blank'}
+
+
+
+## Do the following
+
+1. Synthesize @efran_defining_2007 , @szasz_myth_1960, and @watters_americanization_2010.  When synthesizing, don't summarize the articles. You may assume that your audience is your class, which means they should be familiar with those articles.  Instead of summarizing, let you references to their work so you can do yours.  
+<br />  
+    * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+
+<br>  
+<br/>  
+
+2. In your google document, make a section under your synthesis and write down 3 questions you have about the readings.  
+
+3.  Take 1 of your questions and post it in the [student generated questions discussion](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/367443?module_item_id=1782135){target='_blank'}.
+
+
+4. Please fill out this anonymous [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email.
+
+   *  If you have already filled this survey out in another of my courses, you can skip.  
+
+   *  It's not required, but it's helpful for my classes because it is useful to see how surveys are supposed to work. 
+
+
+# Week 3
+
+In progress.
+
 # Appendix
 
 ## Using the library {#useLibrary} 
