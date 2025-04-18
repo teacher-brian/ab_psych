@@ -87,20 +87,13 @@ Please have the following readings below, @efran_defining_2007, @szasz_myth_1960
 * [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
 
 
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019  * [link to file](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETCu0ddUA9hMqPKSwD2kdF8Bv_gW0BW57BTy984t8fB7vg?e=8OXmZe){target='_blank'}
 
 
-* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
 
-* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
+<!-- * [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'} -->
 
-* Intro to alternative to DSM
-  * [Video on Psychodynamic Diagnostic Manual](https://scedu-my.sharepoint.com/:v:/g/personal/brian_holt_seattlecolleges_edu/EZNoUFHoBuNHh9-8MlFyapoB3488qemw_ZuAK28sgV0gWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wHmZlm){target='_blank'}.
+<!-- * [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'} -->
 
-  * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETDxh7RV-ZBFmMvr8ep8SBwBW14Gi259giuf97xfjpe0vw?e=dZK5FH){target='_blank'}   
-     * In particular the Table on mental functioning
-  * [Skim Example Personality disorders from PDM2](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/EbZq3TqBpsBFp8efwadnKEQBHi0UB1hUtE5oB5lv3VJjXA?e=nML8n0){target='_blank'}  
-  
 After reading/watching the above...
 
 ## Do the following
@@ -122,11 +115,23 @@ After reading/watching the above...
 
 3. In your google doc, write a short essay about what you learned from chatGpt and any other source regarding diagnostic decision making. 
 
-4. Lastly, in the one document to rule them all, list some questions about the readings/content for this week. Things you would like to learn more about. 
+4. Lastly, in the one document to rule them all, list 3 questions about the readings/content for this week. Things you would like to learn more about. When you have finished this part, please go to canvas and post 1 of those questions [here.](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/368944?module_item_id=1787757){target="_blank"}
 
-5. Post to [#week2--notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/27182/discussion_topics/287149?module_item_id=1379717){target="_blank"}
+5. Post to [#week2--notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/369030){target="_blank"}
 
 
+# Week 4
+
+
+<!-- * Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019  * [link to file](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETCu0ddUA9hMqPKSwD2kdF8Bv_gW0BW57BTy984t8fB7vg?e=8OXmZe){target='_blank'} -->
+
+<!-- * Intro to alternative to DSM -->
+<!--   * [Video on Psychodynamic Diagnostic Manual](https://scedu-my.sharepoint.com/:v:/g/personal/brian_holt_seattlecolleges_edu/EZNoUFHoBuNHh9-8MlFyapoB3488qemw_ZuAK28sgV0gWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wHmZlm){target='_blank'}. -->
+
+<!--   * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETDxh7RV-ZBFmMvr8ep8SBwBW14Gi259giuf97xfjpe0vw?e=dZK5FH){target='_blank'}    -->
+<!--      * In particular the Table on mental functioning -->
+<!--   * [Skim Example Personality disorders from PDM2](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/EbZq3TqBpsBFp8efwadnKEQBHi0UB1hUtE5oB5lv3VJjXA?e=nML8n0){target='_blank'}   -->
+  
 # Appendix
 
 ## Using the library {#useLibrary} 
