@@ -70,7 +70,7 @@ df %>%
 
 And if you put a line over it, you can see what I mean:
 
-```{r}
+```{r,echo=T}
 unstandardized.lm<-lm(data=df,scan~caliper)
 df_s <-as.data.frame( scale(df))
 standardized.lm<- lm(data=df_s,scan~caliper)
