@@ -1,0 +1,81 @@
+ID,Question,A,B,C,D,Correct Answer,Difficulty
+1,Which term describes excessive and persistent worry about a variety of things?,Specific phobia,Generalized anxiety disorder,Obsessive-compulsive disorder,Panic disorder,B,Easy
+2,A panic attack typically includes symptoms such as:,Gradual worry,Sudden intense fear and physiological symptoms,Fear of specific animals,Avoidance of public speaking,B,Easy
+3,Which disorder is characterized by intense fear of social situations?,Panic disorder,Generalized anxiety disorder,Social anxiety disorder,Separation anxiety disorder,C,Easy
+4,Which structure of the brain is heavily involved in processing fear?,Hippocampus,Prefrontal cortex,Amygdala,Cerebellum,C,Easy
+5,Avoidance behavior helps maintain anxiety disorders by:,Reducing fear over time,Increasing exposure to fear,Preventing disconfirmation of fearful beliefs,Causing new fears,C,Easy
+6,Obsessions in OCD are:,Repetitive behaviors,Intrusive and unwanted thoughts,Normal habits,Irrational fears of animals,B,Easy
+7,Which therapy is commonly used to treat anxiety disorders?,Behaviorism,Psychoanalysis,Cognitive-behavioral therapy,Dream analysis,C,Easy
+8,A child who refuses to speak in certain social situations may be experiencing:,Selective mutism,Agoraphobia,Panic attacks,Specific phobia,A,Easy
+9,"Which disorder involves sudden, intense fear in places where escape might be difficult?",Specific phobia,Panic disorder,Agoraphobia,Separation anxiety disorder,C,Easy
+10,Hypervigilance refers to:,Relaxation in safe environments,Reduced anxiety,Heightened sensitivity to potential threats,Selective mutism,C,Easy
+11,Systematic desensitization is designed to:,Increase avoidance behaviors,Reinforce fearful beliefs,Gradually expose individuals to feared stimuli,Punish anxious behaviors,C,Easy
+12,Cognitive distortions are:,Accurate interpretations,Biological processes,Irrational thought patterns,Behavioral skills,C,Easy
+13,Preparedness theory suggests that people are biologically primed to develop fears of:,Modern technology,Evolutionarily relevant dangers,Social media,Crowds,B,Easy
+14,Anxiolytics are medications primarily used to:,Increase cognitive distortions,Treat bacterial infections,Reduce anxiety symptoms,Induce panic attacks,C,Easy
+15,Exposure therapy involves:,Avoiding fearful stimuli,Repeated exposure to anxiety triggers,Analyzing dreams,Suppressing anxiety through avoidance,B,Easy
+16,Which neurotransmitter is most often targeted in the treatment of anxiety disorders?,Serotonin,Dopamine,Acetylcholine,Glutamate,A,Easy
+17,Conditioning models suggest anxiety disorders can develop through:,Unrelated habits,Classical and operant conditioning,Genetic mutation,Dietary choices,B,Easy
+18,Cognitive restructuring aims to:,Increase avoidance behaviors,Challenge and replace distorted thoughts,Strengthen compulsions,Suppress serotonin,B,Easy
+19,Which term refers to a tendency to interpret ambiguous situations as threatening?,Selective mutism,Intolerance of uncertainty,Hypervigilance,Catastrophic thinking,D,Easy
+20,Which of the following is a mindfulness-based approach to treating anxiety?,Exposure therapy,Relaxation techniques,Cognitive-behavioral therapy,Mindfulness-based stress reduction,D,Easy
+21,Which disorder involves excessive fear of being separated from attachment figures?,Generalized anxiety disorder,Separation anxiety disorder,Selective mutism,Social anxiety disorder,B,Medium
+22,Which behavior is most likely to maintain a specific phobia over time?,Avoidance of feared object,Gradual exposure to fear,Systematic desensitization,Cognitive restructuring,A,Medium
+23,Safety behaviors in anxiety disorders refer to:,Relaxation techniques,Actions intended to prevent feared outcomes,Risk-taking behaviors,Avoiding medication use,B,Medium
+24,Vicarious learning may contribute to anxiety by:,Exposure to positive models,Observing fearful behavior in others,Conditioning based only on personal experience,Avoiding emotional expression,B,Medium
+25,Cognitive-behavioral therapy typically addresses anxiety by:,Suppressing emotions,Identifying and modifying distorted thoughts,Enhancing avoidance strategies,Punishing anxious behaviors,B,Medium
+26,Obsessions and compulsions must be _____ to meet diagnostic criteria for OCD.,Pleasurable,Unrelated to distress,Time-consuming or distressing,Ego-syntonic,C,Medium
+27,Mindfulness techniques in anxiety treatment focus on:,Suppressing negative thoughts,Avoiding feelings of anxiety,Accepting thoughts without judgment,Erasing memory of fearful experiences,C,Medium
+28,Preparedness theory suggests phobias most often involve:,Neutral stimuli,Objects and situations that posed survival threats historically,Technological devices,Modern environmental stressors,B,Medium
+29,Anxiolytic medications are typically prescribed for:,Memory enhancement,Weight gain,Anxiety symptom relief,Suppression of all emotions,C,Medium
+30,Exposure therapy seeks to:,Reinforce avoidance behaviors,Gradually reduce fear responses,Eliminate all anxious feelings immediately,Suppress serotonin levels,B,Medium
+31,The amygdala is implicated in anxiety because it:,Promotes logical decision-making,Regulates basic motor functions,Processes emotional and fear responses,Enhances memory for facts,C,Medium
+32,Which medication type is considered a first-line pharmacological treatment for anxiety?,Beta blockers,Selective serotonin reuptake inhibitors (SSRIs),Antipsychotics,Stimulants,B,Medium
+33,Comorbidity in anxiety disorders refers to:,A lack of diagnosis,The coexistence of two or more disorders,Pure symptom expression,Exclusive anxiety symptoms without other conditions,B,Medium
+34,Intolerance of uncertainty is a cognitive trait that:,Decreases anxiety,Promotes resilience,Exacerbates worry and fear,Enhances emotional regulation,C,Medium
+35,Behavioral inhibition in childhood may predict later development of:,Mood disorders only,Anxiety disorders,Cognitive enhancement,Low fear responsiveness,B,Medium
+36,Relapse prevention in anxiety treatment focuses on:,Avoiding triggers permanently,Identifying early warning signs and coping strategies,Eliminating anxiety permanently,Suppressing all negative emotions,B,Medium
+37,Catastrophic thinking is most accurately described as:,Accurate forecasting of outcomes,Believing worst-case scenarios will happen,Suppressing thoughts,Rational analysis of dangers,B,Medium
+38,Cognitive distortions often involve:,Accurate reflection of threats,Minimization of risks,Exaggerated and irrational thinking,Suppressed emotional regulation,C,Medium
+39,Safety behaviors during anxiety episodes typically:,Prevent escalation of anxiety,Help maintain the anxiety cycle,Lead to permanent symptom relief,Facilitate exposure,B,Medium
+40,Cognitive restructuring teaches clients to:,Suppress anxiety by ignoring triggers,Challenge distorted thought patterns,Use avoidance behaviors,Escape anxiety by minimizing thinking,B,Medium
+41,"Which anxiety disorder is most associated with sudden, unexpected surges of overwhelming fear?",Social anxiety disorder,Panic disorder,Selective mutism,Separation anxiety disorder,B,Hard
+42,The primary goal of exposure therapy is to:,Teach avoidance,Reduce anxiety through repeated contact with feared stimuli,Suppress fear with medication only,Eliminate thoughts about fears,B,Hard
+43,Which neurotransmitter is primarily targeted by SSRIs used in anxiety treatment?,Norepinephrine,GABA,Serotonin,Dopamine,C,Hard
+44,Behavioral inhibition in infancy predicts:,Improved resilience,Heightened anxiety risk later in life,Reduced attention bias,Enhanced social skills,B,Hard
+45,Which cognitive feature involves interpreting ambiguous situations as threatening?,Hypervigilance,Cognitive restructuring,Catastrophic thinking,Behavioral inhibition,C,Hard
+46,Comorbidity between anxiety and depression is explained partly by:,Shared genetic vulnerability,Independent etiologies,Distinct neurobiological pathways,Complete environmental separation,A,Hard
+47,Obsessive-compulsive disorder involves:,Persistent delusions,Repetitive intrusive thoughts and ritualistic behaviors,Dissociation,Manic episodes,B,Hard
+48,Which factor distinguishes normal worry from generalized anxiety disorder?,Duration and uncontrollability of worry,Worry about future events only,Specific phobic object,Positive coping mechanisms,A,Hard
+49,Systematic desensitization involves:,Flooding the patient with fears immediately,Gradual exposure combined with relaxation techniques,Total avoidance of fears,Eliminating serotonin pathways,B,Hard
+50,Amygdala hyperactivity contributes to:,Reduced fear responses,Increased emotional reactivity in anxiety,Loss of executive functioning,Memory deficits,B,Hard
+51,Selective mutism typically manifests in:,Complete inability to speak across all settings,Refusal to speak in selective social situations despite ability to speak elsewhere,Global expressive language disorder,Excessive speech in unfamiliar settings,B,Hard
+52,Which treatment method combines both cognitive and behavioral approaches for anxiety disorders?,Psychoanalysis,Behavioral therapy,Cognitive-behavioral therapy (CBT),Pharmacotherapy alone,C,Hard
+53,Mindfulness-based stress reduction (MBSR) in anxiety treatment encourages:,Avoidance of distressing thoughts,Complete thought suppression,Nonjudgmental awareness of the present moment,Catastrophic thinking,C,Hard
+54,Which symptom is most characteristic of agoraphobia?,Fear of being judged,Fear of places where escape might be difficult,Fear of contamination,Fear of separation from loved ones,B,Hard
+55,Cognitive-behavioral therapy often addresses anxious avoidance by:,Encouraging immediate avoidance,Enhancing avoidance behaviors,Using graded exposure to feared stimuli,Suppressing emotions with medication,C,Hard
+56,Neurobiological models of anxiety emphasize dysfunction in which brain circuit?,Default mode network,Fear circuit involving amygdala and prefrontal cortex,Motor cortex,Occipital-parietal pathways,B,Hard
+57,Catastrophic misinterpretations are most associated with which anxiety disorder?,Panic disorder,Separation anxiety,OCD,Social anxiety,A,Hard
+58,The intolerance of uncertainty model proposes that anxious individuals:,Thrive in unpredictable situations,Experience distress when outcomes are ambiguous,Underestimate dangers,Seek novelty and change,B,Hard
+59,Which of the following best explains why SSRIs are prescribed for anxiety?,They block dopamine receptors,They enhance serotonin availability,They act on GABA channels,They decrease norepinephrine output,B,Hard
+60,Relapse prevention plans often emphasize:,Elimination of all emotional distress,Early recognition of triggers and coping strategies,Immediate cessation of medications,Avoidance of all stressors,B,Hard
+41,"Which anxiety disorder is most associated with sudden, unexpected surges of overwhelming fear?",Social anxiety disorder,Panic disorder,Selective mutism,Separation anxiety disorder,B,Hard
+42,The primary goal of exposure therapy is to:,Teach avoidance,Reduce anxiety through repeated contact with feared stimuli,Suppress fear with medication only,Eliminate thoughts about fears,B,Hard
+43,Which neurotransmitter is primarily targeted by SSRIs used in anxiety treatment?,Norepinephrine,GABA,Serotonin,Dopamine,C,Hard
+44,Behavioral inhibition in infancy predicts:,Improved resilience,Heightened anxiety risk later in life,Reduced attention bias,Enhanced social skills,B,Hard
+45,Which cognitive feature involves interpreting ambiguous situations as threatening?,Hypervigilance,Cognitive restructuring,Catastrophic thinking,Behavioral inhibition,C,Hard
+46,Comorbidity between anxiety and depression is explained partly by:,Shared genetic vulnerability,Independent etiologies,Distinct neurobiological pathways,Complete environmental separation,A,Hard
+47,Obsessive-compulsive disorder involves:,Persistent delusions,Repetitive intrusive thoughts and ritualistic behaviors,Dissociation,Manic episodes,B,Hard
+48,Which factor distinguishes normal worry from generalized anxiety disorder?,Duration and uncontrollability of worry,Worry about future events only,Specific phobic object,Positive coping mechanisms,A,Hard
+49,Systematic desensitization involves:,Flooding the patient with fears immediately,Gradual exposure combined with relaxation techniques,Total avoidance of fears,Eliminating serotonin pathways,B,Hard
+50,Amygdala hyperactivity contributes to:,Reduced fear responses,Increased emotional reactivity in anxiety,Loss of executive functioning,Memory deficits,B,Hard
+51,Selective mutism typically manifests in:,Complete inability to speak across all settings,Refusal to speak in selective social situations despite ability to speak elsewhere,Global expressive language disorder,Excessive speech in unfamiliar settings,B,Hard
+52,Which treatment method combines both cognitive and behavioral approaches for anxiety disorders?,Psychoanalysis,Behavioral therapy,Cognitive-behavioral therapy (CBT),Pharmacotherapy alone,C,Hard
+53,Mindfulness-based stress reduction (MBSR) in anxiety treatment encourages:,Avoidance of distressing thoughts,Complete thought suppression,Nonjudgmental awareness of the present moment,Catastrophic thinking,C,Hard
+54,Which symptom is most characteristic of agoraphobia?,Fear of being judged,Fear of places where escape might be difficult,Fear of contamination,Fear of separation from loved ones,B,Hard
+55,Cognitive-behavioral therapy often addresses anxious avoidance by:,Encouraging immediate avoidance,Enhancing avoidance behaviors,Using graded exposure to feared stimuli,Suppressing emotions with medication,C,Hard
+56,Neurobiological models of anxiety emphasize dysfunction in which brain circuit?,Default mode network,Fear circuit involving amygdala and prefrontal cortex,Motor cortex,Occipital-parietal pathways,B,Hard
+57,Catastrophic misinterpretations are most associated with which anxiety disorder?,Panic disorder,Separation anxiety,OCD,Social anxiety,A,Hard
+58,The intolerance of uncertainty model proposes that anxious individuals:,Thrive in unpredictable situations,Experience distress when outcomes are ambiguous,Underestimate dangers,Seek novelty and change,B,Hard
+59,Which of the following best explains why SSRIs are prescribed for anxiety?,They block dopamine receptors,They enhance serotonin availability,They act on GABA channels,They decrease norepinephrine output,B,Hard
+60,Relapse prevention plans often emphasize:,Elimination of all emotional distress,Early recognition of triggers and coping strategies,Immediate cessation of medications,Avoidance of all stressors,B,Hard
