@@ -1,0 +1,61 @@
+ID,Question,A,B,C,D,Correct Answer,Difficulty
+1,Which disorder is characterized by intrusive thoughts and repetitive behaviors?,Body dysmorphic disorder,Hoarding disorder,Obsessive-compulsive disorder,Trichotillomania,C,Easy
+2,Obsessions are best described as:,Repetitive behaviors,"Intrusive, unwanted thoughts",Pleasurable activities,Conscious goals,B,Easy
+3,Compulsions are typically performed to:,Increase anxiety,Induce panic attacks,Reduce anxiety or prevent a feared event,Strengthen obsessions,C,Easy
+4,The gold-standard behavioral treatment for OCD is:,Psychoanalysis,Exposure and response prevention (ERP),Systematic desensitization,Medication only,B,Easy
+5,Which disorder involves preoccupation with perceived physical flaws?,Obsessive-compulsive disorder,Body dysmorphic disorder,Hoarding disorder,Excoriation disorder,B,Easy
+6,Persistent difficulty discarding possessions is a hallmark of:,Trichotillomania,Body dysmorphic disorder,Hoarding disorder,Panic disorder,C,Easy
+7,Hair-pulling disorder is also known as:,Excoriation disorder,Trichotillomania,Body dysmorphic disorder,OCD,B,Easy
+8,Skin-picking disorder is clinically referred to as:,Trichotillomania,Excoriation disorder,Hoarding disorder,BDD,B,Easy
+9,Which model explains OCD through dysfunctional beliefs and maladaptive coping?,Humanistic model,Cognitive-behavioral model,Psychodynamic model,Medical model,B,Easy
+10,Family accommodation refers to:,Ignoring compulsions,Supporting avoidance behaviors,Discouraging rituals,Providing exposure therapy,B,Easy
+11,Neutralization in OCD refers to:,Ignoring thoughts,Engaging in behaviors to cancel out intrusive thoughts,Enhancing compulsions,Suppressing serotonin,B,Easy
+12,Which neurotransmitter is most implicated in OCD?,Dopamine,GABA,Serotonin,Glutamate,C,Easy
+13,Thought-action fusion describes the belief that:,Thinking something is equivalent to doing it,Exposure reduces fear,Actions eliminate thoughts,Only actions cause distress,A,Easy
+14,Which assessment tool is commonly used to measure OCD severity?,BDI,HAM-A,Y-BOCS,WAIS,C,Easy
+15,Exposure and response prevention (ERP) involves:,Avoiding feared situations,Suppressing compulsions through willpower,Facing fears without performing rituals,Analyzing dreams,C,Easy
+16,Habit reversal training is primarily used for which disorder?,OCD,Body dysmorphic disorder,Trichotillomania,Agoraphobia,C,Easy
+17,Which type of obsession involves excessive concerns about dirt and germs?,Symmetry obsession,Contamination obsession,Magical thinking,Perfectionism,B,Easy
+18,Safety behaviors in OCD serve to:,Reduce long-term anxiety,Prevent disconfirmation of feared outcomes,Enhance exposure effectiveness,Promote spontaneous recovery,B,Easy
+19,Perfectionism in OCD often leads to:,Avoidance of rituals,Extreme checking and reassurance seeking,Cognitive defusion,Reduced anxiety,B,Easy
+20,Negative reinforcement in OCD refers to:,Punishment for rituals,Relief from anxiety after performing compulsions,Suppression of positive emotions,Overt aggression,B,Easy
+21,Which cognitive distortion involves believing that simply thinking about an event will make it happen?,Catastrophic thinking,Magical thinking,Hypervigilance,Avoidance,B,Medium
+22,A key cognitive target in cognitive restructuring for OCD is:,Enhancing rituals,Reinforcing avoidance,Challenging thought-action fusion beliefs,Suppressing all intrusive thoughts,C,Medium
+23,Family accommodation tends to:,Reduce OCD symptoms long-term,Support compulsive rituals,Enhance ERP effectiveness,Challenge cognitive distortions,B,Medium
+24,Individuals with OCD often misinterpret intrusive thoughts as:,Evidence of intent,Random mental noise,Completely harmless phenomena,Adaptive strategies,A,Medium
+25,Which concept best explains why compulsions are maintained over time?,Positive reinforcement,Negative reinforcement,Cognitive defusion,Cognitive restructuring,B,Medium
+26,Y-BOCS primarily measures:,Depression severity,Panic attack frequency,OCD symptom severity,Body image dissatisfaction,C,Medium
+27,Which disorder shares features of ritualistic behavior but centers on appearance preoccupation?,Body dysmorphic disorder,Excoriation disorder,Trichotillomania,Panic disorder,A,Medium
+28,Repeated checking rituals are most associated with fears about:,Symmetry,Contamination,Harm prevention,Social evaluation,C,Medium
+29,Exposure and response prevention (ERP) requires individuals to:,Perform compulsions immediately,Gradually confront fears without ritualizing,Avoid any confrontation with fears,Engage in reassurance seeking,B,Medium
+30,Habit reversal training primarily targets behaviors in:,Body dysmorphic disorder,Hoarding disorder,Hair-pulling and skin-picking disorders,Generalized anxiety disorder,C,Medium
+31,Cognitive-behavioral therapy for OCD aims to:,Suppress obsessions entirely,Prevent compulsions through punishment,Modify dysfunctional beliefs about thoughts,Increase magical thinking,C,Medium
+32,Thought-action fusion increases distress by:,Normalizing intrusive thoughts,Viewing thoughts as morally equivalent to actions,Promoting realistic evaluation of thoughts,Enhancing coping flexibility,B,Medium
+33,Insight in OCD refers to the individual’s ability to:,Recognize obsessions and compulsions as irrational,Completely eliminate all rituals,Experience only positive emotions,Suppress anxiety automatically,A,Medium
+34,Cognitive restructuring teaches clients to:,Perform compulsions differently,Challenge distorted thinking about responsibility and threat,Strengthen rituals,Use magical thinking adaptively,B,Medium
+35,Hypervigilance in OCD often leads to:,Minimization of potential threats,Over-detection of minor imperfections or dangers,Improved emotional regulation,Reduced checking behaviors,B,Medium
+36,Relapse prevention in OCD treatment emphasizes:,Total elimination of intrusive thoughts,Acceptance of discomfort and coping with setbacks,Reassurance seeking,Return to complete avoidance,B,Medium
+37,An example of a neutralization strategy would be:,Performing a compulsion to cancel out a bad thought,Ignoring all intrusive thoughts,Accepting uncertainty,Seeking social reassurance only,A,Medium
+38,Exposure therapy without response prevention typically results in:,Strengthened compulsions,Reduced anxiety quickly,Elimination of all intrusive thoughts,Improved insight automatically,A,Medium
+39,SSRIs are thought to be effective in OCD treatment because they:,Decrease dopamine exclusively,Enhance serotonin signaling,Block norepinephrine reuptake,Lower acetylcholine activity,B,Medium
+40,Distress intolerance in OCD refers to difficulty:,Tolerating negative emotions associated with intrusive thoughts,Recognizing safety cues,Adapting to life changes,Maintaining compulsions long-term,A,Medium
+41,Individuals with poor insight in OCD are more likely to:,Fully recognize their obsessions as irrational,View their compulsions as unnecessary,Believe their fears are realistic,Easily eliminate rituals,C,Hard
+42,Thought-action fusion often results in:,Reduced anxiety about intrusive thoughts,Higher distress and guilt over mere thoughts,Better coping with obsessions,Enhanced emotional regulation,B,Hard
+43,Magical thinking is best defined as believing:,All thoughts are random,Thoughts have the power to influence reality directly,Rituals must be challenged logically,Serotonin controls rituals,B,Hard
+44,ERP is ineffective if:,The client is willing to experience anxiety,Response prevention is not enforced,Exposure is gradual and controlled,Cognitive distortions are challenged,B,Hard
+45,Compulsions are negatively reinforced because they:,Eliminate the source of fear permanently,Temporarily reduce anxiety,Increase serotonin signaling,Challenge avoidance patterns,B,Hard
+46,One risk of excessive family accommodation is:,Reduced ritual strength,Long-term maintenance of OCD symptoms,Improved ERP compliance,Reduced distress tolerance,B,Hard
+47,Hyper-responsibility beliefs in OCD often lead to:,Reduced compulsions,Frequent checking rituals,Decreased anxiety,Spontaneous recovery,B,Hard
+48,The initial goal of cognitive restructuring in OCD is to:,Strengthen compulsive urges,Increase magical thinking,Challenge overestimations of threat and responsibility,Eliminate all intrusive thoughts,C,Hard
+49,Hoarding disorder differs from OCD because hoarding behaviors are often:,Driven by obsessions,Ego-dystonic,Perceived as beneficial or necessary,Focused on contamination fears,C,Hard
+50,Excoriation disorder is characterized by:,Excessive grooming rituals,Compulsive skin-picking causing tissue damage,Preoccupation with symmetry,Frequent reassurance seeking,B,Hard
+51,"In OCD, perfectionism most often leads to rituals aimed at:",Completing tasks to unrealistic standards,Reducing contamination,Achieving social dominance,Increasing emotional regulation,A,Hard
+52,Clients with symmetry obsessions may engage most frequently in:,Cleaning rituals,Ordering and arranging behaviors,Hair-pulling,Contamination rituals,B,Hard
+53,Which type of exposure is most effective for OCD treatment?,Imaginal exposure alone,Response prevention without exposure,In vivo exposure combined with response prevention,Cognitive rehearsal only,C,Hard
+54,Negative reinforcement explains OCD rituals because rituals:,Lead to pleasurable experiences,Provide short-term relief from distress,Strengthen obsessive thoughts,Suppress serotonin production,B,Hard
+55,SSRIs are effective in treating OCD primarily by:,Increasing norepinephrine,Enhancing serotonin neurotransmission,Blocking dopamine exclusively,Reducing GABA reuptake,B,Hard
+56,One goal of relapse prevention in OCD treatment is to:,Suppress all intrusive thoughts,Prepare clients to tolerate occasional setbacks,Eliminate emotional distress entirely,Reinforce magical thinking,B,Hard
+57,"In ERP, response prevention requires clients to:",Delay compulsions indefinitely,Perform rituals immediately after exposure,Increase magical thinking,Suppress all emotions,A,Hard
+58,Body dysmorphic disorder differs from OCD because it:,Is unrelated to body image concerns,Centers around appearance rather than general fears,Involves no rituals at all,Always includes magical thinking,B,Hard
+59,"In OCD, catastrophic misinterpretations about minor mistakes lead to:",Reduced anxiety,Increased ritualization,Better coping flexibility,Lower distress tolerance,B,Hard
+60,Which brain region is most implicated in error detection and hyperresponsibility in OCD?,Occipital lobe,Orbitofrontal cortex,Cerebellum,Hippocampus,B,Hard

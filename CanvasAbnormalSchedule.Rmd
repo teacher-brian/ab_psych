@@ -132,7 +132,46 @@ After reading/watching the above...
 5. Post to [#week2--notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/369030){target="_blank"}
 
 
-# Week 4
+# Week 4 April 28 {#Week3}
+
+
+## Read/watch the following
+
+a. [Module 7: Anxiety Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-7-anxiety-disorders/){target="_blank"}
+
+b. [Module 9: Obsessive and Hoarding disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-9-obsessive-compulsive-and-related-disorders/){target="_blank"}
+
+c. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}
+
+   *  skim this but pay closer attention the semantic sections with the schematics for cars
+   *  Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.  
+      *  in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks
+
+
+## Do the following
+
+You are going to have 2 short essays/reports, 1 on anxiety disorders, 1 on Obsessive. Please pay attention to the requirement that you use the school databases listed below. Also be sure to include references so your instructor can find the articles as necessary. 
+
+1. Pick an Anxiety disorder form the following list: 
+  +  panic
+  +  phobia
+  +  social anxiety disorder
+  +  generalized anxiety Disorder
+
+  * and find 2 articles that suggest what causes it
+    * The article must be from either of these two school databases:
+      * [Academic Search Complete](https://libguides.northseattle.edu/az.php?a=a){target="_blank"}
+      * [PsychArticles](https://libguides.northseattle.edu/az.php?a=p){target="_blank"}
+
+2. Write 1 or 2 paragraphs about what you have learned into your google doc.  This does not necessarily mean you should summarize the journal articles you found. This is a reflective piece.  Write about the questions you have or where your mind goes. be sure to provide in-text citations and references...not just URL's.
+
+
+3. And then do it again but for OCD or Hoarding
+   * So, find 2 articles from those school databases, write 1 or 2 paragraphs. 
+
+4. Write a question in the ["student generated discussion"](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/368953?module_item_id=1787769){target="_blank"}
+
+5. Post a link in the [#week4 Discussion in canvas](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/370777?module_item_id=1794262){target="_blank"} 
 
 
 <!-- * Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019  * [link to file](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETCu0ddUA9hMqPKSwD2kdF8Bv_gW0BW57BTy984t8fB7vg?e=8OXmZe){target='_blank'} -->
@@ -143,6 +182,12 @@ After reading/watching the above...
 <!--   * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETDxh7RV-ZBFmMvr8ep8SBwBW14Gi259giuf97xfjpe0vw?e=dZK5FH){target='_blank'}    -->
 <!--      * In particular the Table on mental functioning -->
 <!--   * [Skim Example Personality disorders from PDM2](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/EbZq3TqBpsBFp8efwadnKEQBHi0UB1hUtE5oB5lv3VJjXA?e=nML8n0){target='_blank'}   -->
+  
+# week 5 Stress disorder transitioning to mood
+
+# Week 6 Mood Disorders
+
+
   
 # Appendix
 
