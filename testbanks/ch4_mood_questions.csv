@@ -1,0 +1,61 @@
+ID,Question,A,B,C,D,Correct Answer,Difficulty
+1,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Premenstrual dysphoric disorder,Cyclothymic disorder,Major depressive disorder,Persistent depressive disorder,D,Easy
+2,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Family history,Severity of depressive symptoms,Presence of hallucinations,Occurrence of manic episodes,D,Easy
+3,What symptom is required for a diagnosis of major depressive disorder?,Hypomania,Decreased need for sleep,Increased risk-taking,Depressed mood or anhedonia,D,Easy
+4,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Cyclothymic disorder,Persistent depressive disorder,Premenstrual dysphoric disorder,Major depressive disorder,B,Easy
+5,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Severity of depressive symptoms,Occurrence of manic episodes,Presence of hallucinations,Family history,B,Easy
+6,What symptom is required for a diagnosis of major depressive disorder?,Decreased need for sleep,Hypomania,Depressed mood or anhedonia,Increased risk-taking,C,Easy
+7,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Cyclothymic disorder,Persistent depressive disorder,Premenstrual dysphoric disorder,Major depressive disorder,B,Easy
+8,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Family history,Severity of depressive symptoms,Presence of hallucinations,Occurrence of manic episodes,D,Easy
+9,What symptom is required for a diagnosis of major depressive disorder?,Hypomania,Depressed mood or anhedonia,Increased risk-taking,Decreased need for sleep,B,Easy
+10,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Persistent depressive disorder,Cyclothymic disorder,Major depressive disorder,Premenstrual dysphoric disorder,A,Easy
+11,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Severity of depressive symptoms,Family history,Occurrence of manic episodes,Presence of hallucinations,C,Easy
+12,What symptom is required for a diagnosis of major depressive disorder?,Increased risk-taking,Depressed mood or anhedonia,Decreased need for sleep,Hypomania,B,Easy
+13,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Cyclothymic disorder,Persistent depressive disorder,Major depressive disorder,Premenstrual dysphoric disorder,B,Easy
+14,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Presence of hallucinations,Severity of depressive symptoms,Family history,Occurrence of manic episodes,D,Easy
+15,What symptom is required for a diagnosis of major depressive disorder?,Depressed mood or anhedonia,Hypomania,Decreased need for sleep,Increased risk-taking,A,Easy
+16,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Premenstrual dysphoric disorder,Cyclothymic disorder,Persistent depressive disorder,Major depressive disorder,C,Easy
+17,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Occurrence of manic episodes,Family history,Severity of depressive symptoms,Presence of hallucinations,A,Easy
+18,What symptom is required for a diagnosis of major depressive disorder?,Increased risk-taking,Hypomania,Depressed mood or anhedonia,Decreased need for sleep,C,Easy
+19,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Cyclothymic disorder,Premenstrual dysphoric disorder,Major depressive disorder,Persistent depressive disorder,D,Easy
+20,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Family history,Presence of hallucinations,Occurrence of manic episodes,Severity of depressive symptoms,C,Easy
+21,What symptom is required for a diagnosis of major depressive disorder?,Decreased need for sleep,Increased risk-taking,Depressed mood or anhedonia,Hypomania,C,Easy
+22,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Cyclothymic disorder,Persistent depressive disorder,Major depressive disorder,Premenstrual dysphoric disorder,B,Easy
+23,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Presence of hallucinations,Occurrence of manic episodes,Family history,Severity of depressive symptoms,B,Easy
+24,What symptom is required for a diagnosis of major depressive disorder?,Increased risk-taking,Hypomania,Depressed mood or anhedonia,Decreased need for sleep,C,Easy
+25,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Premenstrual dysphoric disorder,Major depressive disorder,Cyclothymic disorder,Persistent depressive disorder,D,Easy
+26,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Family history,Severity of depressive symptoms,Occurrence of manic episodes,Presence of hallucinations,C,Easy
+27,What symptom is required for a diagnosis of major depressive disorder?,Increased risk-taking,Depressed mood or anhedonia,Decreased need for sleep,Hypomania,B,Easy
+28,Which disorder involves experiencing symptoms for at least two years with only temporary relief?,Persistent depressive disorder,Cyclothymic disorder,Major depressive disorder,Premenstrual dysphoric disorder,A,Easy
+29,Which of the following is a key distinction between bipolar I and bipolar II disorder?,Presence of hallucinations,Occurrence of manic episodes,Severity of depressive symptoms,Family history,B,Easy
+30,What symptom is required for a diagnosis of major depressive disorder?,Increased risk-taking,Decreased need for sleep,Hypomania,Depressed mood or anhedonia,D,Easy
+31,What is the most common comorbidity of major depressive disorder?,Schizophrenia,Borderline personality disorder,Substance use disorders,PTSD,C,Medium
+32,What treatment method involves increasing contact with sources of positive reinforcement?,Cognitive restructuring,Behavioral activation,Pharmacotherapy,Exposure therapy,B,Medium
+33,Which neurotransmitter is commonly low in people with depression?,Acetylcholine,Serotonin,GABA,Glutamate,B,Medium
+34,Which diagnosis includes alternating periods of hypomanic symptoms and mild depression?,Bipolar I,Major depressive disorder,Cyclothymic disorder,Persistent depressive disorder,C,Medium
+35,Which disorder requires at least five symptoms in the final week before menses?,Cyclothymic disorder,PMDD,PDD,Bipolar II,B,Medium
+36,What is the most common comorbidity of major depressive disorder?,Schizophrenia,PTSD,Substance use disorders,Borderline personality disorder,C,Medium
+37,What treatment method involves increasing contact with sources of positive reinforcement?,Pharmacotherapy,Cognitive restructuring,Behavioral activation,Exposure therapy,C,Medium
+38,Which neurotransmitter is commonly low in people with depression?,Acetylcholine,Glutamate,Serotonin,GABA,C,Medium
+39,Which diagnosis includes alternating periods of hypomanic symptoms and mild depression?,Persistent depressive disorder,Cyclothymic disorder,Major depressive disorder,Bipolar I,B,Medium
+40,Which disorder requires at least five symptoms in the final week before menses?,Cyclothymic disorder,PMDD,Bipolar II,PDD,B,Medium
+41,What is the most common comorbidity of major depressive disorder?,Substance use disorders,PTSD,Borderline personality disorder,Schizophrenia,A,Medium
+42,What treatment method involves increasing contact with sources of positive reinforcement?,Cognitive restructuring,Behavioral activation,Exposure therapy,Pharmacotherapy,B,Medium
+43,Which neurotransmitter is commonly low in people with depression?,GABA,Serotonin,Acetylcholine,Glutamate,B,Medium
+44,Which diagnosis includes alternating periods of hypomanic symptoms and mild depression?,Cyclothymic disorder,Major depressive disorder,Persistent depressive disorder,Bipolar I,A,Medium
+45,Which disorder requires at least five symptoms in the final week before menses?,Bipolar II,PDD,Cyclothymic disorder,PMDD,D,Medium
+46,What is the most common comorbidity of major depressive disorder?,Borderline personality disorder,Schizophrenia,PTSD,Substance use disorders,D,Medium
+47,What treatment method involves increasing contact with sources of positive reinforcement?,Behavioral activation,Cognitive restructuring,Exposure therapy,Pharmacotherapy,A,Medium
+48,Which neurotransmitter is commonly low in people with depression?,Serotonin,GABA,Glutamate,Acetylcholine,A,Medium
+49,Which diagnosis includes alternating periods of hypomanic symptoms and mild depression?,Cyclothymic disorder,Major depressive disorder,Persistent depressive disorder,Bipolar I,A,Medium
+50,Which disorder requires at least five symptoms in the final week before menses?,Bipolar II,PMDD,PDD,Cyclothymic disorder,B,Medium
+51,What best describes the cognitive triad according to Beck?,"Negative views about self, world, and future","Overeating, sleep, and sex drive","Anxiety, guilt, and grief","Anger, sadness, and fear",A,Hard
+52,Which gene is linked to serotonin activity and potentially depression?,COMT gene,DRD4 gene,5-HTT gene,MAOA gene,C,Hard
+53,What best describes the cognitive triad according to Beck?,"Anger, sadness, and fear","Negative views about self, world, and future","Overeating, sleep, and sex drive","Anxiety, guilt, and grief",B,Hard
+54,Which gene is linked to serotonin activity and potentially depression?,5-HTT gene,MAOA gene,COMT gene,DRD4 gene,A,Hard
+55,What best describes the cognitive triad according to Beck?,"Anger, sadness, and fear","Negative views about self, world, and future","Overeating, sleep, and sex drive","Anxiety, guilt, and grief",B,Hard
+56,Which gene is linked to serotonin activity and potentially depression?,DRD4 gene,MAOA gene,COMT gene,5-HTT gene,D,Hard
+57,What best describes the cognitive triad according to Beck?,"Negative views about self, world, and future","Overeating, sleep, and sex drive","Anxiety, guilt, and grief","Anger, sadness, and fear",A,Hard
+58,Which gene is linked to serotonin activity and potentially depression?,MAOA gene,5-HTT gene,COMT gene,DRD4 gene,B,Hard
+59,What best describes the cognitive triad according to Beck?,"Negative views about self, world, and future","Anger, sadness, and fear","Anxiety, guilt, and grief","Overeating, sleep, and sex drive",A,Hard
+60,Which gene is linked to serotonin activity and potentially depression?,DRD4 gene,MAOA gene,5-HTT gene,COMT gene,C,Hard
