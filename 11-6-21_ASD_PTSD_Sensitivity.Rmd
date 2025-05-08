@@ -26,7 +26,7 @@ While specificity is  TN / (TN + FP)
 
 https://www.nottingham.ac.uk/nmp/sonet/rlos/ebp/sensitivity_specificity/page_four.html
 
-\newpage
+# Setting up the table
 
 So, using some algebra
 

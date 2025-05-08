@@ -42,7 +42,7 @@ Consider some height and weight data. Obviously there is a biological process th
 
 The dots come from an individual's report of both their height and weight. 
 
-```{r calc,  echo=FALSE}
+```{r calc,  echo=FALSE,fig.dim=c(7,5)}
 #HeightWeight_Data <- read.csv(file="http://faculty.seattlecolleges.edu/faculty/brian.holt/psych217/data/Student_Height_Weight_EngGpa_1-16-2008.csv",header=T)[-c(1)] 
 
 #write.csv(HeightWeight_Data,file='height_gpa.csv')
@@ -89,7 +89,7 @@ ggdag_dseparated(from='Miles_Jogged', to='Body_Fat', miles_jogged_dag, text = FA
 
 ::::
 :::: {.column width=38%}
-```{r,fig.dim=c(4,3),echo=F}
+```{r,fig.dim=c(6,4),echo=F}
 
 sigma<-rbind(c(1,-0.8,-0.7), c(-0.8,1, 0.9), c(-0.7,0.9,1))
 # create the mean vector
@@ -121,8 +121,8 @@ So, assuming everything else equal, the more you run, the more your body fat wil
 :::: {.column width=45%}
 Most are used to seeing spreadsheets that look like this:
 
-```{r}
-sex.d <- readRDS(file = '../HumanSex/d_Sex-survey.RDS')
+```{r, load sex data}
+sex.d <- readRDS(file = '../sex/d_Sex-survey.RDS')
 sex.d %>% 
   select(id,Age,sex,q.num,score) %>% 
   pivot_wider(id_cols = c(id,Age,sex),names_from = q.num,values_from=score) %>% 
@@ -151,9 +151,9 @@ A scatter plot is often a way to show how these data may relate to each other.
 ::: columns
 :::: {.column width=38%}
 
-```{r}
+```{r,fig.dim=c(7,5)}
 sex.d %>% 
-  group_by(id,Age) %>% filter(Age<49) %>% 
+  group_by(id,Age) %>% 
   summarise(S=sum(score)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
   ggtitle("Sexual Importance total score and Age")
 ```
@@ -195,15 +195,15 @@ When we deal with studying groups of people it's useful, sometimes to think abou
 
 The mean is where you sum up all the scores $\frac{\sum{x}}{N}$.
 
-```{r}
-mean_age <- sex.d %>% select(id,Age,sex) %>%  distinct() %>% filter(Age<49) %>% 
-  summarise(mean=mean(Age))
+```{r,fig.dim=c(7,5)}
+mean_age <- sex.d %>% select(id,Age,sex) %>%  distinct() %>%
+  summarise(mean=mean(Age,na.rm=T))
 
 round(mean_age,1) %>% kbl() %>% kable_styling(full_width = F,position = 'center')
 
 Age <- 
 sex.d %>% select(id,Age) %>%  distinct() %>% select(Age) %>%
-  filter(Age!=49) %>% 
+  
   arrange(Age) %>% pull() 
 ```
 It might help to see it graphically...if we make a histogram, you can sort of see how all the numbers stack together and so the mean should be in the middle of these stacks
@@ -211,9 +211,9 @@ It might help to see it graphically...if we make a histogram, you can sort of se
 
 :::: {.column width=65%}
 
-```{r}
+```{r,fig.dim=c(7,5)}
  sex.d %>% select(id,Age,sex) %>%  distinct() %>% 
-  filter(Age<49) %>% 
+ 
    ggplot(aes(x=Age))+geom_histogram(bins=35)+
   geom_vline(xintercept = mean_age[[1]],color='blue')
 
@@ -226,11 +226,11 @@ It's not quite correct, but if you add up all the ages on the left side, you get
 :::
 # Median Example
 
-```{r,fig.dim=c(12,5)}
+```{r,fig.dim=c(14,7)}
 sex.age.median <- 
-  sex.d %>% select(id,Age) %>%  distinct() %>% filter(Age<49) %>% 
-    summarise(q=quantile(Age),
-              median=median(Age),
+  sex.d %>% select(id,Age) %>%  distinct() %>% 
+    summarise(q=quantile(Age,na.rm=T),
+              median=median(Age,na.rm=T),
               n=n()) %>% 
   mutate(x=q,
          y=0,
@@ -260,7 +260,7 @@ find_median <- function(v) {
 
 med_pos<- find_median(Age)
 
-sex.d %>% select(id,Age) %>%  distinct() %>% filter(Age!=49) %>%   arrange(Age) %>% select(Age) %>% 
+sex.d %>% select(id,Age) %>%  distinct() %>% select(Age) %>% arrange(Age) %>% 
     mutate(position=row_number()) %>% 
   ggplot(aes(x=position,y=0))+geom_line(linewidth=.1)+
   geom_label(aes(label=Age),vjust=-1,size=3)+
@@ -280,8 +280,8 @@ sex.d %>% select(id,Age) %>%  distinct() %>% filter(Age!=49) %>%   arrange(Age) 
                    yend=.05),
                color='blue')+
   geom_text(aes(label="Ages in order from least\nto greatest"),x=10,y=.05)+
-  geom_text(aes(label="There are equal number\nof scores\non each side of the blue line"),x=38,y=.05)+
-  geom_text(aes(label="Order and position of the Ages,\nstarting at position 1"),x=15,y=-.03,size=4)+
+  geom_text(aes(label="There are equal number\nof scores\non each side of the blue line"),x=sex.age.median$n[1]/2,y=.06)+
+  geom_text(aes(label="Order and position of the Ages,\nstarting at position 1"),x=15,y=-.3,size=4)+
   geom_text(aes(label=paste0("So, ",sex.age.median$q[[3]]," should be the median,\nor midpoint of the scores"),x=35,y=-.03))
 
 ```
@@ -307,7 +307,7 @@ The table above shows the count of each Age reported with counts of one removed 
 :::: {.column width=25%}
 So, maybe putting them on the same graph might help.
 
-```{r}
+```{r,fig.dim=c(6,5)}
 as.data.frame(Age) %>% 
   ggplot(aes(x=Age))+geom_histogram(bins=35)+
   geom_vline(xintercept=mean(Age),color='orange')+
@@ -324,7 +324,7 @@ as.data.frame(Age) %>%
 :::: {.column width=65%}
 If we did it with more 'normally distributed data', it would look like this:
 
-```{r}
+```{r,fig.dim=c(7,5)}
 b<- hwd %>% select(Height) %>%  group_by(Height) %>% 
   mutate(Height=round(Height,1)) %>% 
   summarise(count=n()) %>% arrange(desc(count))  
@@ -424,7 +424,7 @@ So, for example, age varies around the mean (`r round(mean(bfi$age,na.rm=T),3)`)
 
 So, let's look at the histogram of age:
 
-```{r,fig.dim=c(4,3),echo=F}
+```{r,fig.dim=c(8,5),echo=F}
 hist(bfi$age)
 ```
 
@@ -446,7 +446,7 @@ Let's do this 20 times
 
 #  Several samples
 
-```{r, small n histogram samples,echo=F,fig.dim=c(6,4),message=F,warning=F}
+```{r, small n histogram samples,echo=F,fig.dim=c(9,5),message=F,warning=F}
 sample_count=20
 n=35
 samps<- rep(1:sample_count,each=n)
@@ -475,7 +475,7 @@ Now let's do that, but 100 times.  I won't show you the individual averages but 
 
 #  histogram of a sampling distribution
 
-```{r, 100 sample means,echo=F,fig.dim=c(3,3),message=F,warning=F}
+```{r, 100 sample means,echo=F,fig.dim=c(10,6),message=F,warning=F}
 sample_count=100
 n=35
 out<- sapply(1:sample_count,function(x) mean(sample(bfi$age,x,replace=T)))
@@ -486,7 +486,7 @@ abline(v=mean(bfi$age),col='red')
 
 # Let's do it again but with 1000 samples
 
-```{r, 1000 sample means,echo=F,fig.dim=c(3,3),message=F,warning=F}
+```{r, 1000 sample means,echo=F,fig.dim=c(10,6),message=F,warning=F}
 sample_count=1000
 n=35
 out<- sapply(1:sample_count,function(x) mean(sample(bfi$age,x,replace=T)))
@@ -504,7 +504,7 @@ Also, many of you are familiar with the bell shape.  It's just this histogram wi
 
 # smaller rectangles
 
-```{r,echo=F}
+```{r,echo=F,fig.dim=c(10,6)}
 par(mfrow=c(2,3))
 hist(out,breaks=10)
 hist(out,breaks=20)
@@ -620,7 +620,7 @@ Histograms are useful for seeing how small sets of data "look".  It often is use
 
 Imagine we wanted to discover how tall people are.  Let us say I can sample 100 people, randomly, from Seattle.  Here they are listed in inches
 
-```{r height data,echo=F}
+```{r height data,echo=F,fig.dim=c(7,5)}
 h <- round(rnorm(100,mean=66, sd=1),1)
 print(h)
 ```
@@ -629,7 +629,7 @@ We can see this data more easily if we graph it.  There are many ways to, but th
 
 # another histogram
 
-```{r histogram,echo=F,fig.dim=c(4,4)}
+```{r histogram,echo=F,fig.dim=c(7,5)}
 
 hist(h,xlab = 'Height\n blue line is the average',main = 'histogram of heights in Seattle')
 abline(v=mean(h),col='blue')
@@ -648,14 +648,14 @@ And here is the data pulled out so you aren't overtaxing your eyes: `r sort(h[h>
 
 **But what I want you to really see is the shape of this histogram.**  It is beginning to look like a bell curve, the classic normal distribution.  If we could sample a bit larger number of people, say 200, you would a shape more close to this normal curve:
 
-```{r More data for histogram,echo=F,fig.dim=c(3,3)}
+```{r More data for histogram,echo=F,fig.dim=c(7,5)}
 h.1 <- rnorm(200, mean=66)
 hist(h.1,xlab = 'Height',main = 'histogram of 200 heights in Seattle')
 ```
 
 # And what about 1000 people? 
 
-```{r  1000 data for histogram,echo=F,fig.dim=c(5,5)}
+```{r  1000 data for histogram,echo=F,fig.dim=c(7,5)}
 h.1000 <- rnorm(1000, mean=66)
 par(mfrow=c(1,2))
 hist(h.1000,xlab = 'Height',main = 'histogram of 1000 heights in Seattle')
