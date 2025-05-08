@@ -154,7 +154,7 @@ A scatter plot is often a way to show how these data may relate to each other.
 ```{r,fig.dim=c(7,5)}
 sex.d %>% 
   group_by(id,Age) %>% 
-  summarise(S=sum(score)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
+  summarise(S=sum(score,na.rm=T)) %>% ggplot(aes(x=Age,y=S))+geom_point()+
   ggtitle("Sexual Importance total score and Age")
 ```
 
@@ -310,8 +310,8 @@ So, maybe putting them on the same graph might help.
 ```{r,fig.dim=c(6,5)}
 as.data.frame(Age) %>% 
   ggplot(aes(x=Age))+geom_histogram(bins=35)+
-  geom_vline(xintercept=mean(Age),color='orange')+
-  geom_vline(xintercept=median(Age),color='blue')+
+  geom_vline(xintercept=mean(Age, na.rm=T),color='orange')+
+  geom_vline(xintercept=median(Age, na.rm=T),color='blue')+
   geom_vline(xintercept=a$Age[1],color='purple')+
   ggtitle("Purple = mode\nBlue = median\nOrange = mean")
 ```
