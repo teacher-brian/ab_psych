@@ -1,0 +1,25 @@
+Hello, let's make another test bank.
+
+With the attached pdf file, create 1 table of questions and answers; here are the constraints:  
+
+    1. Generate a total of 60 unique questions that are multiple choice from the attached file	 
+	1a. the questions should have a mix of "general comprehension" and "vocabulary" 
+	1b. 30 questions should be "easy" on a scale of difficulty from "easy" to "medium" to "hard"
+	1c. 20 questions should be "medium";
+	1d. 10 questions should be "difficult";
+    2. each question should have 4 choices
+    3. each question should have only one correct answer
+    4. each question should have 4 multiple choices 
+    5. each question should have only one correct answer 
+    6. Each set of 4 answer alternatives should have a mix of "A", "B" , "C", or "D" as the correct answer.  For Example, after you've made the table of questions, the correct answer should not all be "A".
+    7. when you are finished you should have QTI-Compatible Question Table with the following column titles:
+
+ID: Just a number to track questions (not strictly necessary, but helpful)
+Question: The multiple choice question text
+A–D: Four answer choices
+Correct Answer: Just the letter (A/B/C/D) of the correct one
+Difficulty: Easy, Medium, or Hard (for sorting into banks)
+
+After I've looked at the questions, we'll build a QTI Canvas file. 
+
+Be sure to manage your resources so that you don't time out.  
