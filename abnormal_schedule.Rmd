@@ -592,7 +592,10 @@ Make notice of the last week [final Project](https://docs.google.com/document/d/
   * First read the introductory remarks of the Wikipedia entries; first an older version on the [Causes of schizophrenia (old)](https://en.wikipedia.org/w/index.php?title=Risk_factors_of_schizophrenia&oldid=1000718110){target='_blank'} and then the more recent version [Risk factors for schizophrenia](https://en.wikipedia.org/wiki/Risk_factors_of_schizophrenia){target='_blank'}
     * by the way, the reason I'm showing both of these is partly to show why relying on URL's for references can be a mistake (URLs change).
 
-* Read @harveyDualTaskInformationProcessing2006 . The link in 2006 takes you to the reference section below.  You'll need to use that reference information to obtain the full text, which can be found in our library database PsychArticles. So, [go to the library article page.](https://libguides.northseattle.edu/welcome/articles){target='_blank'}  
+* Read @harveyDualTaskInformationProcessing2006 . The link in 2006 takes you to the reference section below.  But here is the citation: 
+  * Harvey, Philip D., Abraham Reichenberg, Michelle Romero, Eric Granholm, and Larry J. Siever. 2006. “Dual-Task Information Processing in Schizotypal Personality Disorder: Evidence of Impaired Processing Capacity.” Neuropsychology 20 (4): 453–60. https://doi.org/10.1037/0894-4105.20.4.453.
+  
+You'll need to use that reference information to obtain the full text, which can be found in our library database PsychArticles. This article is contained in the [PsychArticles database](https://libguides.northseattle.edu/az.php?a=p){target='_blank'}.  So, go to [that database](https://libguides.northseattle.edu/az.php?a=p){target='_blank'} by scrolling down a bit and search for the article.
 
 ## Do
 
