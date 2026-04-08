@@ -125,7 +125,7 @@ We've already discussed these but I want to remind you about their existence
 
 # Week 1 April 6 {#Week1} 
 
-# Read some stuff
+## Read some stuff
 
 1. Skim [Textbook, Module 1: What is Abnormal Psychology?](https://opentext.wsu.edu/abnormal-psych/chapter/module-1-what-is-abnormal-psychology/){target="_blank"}
 
@@ -162,7 +162,7 @@ And then have read @efran_defining_2007, by Thursday, April 16.
 
 In this google doc, write something about what interests you about Abnormal psychology--just a few sentences. Be sure to give this section a title.  You can also insert a page break after this entry.
 
-3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [Assignment 1](https://abormalpsychology2026.slack.com/archives/C0ARA5GQVT6){target="_blank"}.
+3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [Assignment 1 channel](https://abormalpsychology2026.slack.com/archives/C0ARA5GQVT6){target="_blank"}.
 
 4. Read some of your classmates' posts and comment on some. 
 
