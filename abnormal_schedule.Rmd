@@ -182,7 +182,7 @@ In this google doc, write something about what interests you about Abnormal psyc
 
 
 
-7. Read a few other students and make some comments on their post.   Use google docs to make these comments.  Highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'ctrl + alt +m'
+8. Read a few other students and make some comments on their post.   Use google docs to make these comments.  Highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'ctrl + alt +m'
 
 
 <!-- ```{block,type='blueBackground'} -->
@@ -206,11 +206,7 @@ In this google doc, write something about what interests you about Abnormal psyc
 ```{block,type='blueBackground'}
 Some of the links below jump to the references section at the end of this document.  From there, you may find links to the actual article or you will have references to fetch from our college's library databases.  
 ```
-<br />  
 
-11. [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"}
-
-12. [Diathesis stress video youtube](https://www.youtube.com/watch?v=1MaaORgCHvc){target="_blank"}
 
 ```{block, type='blueBackground'}
 Although we aren't using canvas, a few videos I've made are stored in Panopto.  I don't think you need to log into canvas for them to work.  But you may be prompted.
@@ -218,19 +214,13 @@ Although we aren't using canvas, a few videos I've made are stored in Panopto.  
 
 ## Read the following
 
-* [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
+1. [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"}
 
+2. [Module 3: Clinical Assessment, Diagnosis, and Treatment](https://opentext.wsu.edu/abnormal-psych/chapter/module-3-clinical-assessment-diagnosis-and-treatment/){target="_blank"}
 
-* Not So Fast, a comment to Riskind about diagnostic schemes. @efran_not_2019  * [link to file](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETCu0ddUA9hMqPKSwD2kdF8Bv_gW0BW57BTy984t8fB7vg?e=8OXmZe){target='_blank'}
-
-
-* [Instructor Lecture Intro to Epidemiology](https://youtu.be/eUYIwNChS0I){target='_blank'}
-
-* [Instructor Lecture Epidemiology Example](https://youtu.be/XQoH5avTlzA){target='_blank'}
 
 * Intro to alternative to DSM
-  * [Video on Psychodynamic Diagnostic Manual
-](https://scedu-my.sharepoint.com/:v:/g/personal/brian_holt_seattlecolleges_edu/EZNoUFHoBuNHh9-8MlFyapoB3488qemw_ZuAK28sgV0gWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wHmZlm){target='_blank'}. 
+  * [Video on Psychodynamic Diagnostic Manual](https://scedu-my.sharepoint.com/:v:/g/personal/brian_holt_seattlecolleges_edu/EZNoUFHoBuNHh9-8MlFyapoB3488qemw_ZuAK28sgV0gWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wHmZlm){target='_blank'}. 
   * [Skim Excerpts of Chapter 1 and 2 from PDM2 @lingiardiPsychodynamicDiagnosticManual2015a](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/ETDxh7RV-ZBFmMvr8ep8SBwBW14Gi259giuf97xfjpe0vw?e=dZK5FH){target='_blank'}   
      * In particular the Table on mental functioning
   * [Skim Example Personality disorders from PDM2](https://scedu-my.sharepoint.com/:b:/g/personal/brian_holt_seattlecolleges_edu/EbZq3TqBpsBFp8efwadnKEQBHi0UB1hUtE5oB5lv3VJjXA?e=nML8n0){target='_blank'}  
@@ -239,7 +229,7 @@ After reading/watching the above...
 
 ## Do the following
 
-1. In the one document to rule them all, write about which psychology Model from [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"} resonates with you and why---Yes you may have skimmed this for week 1.
+1. In the one document to rule them all, write about which psychology Model from [Module 2: Models of Abnormal Psychology](https://opentext.wsu.edu/abnormal-psych/chapter/module-2-models-of-abnormal-psychology/){target="_blank"} resonates with you and why.
 
 2.  Ask chatGpt what makes a good diagnostic system. Start in the abstract. Ask it about "criteria". Keep on the lookout for terms like "specificity" and "sensitivity".  From here, find some questions in it's responses and ask it to elaborate, to challenge it. Share your questions in your one google doc.
 
@@ -247,12 +237,7 @@ After reading/watching the above...
 
 4. Lastly, in the one document to rule them all, list some questions about the readings/content for this week. Things you would like to learn more about. 
 
-5. Post to [#week2--notice this is a clickable link](https://abnormalpsych-zgb5710.slack.com/archives/C06STTMFE0P){target="_blank"}
-
-```{block, Slack URLs2, type='blueBackground'}
-Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
-```
-
+5. Post to [#week2 diagnostic issues](https://abnormalpsych-zgb5710.slack.com/archives/C06STTMFE0P){target="_blank"}
 
 
 
