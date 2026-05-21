@@ -471,6 +471,8 @@ B. What this [playlist of videos on depression and bipolar](https://www.youtube.
 
 # Week 7 May 18 {#Week7} 
 
+Overlapping week between eating disorders and psychotic
+
 <!-- * Make notice of the last week [final Project](https://docs.google.com/document/d/11GxIlOTqrcXQ-MlW9eikqR-dH_ErgsjCv8xu0Zj5S60/edit){target="_blank"}.  I would recommend starting that, or at least putting in your list of things to do sooner than later.   -->
 
 # Week 8  Psychotic May 25 {#Week8} 
@@ -479,12 +481,15 @@ Make notice of the last week [final Project](https://docs.google.com/document/d/
 
 ## Read 
 
-* [Introduction.1   ](https://youtu.be/nvvYPg9Inzg){target='_blank'}
-    
-    * [Introduction.2  3  min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770a8f9c-d5e1-4227-8574-abd501162fef){target='_blank'}
-    * [Causes  9 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'}
-    * [Schizophrenia Example 1  7 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7c9382-0d68-4492-bb67-abd501162962){target='_blank'}
-    * [Schizophrenia Example 2  10 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf324e4-5d6a-403c-a1cb-abd50185b083){target='_blank'}
+<!-- * [Introduction.1   ](https://youtu.be/nvvYPg9Inzg){target='_blank'} -->
+
+<!--     * [Introduction.2  3  min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=770a8f9c-d5e1-4227-8574-abd501162fef){target='_blank'} -->
+<!--     * [Causes  9 min](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7387a2b-3da2-4723-a7e0-abd5011622b3){target='_blank'} -->
+<!--     <!-- * [Schizophrenia Example 1  7 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea7c9382-0d68-4492-bb67-abd501162962){target='_blank'} --> 
+<!--     <!-- * [Schizophrenia Example 2  10 min ](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf324e4-5d6a-403c-a1cb-abd50185b083){target='_blank'} --> 
+
+
+<!-- # these are vids in panopto with commentary -->
 
 
 * [textbook psychotic Disorders](https://opentext.wsu.edu/abnormal-psych/chapter/module-12-schizophrenia-spectrum-and-other-psychotic-disorders/){target='_blank'}
@@ -499,15 +504,14 @@ Make notice of the last week [final Project](https://docs.google.com/document/d/
 * Read @harveyDualTaskInformationProcessing2006 . The link in 2006 takes you to the reference section below.  But here is the citation: 
   * Harvey, Philip D., Abraham Reichenberg, Michelle Romero, Eric Granholm, and Larry J. Siever. 2006. “Dual-Task Information Processing in Schizotypal Personality Disorder: Evidence of Impaired Processing Capacity.” Neuropsychology 20 (4): 453–60. https://doi.org/10.1037/0894-4105.20.4.453.
   
-You'll need to use that reference information to obtain the full text, which can be found in our library database PsychArticles. This article is contained in the [PsychArticles database](https://libguides.northseattle.edu/az.php?a=p){target='_blank'}.  So, go to [that database](https://libguides.northseattle.edu/az.php?a=p){target='_blank'} by scrolling down a bit and search for the article.
+  
+  this link may work: [dual task processing](https://research.ebsco.com/c/kjeny5/search/details/yzg3u7pxrf?db=pdh&limiters=None&q=DI%20%2810.1037%2F0894-4105.20.4.453%29&searchMode=boolean){target='_blank'}. but it's hard to know; the link may 'expire'.  If it doesn't work, then you will need to actually go to the correct database and use the reference info (found at bottom of this page):   You'll need to use that reference information to obtain the full text, which can be found in our library database PsychArticles. This article is contained in the [PsychArticles database](https://libguides.northseattle.edu/az.php?a=p){target='_blank'}.  So, go to [that database](https://libguides.northseattle.edu/az.php?a=p){target='_blank'} by scrolling down a bit and search for the article.
 
 ## Do
 
 * Write a short response to your thoughts about what you've read this week.  Keep it simple. Think about what strikes you as important.  
-* post to [#week8 discussion](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/376203?module_item_id=1812124){target="_blank"}
+* post to [#Pyschotic Disorders](https://abormalpsychology2026.slack.com/archives/C0B57LCUE1Z){target="_blank"}
 * This week is heavier on reading, and less on writing.  But writing does improve our thinking.  You can always include your notes.
-
-* Write down 3 questions in your google doc and post 1 of them to the [student generated questions for discussion](https://canvas.seattlecolleges.edu/courses/32791/discussion_topics/376204?module_item_id=1812125){target="_blank"}
 
 
 
@@ -515,7 +519,7 @@ You'll need to use that reference information to obtain the full text, which can
 
 ```{block, type='instructorNote'}
 
-Brian will be out of town June 2nd and June 3rd
+Brian will be out of town June 2nd and June 3rd, however I might be able to have someone sit in
 
 ```
 
