@@ -1,0 +1,165 @@
+---
+title: "Personality in person"
+author: "Brian C. Holt, MA"
+date: "2026-05-24"
+output: html_document
+---
+
+# Psychological Disorders: Personality Disorders
+
+**Estimated time:** 90-105 minutes
+
+**Deliverable:** Personality Disorders Synthesis and Self-Evaluation
+
+# Part 1: Personality Disorder Integration Map
+
+Choose **one** personality disorder.
+
+Examples:
+
+- Borderline Personality Disorder
+- Narcissistic Personality Disorder
+- Antisocial Personality Disorder
+- Avoidant Personality Disorder
+- Obsessive-Compulsive Personality Disorder
+- Schizoid Personality Disorder
+
+Complete the table below.
+
+| Area | Notes |
+|---|---|
+| Defining symptoms / characteristics | |
+| Common interpersonal effects | |
+| Possible developmental pathways | |
+| Biological influences | |
+| Learning / environmental influences | |
+| Cognitive influences | |
+| Treatment approaches | |
+| Evidence supporting explanations | |
+| Evidence weakening explanations | |
+
+## Critical Thinking Check
+
+Evaluate your explanation using the standards:
+
+- Clear
+- Accurate
+- Precise
+- Relevant
+- Depth
+- Breadth
+- Logic
+- Significance
+- Fairness
+
+**Prompt:** Which standards are strongest in your explanation? Which are weakest?
+
+# Part 2: Competing Explanations Activity
+
+Choose **one** comparison pair.
+
+## Option A: Trait / Diagnostic Models
+
+Compare:
+
+**DSM description approach vs explanatory theories**
+
+Questions:
+
+1. What does each explain well?
+2. What does each miss?
+3. Which produces stronger predictions?
+
+## Option B: Narcissism Theories
+
+Compare:
+
+- Otto Kernberg
+- Heinz Kohut
+
+| Question | Notes |
+|---|---|
+| Source of pathology? | |
+| Role of relationships? | |
+| View of self-esteem? | |
+| Treatment implications? | |
+| Evidence strengths / weaknesses? | |
+
+## Option C: Etiology Comparison
+
+Compare two:
+
+- Trauma explanations
+- Biological vulnerability
+- Attachment
+- Learning theory
+- Cognitive models
+
+**Prompt:** Which explanation best accounts for personality pathology and why?
+
+# Part 3: Case Analysis
+
+Read the short case provided by instructor.
+
+For the case:
+
+1. What traits or symptoms appear present?
+2. What explanations fit best?
+3. What evidence would strengthen your interpretation?
+4. What evidence would weaken it?
+5. What alternative explanation exists?
+
+# Part 4: Prior Work Reflection and Self-Evaluation
+
+Review previous assignments from this course.
+
+## Depth
+
+Which assignment best demonstrates **depth of thinking**?
+
+Why?
+
+## Logic
+
+Which assignment best demonstrates **logical reasoning**?
+
+Why?
+
+## Relevance
+
+Which assignment best demonstrates **relevance to course goals**?
+
+Why?
+
+## Revision
+
+Which assignment would you revise if given another opportunity?
+
+What would you change?
+
+## Learning Reflection
+
+1. What have you learned about personality and psychological disorders?
+2. Which theory has most influenced your thinking?
+3. What remains confusing or unresolved?
+4. What question do you still have?
+
+# Final Submission
+
+Submit as:
+
+**Personality Disorders Synthesis and Self-Evaluation**
+
+Required sections:
+
+1. Personality Disorder Integration Map
+2. Theory Comparison
+3. Case Analysis
+4. Prior Work Reflection
+5. Final Learning Reflection
+
+# Late Work Rule
+
+Reflection may only use assignments submitted on time or before the reflection date.
+
+Late submissions completed after June 2 may not be retroactively incorporated into this evaluation.
